@@ -1,4 +1,4 @@
-# ANANTA — BOOK 2: RESONANCE (Chapters 21–23, in progress)
+# ANANTA — BOOK 2: RESONANCE (Chapters 21–23 — in progress)
 
 # CHAPTER 21 — WEDNESDAY (BOOK 2, Ch 1)
 

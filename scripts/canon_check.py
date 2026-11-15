@@ -123,7 +123,7 @@ def scan_file(path: pathlib.Path, is_reference: bool):
     return words, fails, warns
 
 def main():
-    files = sorted(CHAPTER_DIR.glob('*.md'))
+    files = sorted(f for f in CHAPTER_DIR.glob('*.md') if re.match(r'^ch-\d\d-', f.name))
     if not files:
         print('No chapter files found.'); sys.exit(1)
     total_fails = 0
