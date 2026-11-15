@@ -1,0 +1,13 @@
+# CH-24 — NUMBER FOUR (Book 2, Ch 4)
+- Second summons by signed hand-delivered cards to FOUR addresses; "Verification Review," buses from Maidagin, "funding decisions."
+- Plan: 2 in / 2 out — Rudra+Aadhya inside, Veer+Ira outside as street ops. Dadi ordered the news shared, not hidden.
+- Haveli inner wing converted: metal-detector arch at reception, named chair-labels, classroom = former map room, dais hums (sub-dais void occupied/active), doorless classroom.
+- Verification lamp: honeycomb glass plate; "Tuesday kid" overloaded all 8 apertures, went null afterwards (energy harvested).
+- Rudra's touch: lamp lit ONE green aperture only; beneath dais mechanism "recognized his footstep"; wall-boy's white temple-thread twitched sympathetically.
+- Officer's forced darkroom: sconces out; all cuffs phase-linked green dots; dark cleared as a "shelf" for sub-floor presence.
+- White-thread boy stealth-touches Rudra's old chest bruise in dark → ceiling 6ft pale-gold line flares; Rudra's fault-line opens 1mm, nearly answers; he holds breath+seals it. BIRJU stands up and intervenes: "yahan bachche ko haath lagana hai kya?" → lights back. Birju shift-seed confirmed.
+- Exit signal misfire (1 long 1 short bell); Veer+Ira enter mid-exit chaos; extraction clean, no public exposure.
+- Aftermath: Veer lifts' muscle memory; Ira maps wing to cm (floor under dais defies mapping); Aadhya debrief w/ Rukmini (seed/sunflower scene); Rudra bed till 10, chest seam "like fired grain," Dadi pulse-thumb + tulsi-seed palm seal.
+- Monday night: RAM FIGHTS ALONE at freight-yard chain-foot vs instructor + second cuffed agent; 83 seconds; disables one by wrist-strap; line "Instruments bas aankhein hain... aankhein bhi band hongi"; Diaphragm/rib injury flares — hidden from family.
+- Tuesday: Dadi observes Ram's slowed stair; keeps unwritten register ("she kept it").
+- End-state locks for ch-25: next Saturday is theirs too; Foundation agenda = out-of-building extraction; crew refusing further invitation.
