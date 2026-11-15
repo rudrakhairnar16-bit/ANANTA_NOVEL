@@ -1,0 +1,13 @@
+# CH-26 — THE FOUR HOUSES (Book 2, Ch 6; opens "Bloodlines" arc)
+- Post-battle quiet (3 days); Meridian in WATCH-ONLY mode by Delhi order.
+- Shastri-ji summons all four by handwritten chit: "Aaj shaam paanch baje. Sab. — S."
+- Library table rearranged, 6 chairs ring; the guru painting turned inward; cloth on the sixth chair conceals FOUR tamarind tokens (1983 file folder).
+- Institutional reveal scene: RAKSHAK (Veer), PRAKRITI (Aadhya), SAROKAAR (civil-records clan). FOURTH name deliberately unspoken; Dadi quietly removes one token.
+- Veer: grandfather's STEEL TIN of 1977 training manual ("Kal se tum padhna shuru karoge").
+- Aadhya: Prakriti elder appears Friday 5:30 AM; three-seed palm test — warmth germinates them in her closed fist ("yeh pehle se tha — ab tumhe pata hua").
+- Ira's question "aur mera?" answers: "Tumhara — abhi is file mein nahi hai." → her counter-principle: "File mein na likhna bhi ek file hoti hai." First one-on-one w/ Rudra: "Toh file nikal ke laana padega."
+- Sarokaar twist: the register-lady at the haveli = Sarokaar operative all along (recognized by pay/desk discipline).
+- Ram refuses "Chautha?" — "Baad mein. Abhi nahi." Shop unchanged as policy.
+- Delhi desk register: 4 tokens vs 3 registered → extra unlisted agent detected.
+- Birju leaves a marigold at their gate, wordless.
+- Locks for ch-27-30: Prakriti training weekly Saturday; Steel-tin reading starts; fourth name deferred; Ira dossier missing.
