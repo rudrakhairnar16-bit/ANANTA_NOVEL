@@ -1,5 +1,5 @@
 # Ch-51–55 ARC PLAN — "Swaroop Attempts" (bible heading verbatim)
-**Staging state: ch-51 opening chunk drafted (repaired, 1,430w) at `continuity-notes/ch-51-draft-a.md` — NOT yet assembled. PAUSED at session boundary after two quality-drift events (ch-50 a/b scrapped entirely; ch-51-a contained corrupted filler sentences, now scrubbed).**
+**Execution state: ch-51–55 COMPLETE, assembled and canon-checked, with individual chapter notes and regenerated Book-3 merged file. The original 1,430w staged opening at `continuity-notes/ch-51-draft-a.md` is preserved unchanged as a source artifact; residual incoherent connective prose was clarity-edited in the published ch-51, with the locked timetable, sand-demo progression and dialogue retained. Each chapter was drafted/reviewed in four short chunks. The historical staging checklist below is fulfilled; its canon names, order and beats are unchanged. Next: ch-56–58 battle.**
 
 ## Confirmed canon form-names (bible §2.7; checker gates now open at ≥51)
 - **Aadhya** — Epic State: SHAKTI → **SHAKTI: ADI SHAKTI** (ch-52, first to land, bible line 346)
