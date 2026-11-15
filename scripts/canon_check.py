@@ -92,6 +92,11 @@ def scan_file(path: pathlib.Path, is_reference: bool):
     if n == 20:
         prose = re.sub(r"it's starting\. everything i trained you for\. everything i was afraid of",
                        'LOCKPHRASE20', prose, flags=re.I)
+    # Ch 31-34 whisper lock release (Bible Part 12.5, user-approved 2026-11-14):
+    # the Prologue Lord's line "So the Asuran prince lives" is sanctioned ONLY
+    # inside this arc; it remains banned everywhere else.
+    if n in (31, 32, 33, 34):
+        prose = re.sub(r'so the asuran prince lives', 'LOCKPHRASE31_34', prose, flags=re.I)
 
     for pat, why in GLOBAL_BANS:
         for m in re.finditer(pat, prose, re.I):
