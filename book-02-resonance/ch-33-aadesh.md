@@ -39,7 +39,7 @@ The foundation's officer was finishing his morning chai when the carpenter came 
 
 Officers of the Crown-circle — of any circle, of any era — are trained to recognize the approach of secrets: by car, by envelope, by emissary, by subpoena. Nothing in their training covers the approach of a *father*, midweek, on foot, in sawdust.
 
-"R. Yadav," said the local officer, rising. Guards appeared in doorways with the quietness of good tools. The detection dial on the reception wall did not spin for this man. Nothing in him was of the governed kind they registered.
+"R. Vashisht," said the local officer, rising. Guards appeared in doorways with the quietness of good tools. The detection dial on the reception wall did not spin for this man. Nothing in him was of the governed kind they registered.
 
 "You keep machines," said Ram.
 
@@ -53,7 +53,7 @@ The officer did not answer. The dial, tellingly, did nothing, which was — the 
 
 "Main carpenter hoon," said Ram. "Main measure karke kaat-ta hoon. Kabhi galat nahi kaata pachaas saal mein, ek inch bhi. Abhi measure ho raha hai yeh sheher." He leaned in, not much. "Socho kaun dekh raha hai tumhara kaam hum par, aur hum na dekhin."
 
-Then, the thing that was entered into no district telling, but which four guards and six clerks witnessed and a Delhi incident-report would confirm three days later at fifty pages: Ram Yadav, carpenter, resident, laid his thumb flat on the brass face of the Foundation's front-desk detection dial — and pressed.
+Then, the thing that was entered into no district telling, but which four guards and six clerks witnessed and a Delhi incident-report would confirm three days later at fifty pages: Ram Vashisht, carpenter, resident, laid his thumb flat on the brass face of the Foundation's front-desk detection dial — and pressed.
 
 The dial's lens — calibrated, expensive, ordered from Delhi with a letterhead — **cracked**. Not outward, the way glass cracks when struck. The lens cracked *around* the shape of the thumb, dead-centred, obedienced, a blister of fracture in an otherwise smooth pane, as though the machine had been holding that flaw in for a long time, waiting for a permission that had finally been spoken.
 

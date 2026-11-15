@@ -181,7 +181,7 @@ Rudra's jaw moved. The frustration came up through him hot and orange *— and h
 
 Ram watched all nine without comment. Then: "Achha. Ginti pehle se lambi thi." *(Good. The count was longer than before.)* It was the first compliment of the new kind — not about what Rudra could do, but about what he could now *hold*.
 
-"Teen kaam hain mere paas," Ram said, and now he did stop, because this part had been prepared, and a Yadav preparing words is a rarer mechanism than any clock in the district. "Naam ke peeche koi pariksha rakhte nahi hum. Par *pad* ke peeche rakhte hain. Sun."
+"Teen kaam hain mere paas," Ram said, and now he did stop, because this part had been prepared, and a Vashisht preparing words is a rarer mechanism than any clock in the district. "Naam ke peeche koi pariksha rakhte nahi hum. Par *pad* ke peeche rakhte hain. Sun."
 
 One finger. "Pehla: us cheez ko — jo seene mein jaagi hai — ek poore ghante tak jaagne do, aur istemaal bilkul mat karo. Naam roshni *dene* mein nahi hai — roshni **sambhalne** mein hai: diya aandhi mein bhi jalta rahe, aur kisi aur ka kaam na kare — yeh mushkil hai. Yahi pehla kaam."
 
@@ -189,7 +189,7 @@ Second finger. "Doosra: ek baar — bina us cheez ke — peeth par gir ke dekho.
 
 Third finger. "Aur teesra: kisi aise ke liye wajan uthao jo kamzor hai — jahan koi dekh na raha ho. Koi praising nahi, koi register nahi. Tumhara kavach nahin — *tumhari peeth*."
 
-"Yeh teen kaam," he added, after the tank had gone fully black beside them, "maine bhi kiye the. Tumhare dada ne rakhe the mere saamne — bus itna hi batata hoon unke baare mein ki woh rekha kheenchne waale the, aur rekha ke doosri taraf khade rehna unhone mujhe sikhaya tha, nahi unki taraf aana." He said it without heat, the plainest inheritance-summary a Yadav had yet voiced aloud. "Main ek cheez aur kehta hoon kyunki tum bade ho gaye ho: teeno kaam mein se koi bhi tumhari *taakat* par nahi hai. Teeno tumhare **dhaarne** par hain. Jis din tum samajh jaoge ki rakha jaana hi asli zor hai — us din humein waapas baithna hai."
+"Yeh teen kaam," he added, after the tank had gone fully black beside them, "maine bhi kiye the. Tumhare dada ne rakhe the mere saamne — bus itna hi batata hoon unke baare mein ki woh rekha kheenchne waale the, aur rekha ke doosri taraf khade rehna unhone mujhe sikhaya tha, nahi unki taraf aana." He said it without heat, the plainest inheritance-summary a Vashisht had yet voiced aloud. "Main ek cheez aur kehta hoon kyunki tum bade ho gaye ho: teeno kaam mein se koi bhi tumhari *taakat* par nahi hai. Teeno tumhare **dhaarne** par hain. Jis din tum samajh jaoge ki rakha jaana hi asli zor hai — us din humein waapas baithna hai."
 
 He folded the fingers down. "Jab teeno ho jayein, aa jana. Main kholunga."
 

@@ -192,7 +192,7 @@ Ram had already guessed before the window came down. Guessed for nineteen years.
 
 And his son stood beside him, not seeing the bridge's smoke or the river's rope — watching the face it had cost nineteen years to learn to watch — and saw in it the door open on the room he had been petitioned all his youth to leave shut.
 
-"It's starting." Ram Yadav said it in English, evenly and without breathiness, the way weathered men conclude a memorandum they have carried a lifetime; and then — speaking it to the bridge-tower, and then over the river, and then so as to give it entirely to his son beside him and not at all across the city — *"It's starting. Everything I trained you for. Everything I was afraid of."*
+"It's starting." Ram Vashisht said it in English, evenly and without breathiness, the way weathered men conclude a memorandum they have carried a lifetime; and then — speaking it to the bridge-tower, and then over the river, and then so as to give it entirely to his son beside him and not at all across the city — *"It's starting. Everything I trained you for. Everything I was afraid of."*
 
 And in that exact half-minute, in four separate houses across the city, four people stopped what they were doing, heart-first.
 

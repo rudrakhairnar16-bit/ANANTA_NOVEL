@@ -204,7 +204,7 @@ Below him the river negotiated its channels. Somewhere far and damp, in the grid
 
 Then he went home, alone, at walking pace, as if at a funeral nobody had announced.
 
-Two turns from home, Ram Yadav's door opened on a lantern held by a hand more steady than any face at eleven at night should have to be greeted by.
+Two turns from home, Ram Vashisht's door opened on a lantern held by a hand more steady than any face at eleven at night should have to be greeted by.
 
 He said, to nobody in particular, into the vestibule's air: "Rukmini. Paani nikalo."
 

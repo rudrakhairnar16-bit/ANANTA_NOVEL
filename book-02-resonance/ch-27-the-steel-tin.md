@@ -59,7 +59,7 @@ Ira's file-hunt began where hunts begin in this district — the municipal recor
 
 "Aapko exactly kya chahiye?" Female clerk. Middle-aged. Swivel chair. Thirty-year-tincture absolute awareness.
 
-"Ira Karim. Birth record. Nineteen."
+"Ira Mishra. Birth record. Nineteen."
 
 The year-books were brought down. Entries pursued with precise forefinger: K, Ka, Kar. Nothing under her name. She had known it since she was six — and she made her neat healthy marginal dot on the page anyway, in case anyone at the adjacent shelves was keeping the collective presence of request patterns. The clerk caught the cadence.
 

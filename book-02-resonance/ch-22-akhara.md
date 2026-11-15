@@ -116,7 +116,7 @@ He walked home — no limp tonight; that was later — wrote the milk order on t
 
 **Yudh abhi shuru hua hai.**
 
-On the roof-pipeline of the same sleeping city that night — two kilometers across the rooftops feeding his lower step every Sunday from the smaller sewage of a light-grid anxious Tuesday — Rudra Yadav slept the deep sleep of a boy whose week had plainly ended: no nightmares, no climbing re-calculation of alarms, only the plain division of himself back among the ordinary dreams. His own fists were in front of his chest, fisted tight around nothing. On the desk near him, in a hard-bound khata, the nero-black notebook-page he had closed after his father's voice in the stair-well lay open to some white spaces of night from Wednesday:
+On the roof-pipeline of the same sleeping city that night — two kilometers across the rooftops feeding his lower step every Sunday from the smaller sewage of a light-grid anxious Tuesday — Rudra Vashisht slept the deep sleep of a boy whose week had plainly ended: no nightmares, no climbing re-calculation of alarms, only the plain division of himself back among the ordinary dreams. His own fists were in front of his chest, fisted tight around nothing. On the desk near him, in a hard-bound khata, the nero-black notebook-page he had closed after his father's voice in the stair-well lay open to some white spaces of night from Wednesday:
 **Kal ayega. Kal kuch zayaada nahin toh bilkul zaroor hoga**, he'd written plainly;
 
 And below it, puzzled at by nobody, one cleanly-pencilled line of arithmetical arrival — four figures, in a childlike upright hand:

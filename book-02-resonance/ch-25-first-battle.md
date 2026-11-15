@@ -36,7 +36,7 @@ status: FIRST DRAFT (post-check pending)
 
 It came on Friday, not Saturday. Of course it came on Friday.
 
-Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Yadav boy without a building involved was to make the building involved. So they chose the river.
+Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Vashisht boy without a building involved was to make the building involved. So they chose the river.
 
 Friday at eleven AM the eastern ghats were shuts, quietly, by order of Heritage Protective Works — brass boards at both ends of Dashashwamedh's lower flight, men in good uniforms taking compasses across the stone, and about three hundred pilgrims re-routed through the tank lanes with the perfect mildness which carried more information than bribes. By eleven-fifteen Aadhya had the exact outline of the cordon in her head, because the cordon had been made with the district-mapping inverted triangles she knew from her own diary: north cordon, south cordon, and a precision *nothing* where the third side should have been. The riverside opening.
 

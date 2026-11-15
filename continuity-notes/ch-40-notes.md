@@ -22,4 +22,4 @@
 
 ## Hand-off to Book 3 (NOT started — outside loop scope)
 - Bible Book 3 (ch 41–60): mentors Vedant/Dhruv/Sitara arrive 41–45 (names banned before); Aegis Meridian NAME may now be spoken (placement ban was <9); seven-storey structure of the world can begin revealing per bible pacing; Rukmini's one-word-never-spoken stays sealed until Saga 3; unfinished SIXTH place = Book 3 question; Ira's "wire" destiny arches toward her Kul mystery (Saga 3); the Right Hand near-kills Rukmini at Book-3 climax (ch-60 era).
-- OPEN UNRESOLVED (flagged to user): ch-31 "Yadav-ka-beta" surname vs bible (Ram = Daavansh cover name?) — needs user ruling before Book 3 drafting hardens surnames.
+- OPEN UNRESOLVED (flagged to user): ch-31 "Vashisht-ka-beta" surname vs bible (Ram = Daavansh cover name?) — needs user ruling before Book 3 drafting hardens surnames.

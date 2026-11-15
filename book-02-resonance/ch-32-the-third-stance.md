@@ -252,7 +252,7 @@ The hour had arrived.
 
 Ram did not go inside to see his son first. The district would hold that against him for a day, until the tellers understood — he had gone **to where the fight would be**, and the order of his duties was a grief no one should have to explain.
 
-"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Yadav turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
+"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Vashisht turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
 
 The whisper had reached its proper ears.
 

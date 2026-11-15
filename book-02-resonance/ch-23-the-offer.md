@@ -147,7 +147,7 @@ They rose, folded chairs, and the four walked out through the rich warm salon do
 
 Only at the tea table, redirected like visitors were issued three stalls of sweets rather than one. The fourth was a neatly sealed paper envelope with a name typed in front, reading merely:
 
-**R. Yadav**
+**R. Vashisht**
 
 A gift by bureaucracy. By envelope under it.
 

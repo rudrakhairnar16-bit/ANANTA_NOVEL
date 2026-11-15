@@ -255,7 +255,7 @@ Anticipation.
 
 Then, as the bell-dark began — not to fade; to *tilt*, the way waking tilts a dream out from under you:
 
-"Hamara samay ho gaya hai, Yadav-ka-beta. Taala kholne ka waqt dheere-dheere aa raha hai. Aur sun — " quieter; almost tender; the sound of a hand resting briefly on a shoulder through glass: "usse mat poochna ki woh kaun hai. **Khud se poochna ki tum kis taraf ke taale ho.**"
+"Hamara samay ho gaya hai, Vashisht-ka-beta. Taala kholne ka waqt dheere-dheere aa raha hai. Aur sun — " quieter; almost tender; the sound of a hand resting briefly on a shoulder through glass: "usse mat poochna ki woh kaun hai. **Khud se poochna ki tum kis taraf ke taale ho.**"
 
 The bell rang.
 

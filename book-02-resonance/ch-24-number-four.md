@@ -14,7 +14,7 @@ Dadi signed for Rudra's. She read it twice, folded it once, placed it under her 
 By noon the four had the same card in four separate hands. Wording, identical:
 
 **MERIDIAN FOUNDATION — Youth Division**
-**invites the following: R. Yadav / M. Ansari / A. Sharma / I. Karim**
+**invites the following: R. Vashisht / M. Dikshit / A. Sharma / I. Mishra**
 **Saturday, 10 AM — Verification Review. Buses from Maidagin crossing.**
 **Attendance kindly requested so that funding decisions may be finalized.**
 
@@ -36,7 +36,7 @@ Rudra and Aadhya, inside. Veer and Ira, outside — city side, street side — w
 
 Inside the haveli at ten past ten the atmosphere was changed from Tuesday: fewer flowers, more officiants. The reception desk now possessed a metal detector-arch of modest size — probably kitchen equipment, definitely kitchen equipment — and the smiling desk-girls didn't ask names. They *had* names.
 
-"Rudra Yadav," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
+"Rudra Vashisht," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
 
 The classroom was the second room of the old inner wing — the one Ira's rezoning notes called "the map room," from its south light — and forty-eight chairs now held twenty-two students. Fifteen faces the crew did not recognize; seven they did, from the lecture list. It smelled of turpentine and cardamom tea kept too long on a hot plate.
 
@@ -90,7 +90,7 @@ The lamp lit once. Pale green. One aperture only — one of eight — and the of
 
 And from under the floor, a fraction of a second after the glass went dark, something answered him — something he felt only against his own chest's seam, which gave one small deep pull like a thread taken between teeth — and the white thread on the wall-boy's wrist twitched, unasked, in the corner of Rudra's sight.
 
-He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Yadav boy, the same card value as a slow cousin from the Tuesday batch.
+He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Vashisht boy, the same card value as a slow cousin from the Tuesday batch.
 
 Behind him Aadhya exhaled without movement. *Third seat. Watch the wall.*
 

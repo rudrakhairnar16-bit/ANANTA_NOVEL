@@ -65,7 +65,7 @@ and beneath it, smaller, almost rubbed away by whoever had last held it between 
 
 Ira's breath came once, shallow. She closed the pouch without removing anything, and only then looked at the sign-out card still wired to the shelf-pin. One entry. One single entry in forty-three years:
 
-**"14.11.1983 — R. YADAV, Survey Assistant, MCD — reason: SURVEY VERIFICATION — return date: —"**
+**"14.11.1983 — R. VASHISHT, Survey Assistant, MCD — reason: SURVEY VERIFICATION — return date: —"**
 
 The return line was blank. Beneath the card, in the manifest's own ruled column, a rubber stamp repeated itself in a patient blue column of identical verdicts, one for every audit year, fading from violet 1984 to the resent bright purple of last Thursday:
 
@@ -83,7 +83,7 @@ On the steps outside, in the sun, the recorder-lady permitted exactly one conver
 
 "Kabhi nahi." The old woman looked across the road at nothing, precisely the way a person looks when they are seeing forty years. "Har saal stamp hota hai. *Anveshan jaari.* Sun — jis cheez ki sachmuch talash chalti hai, woh milti ya kho jaati hai. Stamp sirf tab chalti hai jab koi nahi chahta ki cheez mile. Stamp bol rahi hai: *yeh raaz abhi zinda hai, door rakho.*"
 
-"R. Yadav," Ira said quietly. "Ram ke pitaji."
+"R. Vashisht," Ira said quietly. "Ram ke pitaji."
 
 "Hmm." Nothing in the old woman's face confirmed it; nothing denied it. "Surveyor the. Rekha kheenchte the. Sheher mein ab bhi simayen hain jo unki tainat ki hui hain. Log un par ghar banaate hain, bhuele." She adjusted her sari's end over her shoulder. "Jaanti ho kya hai survey ka kaam, bitiya? Pehle rekha kheenchna. Taaki baad mein koi aur na kheenche."
 
@@ -106,7 +106,7 @@ The Right Hand read it twice. Then he took his grey pencil — the thin one he s
 
 He turned to his own trip-register and laid the facts out in his flat, unhurried hand:
 
-> *1983: box signed out by R. Yadav, Survey Assistant, this district. Never returned. Never genuinely pursued.*
+> *1983: box signed out by R. Vashisht, Survey Assistant, this district. Never returned. Never genuinely pursued.*
 > *1983: the same year four tamarind tokens went into a sealed file.*
 > *Present: the surveyor's son builds furniture two lanes from the temple tank. Dovetails perfect. Glue-lines invisible. A man who decides what a piece of wood IS before he measures what it can be made to carry.*
 
@@ -118,7 +118,7 @@ He wrote one more line and boxed it:
 
 > **"DO NOT hunt the box. Hunt the man who decided the box was no longer safe where it lay. The box was tin. The decision — that was the vault."**
 
-Then he did something nobody in the Foundation's local office would have believed of him: he put on his ordinary civilian kurta, walked the length of the bazaar at dusk, and stood across the road from Ram Yadav's furniture shop for the length of one cigarette he never lit, simply watching.
+Then he did something nobody in the Foundation's local office would have believed of him: he put on his ordinary civilian kurta, walked the length of the bazaar at dusk, and stood across the road from Ram Vashisht's furniture shop for the length of one cigarette he never lit, simply watching.
 
 A boy passed under the streetlamp — Rudra, groceries on his shoulder — and the Right Hand's eyes went, with the third-of-a-second speed of a trained witness, to the boy's shadow as it crossed the lamp's angle.
 
@@ -163,7 +163,7 @@ The plane stopped.
 
 Not dramatically — Ram had spent thirty years making sure nothing about him ever stopped dramatically — but the ribbon of wood shavings thinning to nothing, the plane iron standing still an inch above the grain: in that shop, where work had never once halted mid-stroke, it was as loud as a shout.
 
-"Box ki baat nahi kar raha main," the Right Hand continued, mild as milk. "Sign ki baat kar raha hoon. Aadmi ka sign uski niyat hota hai. Tumhaare pitaji — jab woh likhte the *R. Yadav* — kis niyat se likhte the?"
+"Box ki baat nahi kar raha main," the Right Hand continued, mild as milk. "Sign ki baat kar raha hoon. Aadmi ka sign uski niyat hota hai. Tumhaare pitaji — jab woh likhte the *R. Vashisht* — kis niyat se likhte the?"
 
 Ram looked at him fully for the first time.
 
@@ -231,7 +231,7 @@ Ira told it flat, the way she reported everything: the dust rectangle, the seven
 
 Nobody interrupted her. When she finished, the roof held one of its silences — the kind in which the district's water-tanks and satellite-less antennas and temple flag all seemed to lean in, listening.
 
-"R. Yadav," Veer said at last. It was not a question.
+"R. Vashisht," Veer said at last. It was not a question.
 
 "Mere dada," Rudra said.
 
