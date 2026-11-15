@@ -1,0 +1,14 @@
+# CH-25 — THE FIRST BATTLE (Book 2, Ch 5; closes "Aegis Rising" arc)
+- Friday ambush, not Saturday: ghats cordoned under fake "Heritage Protective Works" order; three-sided trap with river side left open (verification ground).
+- Command-rank agent w/ heavy gunmetal-ceramic CUFF (vs akhara bracelet-class; calibrated officer). Water column raised off Ganga surface.
+- Rudra divides the strike — hand out, chest seam sealed; crowd witnesses: **"Wo ladke ne paani rok diya."** First public miracle, name enters city.
+- Aadhya runs battle-coordination from tea-stall roof: 11 micro-rearrangements of carts/stalls break cordon geometry in an hour. Ira on rooftop ledger: cuff recharge 9 sec, lookout relay patterns.
+- Dadi blocks agent-squad with stick line: "Mujhe haath lagaya toh tulsi bageeche se likh loge."
+- Veer open fight: thrown twice, gets up, third lock = unthrowable; crowd "Shaabash"; parallel count w/ Rudra's river-call behind his right shoulder — 2,000 kg water strike takes agent down into the stone.
+- Birju appears cuffless (red broken-band mark on forearm), public handshake: **"Yeh sheher mera bhi hai"** → defection seed advanced.
+- Photo headline xerox-spread: "YUVA RAKSHAK — GANGA KE BETA." City files the miracle in one afternoon (Banaras speed).
+- Officer's desk report EVENT 01R/B-23; Delhi call: suspend drills → WATCH-ONLY mode 72 hrs; asks whose signature is on original signal documentation.
+- Kavach: crack worsening — Ira's ledger flags "agli baar 'ruk' nahin hoga."
+- Ram arc: secret night rounds 11 PM–1 AM begin after Monday freight victory; midwife-aid treatment (tape/plaster; "dard ko ghar pe rakho"); hides ribs from family; Rukmini silently counts lamp-oil; Dadi keeps unwritten register.
+- Ram-Rudra corridor meal coda; father knows son felt the bandaged wrist.
+- Arc closed: "Pehli ladai khatam." Next beats ch 26–30 (see bible fetched lines).
