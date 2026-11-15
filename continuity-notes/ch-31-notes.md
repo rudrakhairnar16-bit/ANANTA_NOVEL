@@ -2,7 +2,7 @@
 **Final: 4,334w — canon check PASS.** First chapter under Part 12 (v10) style system. "The Right Hand" arc (ch-31–34) OPEN.
 
 ## Style devices delivered (per playbook)
-- ✅ KGF EPIGRAPH: Delhi field-desk transcript 31R, margin "second page missing, sir" + cut line: *"— us raat sheher haar gaya." "— Aur jeeta kaun?" "— [line damaged]"*
+- ✅ LEGEND-FIRST EPIGRAPH: Delhi field-desk transcript 31R, margin "second page missing, sir" + cut line: *"— us raat sheher haar gaya." "— Aur jeeta kaun?" "— [line damaged]"*
 - ✅ NON-LINEAR COLD OPEN: worst defeat frame (Veer on knee w/ split baton staring at right foot; Aadhya's vine-wall *letting go*, nails bleeding, word stuck; Ira's pencil frozen over struck-through **0**; Rudra standing w/ seam lit **red-black pulsing off-timing**; silhouette undescribable; lamps flicker patternless) → **"Forty-eight hours earlier, the district had been at peace."**
 - ✅ Cliffhanger close: inner-space voice + *"the man opened his mouth to speak — and the district held its breath."* (whisper lands ch-32, single-witness plan: Dadi)
 - ✅ Punch lines quota: "Jeeta kaun — [line damaged]"; "EVERYTHING IS IN FILES."; "Aah. Toh sach hai."; "Khud se poochna ki tum kis taraf ke taale ho."
@@ -28,7 +28,7 @@
    - **Ira's air-pulse trick returned 0** — written, struck through twice, page torn: **no pulse, moving, speaking, warm to lamps.**
    - **Rudra's full burst CAUGHT "like a shawl over a shoulder"**; colourless air; dust settling in compass circle; man's line: **"Aah. Toh sach hai."** (recognition, quieter than surprise).
    - **BREATH COUNT BROKE** mid-fall ("ek… do… nothing. The count was gone.") — playbook lock ✅.
-7. **INNER SPACE FIRST CONTACT (Ichigo×Gon packet):** "inside of a held brass bell"; seam = stitch-light pulsing off-rhythm = **anticipation**; THE VOICE uses **perfect joinery grammar** (dry-set dovetail sentences). Locked lines:
+7. **INNER SPACE FIRST CONTACT (inner-growth packet, bible 12.4):** "inside of a held brass bell"; seam = stitch-light pulsing off-rhythm = **anticipation**; THE VOICE uses **perfect joinery grammar** (dry-set dovetail sentences). Locked lines:
    - "Arre. Toh tu andar aa gaya."
    - "Baap ne sikhaya ya tune baap se *churaya*?"
    - "Tape se bandi cheez kabhi apna faisla nahi karti."

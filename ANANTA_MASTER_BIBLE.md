@@ -43,7 +43,7 @@ You are a professional novel-writing AI agent. Your task is to write the complet
 **Setting:** 2026, Varanasi, India (simple, real, grounded)
 **Format:** 15 Books × 20 Chapters × ~5,000 words = 300 chapters total
 **Structure:** 5 Sagas × 3 Books per Saga × 20 Chapters per Book
-**Tone:** Dark, atmospheric, character-driven. Think Naruto's emotional depth + Bleach's power system + Attack on Titan's layered mystery + Dragon Ball Z's escalating scale.
+**Tone:** Dark, atmospheric, character-driven. A serialized coming-of-age epic's emotional depth + a sealed-power system's discipline + a layered generational mystery + a war-saga's relentlessly escalating scale.
 **Audience:** Young Adult / New Adult (16-30)
 
 ### THE PREMISE (Agent Summary):
@@ -1075,15 +1075,15 @@ The gods remember. Humanity forgets. Write accordingly.
 7. **DIALOGUE SUBTEXT:** scenes talk about X while meaning Y (Ch-29 stool scene = gold standard).
 8. **VILLAIN AS HUMAN:** antagonists get warmth/cracks WITHOUT POV chapters (see 12.3 override) — shown via actions, logs, epigraphs.
 
-### 12.2 NARUTO-STYLE MAPPING (APPROVED)
-- **Rock Lee spotlight chapters:** solo underdog fight episodes in rotation — **Veer first (Ch-32)**, Aadhya/Ira later. Mid-battle memory/flashback device allowed (dada's tin/manual for Veer).
-- **Bell-test lineage:** Dadi's three stances = Kakashi-style teachable units; stance-3 = "make stances 1 and 2 fight each other."
-- **Talk-no-jutsu inverted:** philosophy battles = interviews; each conversation a chess move (Ch-28/29 precedent).
-- **Akatsuki slow-reveal:** Crown-circle figures teased one silhouette/object at a time — NO names (bible-safe).
-- **Village-as-character ritual beat:** every arc ends with the district's *afwah* (rumor) reaction spread (xerox headline = precedent).
-- **Parents-mystery drip:** Naruto-slow, never dumped (Rudra origin / Rukmini pale-gold stay bible-gated: Ch-39 / Saga 2 / Saga 3).
+### 12.2 UNDERDOG-SERIAL MAPPING (APPROVED)
+- **Perseverance-hero spotlight chapters:** solo underdog fight episodes in rotation — **Veer first (Ch-32)**, Aadhya/Ira later. Mid-battle memory/flashback device allowed (dada's tin/manual for Veer).
+- **Bell-test lineage:** Dadi's three stances = mentor-style teachable units; stance-3 = "make stances 1 and 2 fight each other."
+- **Long-conversation antagonists, inverted:** philosophy battles = interviews; each conversation a chess move (Ch-28/29 precedent).
+- **Shadow-council slow-reveal:** Crown-circle figures teased one silhouette/object at a time — NO names (bible-safe).
+- **City-as-character ritual beat:** every arc ends with the district's *afwah* (rumor) reaction spread (xerox headline = precedent).
+- **Parents-mystery drip:** slowest possible drip, never dumped (Rudra origin / Rukmini pale-gold stay bible-gated: Ch-39 / Saga 2 / Saga 3).
 
-### 12.3 KGF CH.1-STYLE MAPPING (APPROVED, with one OVERRIDE)
+### 12.3 LEGEND-FIRST MAPPING (APPROVED, with one OVERRIDE)
 - **FUTURE-DOCUMENT EPIGRAPHS — EVERY CHAPTER (user-approved "haan, har chapter mein"):** chapter opens with 2–4 lines from an in-world artifact future-dated or rival-sourced — Ira's register, Right Hand's notebook, Delhi file-excerpt, district rumor sheet. Then the chapter shows the truth behind the legend. *(NOT a full journalistic frame — epigraph device only.)*
 - **INTERVAL-BANG:** each arc's middle = one mega set-piece that flips the power balance.
 - **PUNCH-DIALOGUE QUOTA:** 1–2 mic-drop lines per chapter, placed at turns ("Box khali hai. Hum bhare hain." / "Pehli baithak muft." = precedent).
@@ -1092,19 +1092,19 @@ The gods remember. Humanity forgets. Write accordingly.
 - **PROSE-BGM rule:** battle = short percussive sentences ("Bees second. Pair nahi move."); emotion = long melodic sentences.
 - **USER OVERRIDE — VILLAIN POV:** PART 6 allows occasional Right Hand POV chapters; user has **DENIED** Right Hand POV for Ch-31–34. He remains external mystery; notebook glimpses permitted ONLY as epigraphs. (Later-saga villain POV needs fresh user sign-off.)
 
-### 12.4 MENTAL EVOLUTION PACKET — RUDRA = ICHIGO × GON (user-requested)
+### 12.4 MENTAL EVOLUTION PACKET — RUDRA'S INNER GROWTH SYSTEM (user-requested)
 1. **INNER SPACE:** under deep stress/sleep Rudra drops into "the inside of a held bell" — the stitch-gap silence of the seam. A VOICE taunts in workshop/survey grammar only ("Tu mujhe band rakh raha hai… ya mujhSE? Taala hai tu. Par taala kis cheez ka?"). NEVER names, realms, origins (all bans hold). Hooks back to Ch-28's "He is not a battery. He is a lock."
-2. **HOLLOW-MASK TIMER = BREATH COUNT:** baseline locked at **9 breaths (Ch-30)**. Growth meter shown; **Ch-31: the count BREAKS for the first time.**
-3. **GON-VS-HANZO RULE:** Ch-31–32 defeat choreography — Rudra continues fighting when winning is impossible. Aftermath rule: **scars, not power-ups.** "Main thehrunga" re-defined each arc (Ch-31 learn: theherna ≠ jeetna; sometimes it means watching yourself break and getting up).
-4. **HxH CONSEQUENCE REALISM (body ledger):** Aadhya=nails bleed; Rudra=kavach seam growth (visible, cumulative); Veer=injuries persist realistically; Ira=over-reading cost (register tremor). No free power, ever.
-5. **RAGE SEED (Gon-Pitou mode):** first **COLD** fury in Ch-31 (not hot). Full dark mode RESERVED for Saga 2/3 — only the seed now. Keep subtle.
+2. **HOLD-TIMER = BREATH COUNT:** baseline locked at **9 breaths (Ch-30)**. Growth meter shown; **Ch-31: the count BREAKS for the first time.**
+3. **BROKEN-ARM RULE:** Ch-31–32 defeat choreography — Rudra continues fighting when winning is impossible. Aftermath rule: **scars, not power-ups.** "Main thehrunga" re-defined each arc (Ch-31 learn: theherna ≠ jeetna; sometimes it means watching yourself break and getting up).
+4. **CONSEQUENCE LEDGER (body ledger):** Aadhya=nails bleed; Rudra=kavach seam growth (visible, cumulative); Veer=injuries persist realistically; Ira=over-reading cost (register tremor). No free power, ever.
+5. **RAGE SEED (dark mode):** first **COLD** fury in Ch-31 (not hot). Full dark mode RESERVED for Saga 2/3 — only the seed now. Keep subtle.
 6. **NARRATION MATURITY TRICK:** Rudra-POV sentences lengthen/cool gradually from Ch-31 onward — the prose itself grows up with him.
 
 ### 12.5 CH-31–34 EXECUTION LOCK
 - **Ch-31 opening:** EPIGRAPH = Delhi war-room excerpt, cut mid-line ("— us din sheher haar gaya. Aur haar ke baad bhi…"). COLD OPEN = worst defeat frame at ghats (Veer on one knee; vine-wall torn; seam glowing WRONG; a silhouette nobody describes). REWIND: **"48 GHANTE PEHLE."**
 - **ATTACKER = THE PROLOGUE LORD (bible).** As-written reconciliation: the city's documentation officer (arrived Ch-27; "Right Hand of the Crown-circle") does **not** recognize this signature — *kuch Foundation se bhi upar aa raha hai.* His register fails to ID the attacker. (Identity/relationship between in-city officer and Prologue Lord = deliberate open thread for user sign-off later; do NOT resolve on-page without user.)
 - **WHISPER LOCK RELEASED AT CH 31–34 ONLY:** "So the Asuran prince lives" — heard by ONE witness; Rudra doesn't understand; Ram does → **Ram is furious** (bible beat). Checker allowance added (mirrors Ch-17/Ch-20 masking) for chapters 31–34 only; phrase wiped from all other chapters.
-- **Ch-32 = Veer spotlight** (first approved rotation episode): his Rock-Lee fight mid-attack + dada's manual flashback mid-battle.
+- **Ch-32 = Veer spotlight** (first approved rotation episode): his perseverance-hero fight mid-attack + dada's manual flashback mid-battle.
 - **Interval-bang:** the 2-chapter battle (31–32) is the arc's mid-flip; Ch-33 = costs/Ram-furious chapter; Ch-34 = regroup + **afwah ritual beat** closing.
 - Cliffhanger closes on all four.
 
