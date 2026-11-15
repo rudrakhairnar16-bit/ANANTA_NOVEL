@@ -5,7 +5,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 21 —  (BOOK 2, Ch 1)
+# CHAPTER 21 — WEDNESDAY (BOOK 2, Ch 1)
 
 The first thing Wednesday morning established, with the neutrality of a municipal notification, was that nothing had happened.
 
@@ -282,11 +282,7 @@ Then he slept. And outside Ram's door, at three AM, somebody was still awake, st
 
 **Kal se sheher nahin ginta. Kal se ladai hai.**
 
- 21
-
 **Kal se sheher nahin ginta. Kal se ladai hai.**
-
- 21
 
 ---
 
@@ -302,7 +298,7 @@ Thursday brought the flyer.
 It was handed out at college gates and paan shops and the wrestling pit's fence — yellow paper, well printed, a colour-blocked sun over a stylized river:
 
 **MERIDIAN FOUNDATION presents**
-**OPEN  — All Banaras Challenge**
+**OPEN AKHARA — All Banaras Challenge**
 *India's youth, India's strength. Open wrestling bouts at the old riverside ground. Prize ₹5,000 for any local who lasts three full minutes with our State Champion. This Saturday after the public lecture.*
 
 Every chai stall in the district got fifty copies. They did not go home with their evening count. People want to see things the city can now afford to look at: an akhara opening, a prize, India's name folded three times into third person.
@@ -583,8 +579,6 @@ And below that entry, in the same dry hand, the single unalterable truth which n
 
 *Re-scan, Sunday to Thursday. Shehar ke number ab yudh par hai.*
 
- 22
-
 ---
 
 ---
@@ -592,7 +586,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 23 — THE  (Book 2, Ch 3)
+# CHAPTER 23 — THE OFFER (Book 2, Ch 3)
 
 Sunday belonged, officially, to silence.
 
@@ -926,8 +920,6 @@ In Ira's final ledger for the night, one line only, written in her strictest har
 
 Somehow, in the Foundation's second office — an ordinary rented Meerut floor four storeys up from nobody's attention — a desk-paasding paper was taken off the night clerk's stack and forwarded upward, flagged high, preserving the twenty-year-old tradition of one habit the strongest organizations all keep: they notice.
 
- 23
-
 ---
 
 ---
@@ -935,7 +927,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 24 — NUMBER  (Book 2, Ch 4)
+# CHAPTER 24 — NUMBER FOUR (Book 2, Ch 4)
 
 The second notice came on Thursday morning — not by flyer but by the thing Banaras actually obeys: a printed card delivered by hand to four exact addresses, one after another, by a polite bicyclist in a gray half-sweater who waited for each signature the way milkmen wait for bottles.
 
@@ -1222,8 +1214,6 @@ Agla Saturday humara din bhi hai.**
 
 ---
 
- 24
-
 ---
 
 ---
@@ -1260,7 +1250,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 25 — THE FIRST  (Book 2, Ch 5)
+# CHAPTER 25 — THE FIRST BATTLE (Book 2, Ch 5)
 
 It came on Friday, not Saturday. Of course it came on Friday.
 
@@ -1517,8 +1507,6 @@ They never said he was the guru, but the wheel's subsidies of the supportive ryo
 
 Somewhere down at the four Dak-shan of the aisles' marriage of silver, Sleepe softly — the child-man asleep in the same warder of his mother's silence lullabies unharmed. Where the district dreamt thereafter of Fridays.
 
- 25
-
 ---
 
 ---
@@ -1526,7 +1514,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 26 — THE FOUR  (Book 2, Ch 6)
+# CHAPTER 26 — THE FOUR HOUSES (Book 2, Ch 6)
 
 For three days after the battle the city performed its oldest trick: it forgot loudly.
 
@@ -1556,7 +1544,7 @@ And Shastri-ji waited another full half-minute after the hour, till the sun cros
 
 He began with a pot of tea, which he brewed himself — a thing nobody had seen him do for a living rhodamonte before thirty-first among Rabbi municipalities within consideration of a living. Then he took from the manila cabinet behind the desk — never opened in the memory of any student — a file folder, and from the folder an envelope annotated in its small elderly hand:
 
-**THE FOUR  — my lecture notes. Drafted 1983. Never delivered.**
+**THE FOUR HOUSES — my lecture notes. Drafted 1983. Never delivered.**
 
 Dadi, from her seat, set the context first in her own voice, steady as oil: "Har gharane ka kaam hota hai, and four ka uske comfort small bachi-safety ka jewe clan repeated quickly sundar of these houses."
 
@@ -1845,8 +1833,6 @@ Ira's last line at midnight, at her own desk, small and blunt and carefully meas
 
 *Second Saturday onward, their notes of four houses were the first treaties the city had held.*
 
- 26
-
 ---
 
 ---
@@ -1854,7 +1840,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 27 — THE STEEL  (Book 2, Ch 7)
+# CHAPTER 27 — THE STEEL TIN (Book 2, Ch 7)
 
 The steel tin was opened for the first time on Sunday morning, at half past seven, with Veer's grandmother standing at the door of the household's smallest room like a magistrate supervising the opening of a sealed account.
 
@@ -2034,8 +2020,6 @@ Ira kept her own accounts through the whole week — the count of watches, the c
 
 Across the district the lamps went off in order, and Banaras slept like a library that is built of its own answers.
 
- 27 27
-
 ---
 
 ---
@@ -2043,7 +2027,7 @@ book: 2 — ANANTA — RESONANCE (Saga 1 continuation)
 status: FIRST DRAFT (post-check pending)
 ---
 
-# CHAPTER 28 — THE FOURTH  (Book 2, Ch 8)
+# CHAPTER 28 — THE FOURTH NAME (Book 2, Ch 8)
 
 Tuesday began with the shop closed an hour late. Banaras noticed. Shops in that lane open at nine even on their own wedding days; the observation ran down the gutter like a small important water: *Ram-ji aaj nahi khule.*
 
@@ -2276,23 +2260,19 @@ It meant, too, that he had begun to believe the district other prehensiles.
 
 Wednesday died slowly into Thursday. The district performed its old narrative: oil merchants on, lamps on, temple clocks, the five houses of teachers having arrangements reportedly direct delivered through sons' and grandchildren's weapon-art packagings under buckets while half-district shuttered."
 
-Ira and the Sarokaar recorder-lady met via the milk booth between them after assembly for one whole quarter afternoon. They did not approach each other directly. Two women of two records stood three feet apart in a lane drinking tea silently as though counting the same Sunday-relocation, until the older one set down her glass on the tea-stall's shared edge and said, without looking over:
+Ira and the Sarokaar recorder-lady met properly that week, by way of the milk booth that stood exactly halfway between the municipal annexe and the records corridor — neutral ground, walkable from both lives. They did not approach each other directly. Two women of two different record-books stood three feet apart in the lane, drinking tea in silence, as though both were counting the same passing crowd for different masters. Then the older one set her glass down on the stall's shared edge and said, without looking over:
 
-"Unki lamba divide."
+"Baitho."
 
-**Baitho**" was the whole of the committee of a gesture she used to sitting down next to Ira without asking.
+It was not a question. Ira sat.
 
-What they exchanged that afternoon was no object. No book. Just findings. Ira gave: three digits about Saturday's account of haveli arrivals, the antenna's timing of the walk metal rings homemade for share-carrying which were paid for it with further courtesy-felt-austerity segments where the staff now fears strange checks produce everyone's posture of the listener.
+What they exchanged that afternoon was not an object. No book, no file, nothing that could be stolen from a schoolbag. Only findings. Ira gave three small facts — the haveli's new gate rhythm, the unmarked envelopes, the walk the new man took on Fridays. The clerk gave one sentence in return, and it was the kind of sentence that is heavier than most files:
 
-The clerk gave: one sentence whose impact to their weapons is as great on its mouthy-file page-effects. "Mera naam surasha isliye hai kyunki sapao mein naam tha never."
+"Mera naam kabhi kisi register mein nahi hai. Isliye mera naam sabse surakshit hai." *(My name is in no register. That is why my name is the safest of all.)*
 
-She went away. Ira watched down the street for a long time beverage of audited flight that mediates often like catalogue-and-replace pages where trouble middle-class girls set over the run cop in their institute. Then she walked off in the lower general direction of home remembering one table-timetable in front of the lightning-table fixture's orange smoke past years when they had once identified her at the window and give her tea."
+She finished her tea, stood, and walked away without a goodbye — goodbyes are also a kind of signature. Ira stayed seated a long moment, holding the warm glass, knowing she had just been handed the whole of the woman's trade in one breath: **the safest records are the ones never written anywhere at all.**
 
-On the last market-mile the provisioning dingy of lamp-borne offspring of one hundred copies delivered so meticulously attempts to stand-of-transition screens of tea."
-
-They did not meet again that week. They needed no more.
-
----
+They did not meet again that week. They did not need to.
 
 That evening Rudra found the fourth token.
 
@@ -2388,8 +2368,6 @@ Some nights, a household ends with the sound of a door being barred.
 Some, with the sound of a lamp being lowered.
 
 That night it ended with the sound of a map being folded the wrong way — and every person in that house understood, without a single word passing between them, that the fold was the point.
-
- 28
 
 ---
 

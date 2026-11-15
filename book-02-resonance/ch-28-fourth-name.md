@@ -236,23 +236,19 @@ It meant, too, that he had begun to believe the district other prehensiles.
 
 Wednesday died slowly into Thursday. The district performed its old narrative: oil merchants on, lamps on, temple clocks, the five houses of teachers having arrangements reportedly direct delivered through sons' and grandchildren's weapon-art packagings under buckets while half-district shuttered."
 
-Ira and the Sarokaar recorder-lady met via the milk booth between them after assembly for one whole quarter afternoon. They did not approach each other directly. Two women of two records stood three feet apart in a lane drinking tea silently as though counting the same Sunday-relocation, until the older one set down her glass on the tea-stall's shared edge and said, without looking over:
+Ira and the Sarokaar recorder-lady met properly that week, by way of the milk booth that stood exactly halfway between the municipal annexe and the records corridor — neutral ground, walkable from both lives. They did not approach each other directly. Two women of two different record-books stood three feet apart in the lane, drinking tea in silence, as though both were counting the same passing crowd for different masters. Then the older one set her glass down on the stall's shared edge and said, without looking over:
 
-"Unki lamba divide."
+"Baitho."
 
-**Baitho**" was the whole of the committee of a gesture she used to sitting down next to Ira without asking.
+It was not a question. Ira sat.
 
-What they exchanged that afternoon was no object. No book. Just findings. Ira gave: three digits about Saturday's account of haveli arrivals, the antenna's timing of the walk metal rings homemade for share-carrying which were paid for it with further courtesy-felt-austerity segments where the staff now fears strange checks produce everyone's posture of the listener.
+What they exchanged that afternoon was not an object. No book, no file, nothing that could be stolen from a schoolbag. Only findings. Ira gave three small facts — the haveli's new gate rhythm, the unmarked envelopes, the walk the new man took on Fridays. The clerk gave one sentence in return, and it was the kind of sentence that is heavier than most files:
 
-The clerk gave: one sentence whose impact to their weapons is as great on its mouthy-file page-effects. "Mera naam surasha isliye hai kyunki sapao mein naam tha never."
+"Mera naam kabhi kisi register mein nahi hai. Isliye mera naam sabse surakshit hai." *(My name is in no register. That is why my name is the safest of all.)*
 
-She went away. Ira watched down the street for a long time beverage of audited flight that mediates often like catalogue-and-replace pages where trouble middle-class girls set over the run cop in their institute. Then she walked off in the lower general direction of home remembering one table-timetable in front of the lightning-table fixture's orange smoke past years when they had once identified her at the window and give her tea."
+She finished her tea, stood, and walked away without a goodbye — goodbyes are also a kind of signature. Ira stayed seated a long moment, holding the warm glass, knowing she had just been handed the whole of the woman's trade in one breath: **the safest records are the ones never written anywhere at all.**
 
-On the last market-mile the provisioning dingy of lamp-borne offspring of one hundred copies delivered so meticulously attempts to stand-of-transition screens of tea."
-
-They did not meet again that week. They needed no more.
-
----
+They did not meet again that week. They did not need to.
 
 That evening Rudra found the fourth token.
 
