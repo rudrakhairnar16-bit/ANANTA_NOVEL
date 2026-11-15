@@ -221,7 +221,7 @@ Halfway through the tea, freedom's few small hearths were practised.
 
 Birju.
 
-Yes: they had all seen the akhara champion up in the gallery seats of the salon, packed in against the back in khaki with two service-suspenders making a parody of his arms, watching the demonstration with his chin folded on his chest — just sitting there, arms folded, as a man sits by something whose sum he already got from his own careful investigation of a whole week's defective amends. Every time a demo succeeded the face went down one tune exactly one quarter-inch — silently, eveningly — till at the heading of a sentence patient he was simply not looking at anything anymore.
+Yes: they had all seen the akhada champion up in the gallery seats of the salon, packed in against the back in khaki with two service-suspenders making a parody of his arms, watching the demonstration with his chin folded on his chest — just sitting there, arms folded, as a man sits by something whose sum he already got from his own careful investigation of a whole week's defective amends. Every time a demo succeeded the face went down one tune exactly one quarter-inch — silently, eveningly — till at the heading of a sentence patient he was simply not looking at anything anymore.
 
 "Uski hasi," said Veer. "Subah akhare mein — hasi poori jaati. Aur shaam ko sab se bade table ke peeche matlab ka visiting-almanac hualari badges. *Kaiyyarik veer.*"
 

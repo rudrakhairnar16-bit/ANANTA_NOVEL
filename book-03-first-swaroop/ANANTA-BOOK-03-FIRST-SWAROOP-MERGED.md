@@ -4,11 +4,11 @@
 >
 > *"Somvaar: ek antar-deshiya inland lifafa, hara-sarkari rang, franking Dehradun — par kisi dak-ghar ka thappa wahan kahin lagta hi nahi. Pati: Vashisht-parivar. Andar se — ek pahadi phool ki khushbu. (Rukmini-devi ne mohor kholne se pehle lifafa dono haathon mein tola. Jaise kabhi kiya tha.)*
 >
-> *Mangalvaar: akhara-sandesh. Turanan-ke pahalwan ji, haath se likha patra, bilkul shuddh akhara-maryada mein — 'Boodhi-ka-Veer Dikshit' ke naam. Likhe wale ki muhthi hui muthi mein ek dhaaga tha — aath-chhoron wala chhota taara bun ke."*
+> *Mangalvaar: akhada-sandesh. Turanan-ke pahalwan ji, haath se likha patra, bilkul shuddh akhada-maryada mein — 'Boodhi-ka-Veer Dikshit' ke naam. Likhe wale ki muhthi hui muthi mein ek dhaaga tha — aath-chhoron wala chhota taara bun ke."*
 >
 > *Budhvaar: tar. Railway code-mein. Sirf chaar shabd: **CHAABI TAYYAR RAKHO. A A RHA.** Engineer ke letter-spacing — har akshar bilkul barabar. Aisa haath main pehle sirf ek aadmi ka dekha tha — tees saal pehle, jab woh kasbe se sikke jama karke chala gaya tha."*
 >
-> *(Monday: one domestic inland letter, government-green — but its postmark belongs to no post office. Addressed: the Vashisht household. From inside — the smell of a mountain flower. (Rukmini-devi weighed the envelope in both hands before opening. As if she had done it before.) / Tuesday: akhara-message by hand, perfect akhara-propriety, for "Boodhi-ka-Veer Dikshit"; the bearer's fist carried a thread braided with a small eight-pointed star. / Wednesday: wire, railway code, four words: KEEP THE KEY READY. COMING. An engineer's letter-spacing — every character dead even. I have seen such a hand only once before — thirty years ago, when the man left the kasba carrying the town's coppers.)*
+> *(Monday: one domestic inland letter, government-green — but its postmark belongs to no post office. Addressed: the Vashisht household. From inside — the smell of a mountain flower. (Rukmini-devi weighed the envelope in both hands before opening. As if she had done it before.) / Tuesday: akhada-message by hand, perfect akhada-propriety, for "Boodhi-ka-Veer Dikshit"; the bearer's fist carried a thread braided with a small eight-pointed star. / Wednesday: wire, railway code, four words: KEEP THE KEY READY. COMING. An engineer's letter-spacing — every character dead even. I have seen such a hand only once before — thirty years ago, when the man left the kasba carrying the town's coppers.)*
 
 # CHAPTER 41 — THE THREE LETTERS (Book 3, Ch 1)
 
@@ -58,13 +58,13 @@ Rukmini read it twice. Then she went to the store-room and took down, from the h
 
 Dadi, at her quilt-frame, watched her daughter-in-law's new lamp catch the sun, and — the chronicle's eye is obliged to be honest even where it is tender — Dadi's needle stopped for a full minute, because Dadi had in her waist-fold, still unread, Rukmini's tamarind leaf; and she knew, the way women of that house knew things without violation of privacy, that the leaf and the mountain-flower smell came **from the same far country.**
 
-**Tuesday's letter** came to the akhara by messenger — a wrestler of Turanan, twelve kos off, a youth courteous in the exact degree the akhara-code measures courtesy, who addressed Boodhi-ka-Veer with the full style — "Dikshit-ji, Boodhi-wale" — and held out a folded letter in both hands with a small bow, and whose closed fist, as he bowed, showed a braided dhaaga on its wrist in which was knotted a little **eight-pointed star** of red thread.
+**Tuesday's letter** came to the akhada by messenger — a wrestler of Turanan, twelve kos off, a youth courteous in the exact degree the akhada-code measures courtesy, who addressed Boodhi-ka-Veer with the full style — "Dikshit-ji, Boodhi-wale" — and held out a folded letter in both hands with a small bow, and whose closed fist, as he bowed, showed a braided dhaaga on its wrist in which was knotted a little **eight-pointed star** of red thread.
 
 The letter, in a strong hand that pressed the pen too hard (all of Veer's fraternity knew that hand-pressure: *a strong man writing*), proposed nothing less than **a training-exchange**: one season, two akharas, "because" — the letter said, in its blunt pahalwan-Hindi which Veer read aloud in the pit to the growing circle of his fraternity — *"kyunki humne dekha. Toofan ke din aapke kasbe mein ek ladka jhatke se khada hua, aur poora zila uski ungli ki ginti gine laga. Aisa stance humne tees saal ki machligiri mein nahi dekha. Aata jaata humein hamesha aana tha. Par ab lautna bhi seekhna hai."*
 
 *(Because we saw. On the storm-day a boy in your kasba stood up with a start, and the whole district began counting on his fingers. Such a stance we have not seen in thirty years of the wrestling-path. We always meant to visit. But now — now we must learn how to return.)*
 
-It was signed with a mark rather than name — **an eight-pointed star** — and below the mark, in the same overpressed hand, the place and the hour: *Ravi ke baad. Machli-ghat ke aage wale akhare mein.* (After Sunday. The akhara beyond Machli-ghat.)
+It was signed with a mark rather than name — **an eight-pointed star** — and below the mark, in the same overpressed hand, the place and the hour: *Ravi ke baad. Machli-ghat ke aage wale akhare mein.* (After Sunday. The akhada beyond Machli-ghat.)
 
 Veer folded the letter into his sling-strap with a wrestler's briskness and turned back to the pit — and that evening, recounting it at home to his mother, who was shelling peas with the unimpressed fingers of all mothers of famous sons, he could not explain — he admitted it into the register-session later, plainly, as one admits a bruise — **why the star-thread on the messenger's fist had made his splinted arm itch**, the way a healed bone itches before rain.
 
@@ -87,7 +87,7 @@ And Ram said the sentence that the whole district's next week was built upon, qu
 *(He's coming.)*
 The register-session that night was the first since the storm to be held **with all doors shut.**
 
-The rule-book had no provision for it — the four rules of the temple had, by the district's decision, been adopted into the register's permanent margin (*travel-teeth*, Boodhi called them, *kur-charshedan ke daant), but doors-shut was new; doors-shut was the storm's lesson entered into protocol. On the grinding-stone: the register, open. On the blanket's four corners, the four. And because tonight's agenda had arrived by post, wire and akhara-courier, the household attended in strength: Ram by the door-frame, not sitting — standing was his chair; Rukmini with the mountain-grey card among her pleats like a second palla; Dadi at the quilt-frame's arm, her needle parked upright in the cloth like a flag planted in mid-campaign.
+The rule-book had no provision for it — the four rules of the temple had, by the district's decision, been adopted into the register's permanent margin (*travel-teeth*, Boodhi called them, *kur-charshedan ke daant), but doors-shut was new; doors-shut was the storm's lesson entered into protocol. On the grinding-stone: the register, open. On the blanket's four corners, the four. And because tonight's agenda had arrived by post, wire and akhada-courier, the household attended in strength: Ram by the door-frame, not sitting — standing was his chair; Rukmini with the mountain-grey card among her pleats like a second palla; Dadi at the quilt-frame's arm, her needle parked upright in the cloth like a flag planted in mid-campaign.
 
 Ira conducted. This was already, by then, the way of it; the four had professions the way the district had lamps, and hers was the *agenda.*
 
@@ -99,7 +99,7 @@ The envelope-and-two-others were laid in the middle. The mountain-flower smell m
 
 Rukmini's hands, in her pleats' shadow, stilled on the card. Yes. That was the reading. Her diya in the east window answered the reading silently, three feet of lamplight away, steady as an indication.
 
-Veer reported the star-thread akhara invitation; described the eight-point star; and Ira, at the description, did something she had never yet done in public — she stood, went to the tin box, and returned with the temple-expedition's fair copy; turned to the inventory's folio nine; laid the open page before Veer and said, with the brittle glee of a clerk whose archive has been handed corroboration by strangers:
+Veer reported the star-thread akhada invitation; described the eight-point star; and Ira, at the description, did something she had never yet done in public — she stood, went to the tin box, and returned with the temple-expedition's fair copy; turned to the inventory's folio nine; laid the open page before Veer and said, with the brittle glee of a clerk whose archive has been handed corroboration by strangers:
 
 **"Table-band ka aathva sthan. Rokadiya line ke baad wala — jo jagah khaali thi, edges crisp. Aath. Aath chhoron wala."** *(The frieze-band's eighth place. The one after the Rokadiya line — the empty place, edges crisp. Eight. Eight points.)*
 

@@ -56,7 +56,7 @@ There was no reason, yet, to be afraid of the disappointment of a thing that was
 
 Monday stayed kind, the way districts stay kind before weddings, with a sweetness that in retrospect would look like the world drawing one deep breath.
 
-Veer spent it in the akhara dust with the manual open at its fourteenth page — his dada's pencil describing the third stance in six words that still resisted understanding, and his dadi's green ink circling them in the margin with a single underlined verdict: *nahin, beta — yeh akhri hai kyunki yeh pehla hai.* He read it eleven times and understood nothing except that the green hand had also, once, not understood.
+Veer spent it in the akhada dust with the manual open at its fourteenth page — his dada's pencil describing the third stance in six words that still resisted understanding, and his dadi's green ink circling them in the margin with a single underlined verdict: *nahin, beta — yeh akhri hai kyunki yeh pehla hai.* He read it eleven times and understood nothing except that the green hand had also, once, not understood.
 
 Aadhya spent it at the ghat rim with her two sprouts and a third seam the old woman had shown her by the simple act of kneeling somewhere new. The bread-seller's pitcher had acquired a second, smaller lota beside it now — *for the little one*, he said, not specifying which little one he meant.
 

@@ -10,10 +10,10 @@ Thursday brought the flyer.
 It was handed out at college gates and paan shops and the wrestling pit's fence — yellow paper, well printed, a colour-blocked sun over a stylized river:
 
 **MERIDIAN FOUNDATION presents**
-**OPEN AKHARA — All Banaras Challenge**
+**OPEN AKHADA — All Banaras Challenge**
 *India's youth, India's strength. Open wrestling bouts at the old riverside ground. Prize ₹5,000 for any local who lasts three full minutes with our State Champion. This Saturday after the public lecture.*
 
-Every chai stall in the district got fifty copies. They did not go home with their evening count. People want to see things the city can now afford to look at: an akhara opening, a prize, India's name folded three times into third person.
+Every chai stall in the district got fifty copies. They did not go home with their evening count. People want to see things the city can now afford to look at: an akhada opening, a prize, India's name folded three times into third person.
 
 By evening the college boys had renamed it, predictably, *paanch-hazaar-ka-chance* — and nobody that heard the name all afternoon was too poor to hope.
 
@@ -21,9 +21,9 @@ Veer was one of them.
 
 ---
 
-The old akhara had reopened Thursday morning. Actual contractors did the work — proper shovelling, new sand worked into the ring, three parachute tents for shade, a visitor gallery fenced off, two black vehicles parked under what used to be the pavilion's left pergola. Birju was declared the State Champion at three PM.
+The old akhada had reopened Thursday morning. Actual contractors did the work — proper shovelling, new sand worked into the ring, three parachute tents for shade, a visitor gallery fenced off, two black vehicles parked under what used to be the pavilion's left pergola. Birju was declared the State Champion at three PM.
 
-All Banaras knew Birju. Temple-hair pehlwan, wife's flower stall across the Hanuman temple, six-foot-two of akhara stubbornness, once banned a year over a suspension nobody ever explained, back from Pune camps a June, runner-up at the state level. And yet it was not entirely the same Birju. He was quieter. He declined every ceremonial boast strongmen start bouts with. In the pits between rounds he walked with a shallow, careful gait like a man walking another's legs.
+All Banaras knew Birju. Temple-hair pehlwan, wife's flower stall across the Hanuman temple, six-foot-two of akhada stubbornness, once banned a year over a suspension nobody ever explained, back from Pune camps a June, runner-up at the state level. And yet it was not entirely the same Birju. He was quieter. He declined every ceremonial boast strongmen start bouts with. In the pits between rounds he walked with a shallow, careful gait like a man walking another's legs.
 
 First bout: a local club-kid in his twenties offered himself as warm-up. Birju caught him by the waist, lifted him off his feet with the energy of somebody hoisting a sack, and set him down flat on the sand-ring side of the boundary — so gently it was almost an apology. Second and third, same. Four district regulars in twenty minutes. Each thrown without visible violence; none bruised. All of them glared at their own surprise for a while afterward like customers charged for meals they don't remember eating.
 
@@ -37,7 +37,7 @@ The dial's red needle swung hard up when Birju gripped a man, held its reading t
 
 Veer identified, then, the other two such devices in the pit gallery — one per controller, tent-shadowed at either end of the visitor rail, identically suited, one dial-face glimpsed under each cuff, same brassy municipal stillness. The nearer one had a woolen-bound notebook and wrote constantly in it with the indulgent attention of somebody billing an incident report.
 
-Veer left the akhara a little after nine. Twice on the walk home he stopped and looked at nothing in particular — the old wordless habit of a man who has noticed something and is still letting it rise. At home, in the courtyard, Ira was already waiting with the chai. They looked at each other over it with the exact quality of two pieces of the same game laid by different people.
+Veer left the akhada a little after nine. Twice on the walk home he stopped and looked at nothing in particular — the old wordless habit of a man who has noticed something and is still letting it rise. At home, in the courtyard, Ira was already waiting with the chai. They looked at each other over it with the exact quality of two pieces of the same game laid by different people.
 
 "Dekha maine," Veer said. "Unke haath mein joote naapne waale sensors hain — cuff waale. Pehlwan ke bhi, gate ke bhi."
 
@@ -45,7 +45,7 @@ Veer left the akhara a little after nine. Twice on the walk home he stopped and 
 
 On Friday morning Rudra went himself.
 
-His father had said not to go near their gates. That covered gates. It did not cover a crowd rope at eleven AM at an akhara Rudra had legal rights to, older than the rights of anyone employed to patrol it. He wore full sleeves, kept his chest wrapped plain — no tape, Ram's rule — and stood inside the second row of the afternoon's shove-along public with his hands folded like any local student on a Friday off.
+His father had said not to go near their gates. That covered gates. It did not cover a crowd rope at eleven AM at an akhada Rudra had legal rights to, older than the rights of anyone employed to patrol it. He wore full sleeves, kept his chest wrapped plain — no tape, Ram's rule — and stood inside the second row of the afternoon's shove-along public with his hands folded like any local student on a Friday off.
 
 Birju worked two bouts. The Foundation's chosen champion was exactly as Veer had described: quiet, methodical, empty of ceremony, throwing full-time district heavyweights with the calm energy-budget of a man setting down orders his body already understood. Between bouts the two controllers noted things in their register and changed the dial-face on his cuff twice — a lieutenant boy-wrencher walked from tent to champion with the intimate short history of boys sent by places to keep speaking the whole truth to the wrestlers.
 
@@ -128,7 +128,7 @@ And below it, puzzled at by nobody, one cleanly-pencilled line of arithmetical a
 
 Ira's night ledger carried one line:
 
-*Saturday: lecture aur akhara ek hi din. Public sab waahin honge — aur hum bhi.*
+*Saturday: lecture aur akhada ek hi din. Public sab waahin honge — aur hum bhi.*
 
 And under it, kept plain, which was the whole appetite of that chapter's worth of worry set down at last the way lists are written by people who know what they are for:
 
@@ -154,7 +154,7 @@ Forty minutes in, the speaker requested *volunteers* for a demonstration of "tra
 
 Ira watched the woman in white's mouth counting with each touch — a little read-off of numbers addressed to some listening place under the stage, each number departing that clipboard like a bead departing a thread.
 
-The whole thing took fifty-five minutes. It ended with an invitation — the akhara, the challenge, five thousand rupees, patriotism. The crowd left warmer than it arrived. The stillness the estate had taken all that way out of the stoveyard was never noticed leaving or coming back.
+The whole thing took fifty-five minutes. It ended with an invitation — the akhada, the challenge, five thousand rupees, patriotism. The crowd left warmer than it arrived. The stillness the estate had taken all that way out of the stoveyard was never noticed leaving or coming back.
 
 Ira wrote in her register: *"jaali hai — magar chamakdar jaali."*
 ---
@@ -232,7 +232,7 @@ Nobody said anything.
 
 Ira looked at him the way she looked at errors that have arrived too early to be mistakes and too late to be student-questions, and waited to be outraged.
 
-"Kal lecture humara line-up hai. Akhara unka hai," Veer said, addressing his own knuckles. "Lekin ye bracelet waala scene — main usse paas se test karna chahta hoon. Darwaze pe nahi. Ring mein. Maine khud pehli baar rozana bharat mein alchemy ka sauda dekha. Us bracelet ke saath jis bazaar wala maamla saamne hai, woh match-record nahi nikalta without exact testing."
+"Kal lecture humara line-up hai. Akhada unka hai," Veer said, addressing his own knuckles. "Lekin ye bracelet waala scene — main usse paas se test karna chahta hoon. Darwaze pe nahi. Ring mein. Maine khud pehli baar rozana bharat mein alchemy ka sauda dekha. Us bracelet ke saath jis bazaar wala maamla saamne hai, woh match-record nahi nikalta without exact testing."
 
 "Toh tum maar khaane jaa rahe ho," Ira said. "Saaf-saaf."
 
@@ -287,7 +287,7 @@ The city hardly noticed: it was a modest office hour, and old Banaras in Novembe
 
 In the Foundation's wet-ink night register — a hard rectangle of a book beside the wire their reports fed ground-fore — entered somewhere toward the back in a small even hand:
 
-*Event 41 — akhara challenge: local subject Moin-ul-Haq, age 19. Duration achieved: 180 sec. Bracelet output maximum sustained: 96%. Subject uninstrumented. Estimated output origin: unknown — pending re-scan. Recommended: approach indirect only. Priority flag: deliberation room — second desk.*
+*Event 41 — akhada challenge: local subject Moin-ul-Haq, age 19. Duration achieved: 180 sec. Bracelet output maximum sustained: 96%. Subject uninstrumented. Estimated output origin: unknown — pending re-scan. Recommended: approach indirect only. Priority flag: deliberation room — second desk.*
 
 And below that entry, in the same dry hand, the single unalterable truth which no tactics can erase and no confidentiality can revoke:
 

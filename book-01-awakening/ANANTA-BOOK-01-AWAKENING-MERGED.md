@@ -2919,7 +2919,7 @@ Saturday, four o'clock: the river had turned out.
 
 Race days on the Ganga at Varanasi are as old as oars; the municipality came in later and licensed them. The start line lay north off Rajghat, where the current was widest and most honest — a stretch of brown-green water that gave any rower exactly as much river as his education deserved — with the finish buoy a white-painted oil drum bobbing opposite Panchganga, a route of perhaps two kilometres, downstream, diagonally hugging the ghatside so the crowd could follow along the steps like a standing ovation in motion.
 
-Seventeen boats had entered. By hydrological legacy they divided, as they divided every year, into three unchangeable nations: the **boatmen's sons**, lean, gorgeously economical boys of the river who had been pulling oars since they were eight and whose strokes were as standardized as scripture (entry of Munna Majhi's people, the reigning champions for four years in their red trim boat); the **gym's rearguard**, broad and desperate, alumni of every akhara and cable-gym in Sigra and Lanka, strong as oxcarts and precisely as hydrodynamic; and the **others** — college boys, a pair of widowed enthusiasts, one team of boys from the polytechnic who had shown up in matching jerseys with *GANGA WARRIORS* printed on the back, who would capsize within sight of the starting rope, ritually, as they did every year.
+Seventeen boats had entered. By hydrological legacy they divided, as they divided every year, into three unchangeable nations: the **boatmen's sons**, lean, gorgeously economical boys of the river who had been pulling oars since they were eight and whose strokes were as standardized as scripture (entry of Munna Majhi's people, the reigning champions for four years in their red trim boat); the **gym's rearguard**, broad and desperate, alumni of every akhada and cable-gym in Sigra and Lanka, strong as oxcarts and precisely as hydrodynamic; and the **others** — college boys, a pair of widowed enthusiasts, one team of boys from the polytechnic who had shown up in matching jerseys with *GANGA WARRIORS* printed on the back, who would capsize within sight of the starting rope, ritually, as they did every year.
 
 The boat Veer had rented was old, twenty-two feet of heavy river-made timber named *Jalpari* on a patch of brass, and she leaked with the serene persistence of long experience.
 
@@ -4020,7 +4020,7 @@ And his father walked to the padlocked pavilion and came back with a long bamboo
 
 ---
 
-The ground they worked each morning was the river's abandoned bend, walled and dust-floored, and it had its own archaeology. Long ago — Ram had once told him, in the years when history still occasionally escaped the storeroom — a mishraji family had kept a wrestling akhara here, and after them a granary, and after that flood-water for one whole monsoon, and after the flood nobody at all. The pavilion's roof had fallen inward gracefully the year Rudra was seven, and the neem whose dead arms stood at the yard's east side had been venerated by three generations of umpires. Training, for nineteen years, had therefore had the property here of being returned to the earth's own format: only what the dust accepted kept happening. By five-thirty they had done the forty minutes of anonymous labour the session always opened with — corners, weights, the slow arithmetic of tendons greeting load. The fog leaned down over the wall like a fourth member. Rudra's skin had gone the clean hot red of freight at work, and nothing under his ribs had moved at all.
+The ground they worked each morning was the river's abandoned bend, walled and dust-floored, and it had its own archaeology. Long ago — Ram had once told him, in the years when history still occasionally escaped the storeroom — a mishraji family had kept a wrestling akhada here, and after them a granary, and after that flood-water for one whole monsoon, and after the flood nobody at all. The pavilion's roof had fallen inward gracefully the year Rudra was seven, and the neem whose dead arms stood at the yard's east side had been venerated by three generations of umpires. Training, for nineteen years, had therefore had the property here of being returned to the earth's own format: only what the dust accepted kept happening. By five-thirty they had done the forty minutes of anonymous labour the session always opened with — corners, weights, the slow arithmetic of tendons greeting load. The fog leaned down over the wall like a fourth member. Rudra's skin had gone the clean hot red of freight at work, and nothing under his ribs had moved at all.
 
 "Good," said Ram. "Normal din shuru. Ab — saans pakad. Pehli tarah — andar waali."
 
@@ -4077,7 +4077,7 @@ They all, then, in the ways of them, began, each at their own velocity, the same
 
 ---
 
-Veer rounded the last wall corner into the old akhara fourteen minutes after the first ring, at a pace no man of his bulk correctly maintained — and stood, frozen mid-stride with one hand raised, on the threshold of the gateway through the fallen edge of the yard, finding what the others would find one breath after him:
+Veer rounded the last wall corner into the old akhada fourteen minutes after the first ring, at a pace no man of his bulk correctly maintained — and stood, frozen mid-stride with one hand raised, on the threshold of the gateway through the fallen edge of the yard, finding what the others would find one breath after him:
 
 The ground in ruin. The pavilion's roof slumped sideways in powder. The lamp-posts staring up out of the disconnected gravel. And in the middle of it all, inside the widest clearing of the circumference the dust itself vacated like a withdrawn crowd, Rudra Vashisht stood upright with his whole forearms wrapped around something collapsed across his chest and neck — a woman — *his mother* —
 
@@ -4176,7 +4176,7 @@ Rudra had understood already — in knowing his father's habit from the first of
 
 He stood at the basin until pale dust went scummed over the whole surface of the water, and when Ram's feet came at last down the stairs behind him, Rudra didn't turn, and he said — with the whole nineteen years packed into the single breath: "Mujhe maaf kar do, Dad." And Ram stood, looked at the water, looked at his son, and answered the way that doorway answered everything: "Chal. Andar chal. Garam paani se nahao." And they went in together; and to any neighbour looking down over the wall it would have looked no older than Thursday; and the basin-water slowly carried off their one word each.
 
-That night, in the heart of the ruined akhara, long after observers were gone and nobody was required to report, the ground finished settling over what had happened. Down through the cool mud and up through the old buried cables of the city, a new configuration formed quietly, legible to exactly nobody awake: the seven old coals along the ancient ring, the young warmth in the college lawn — and now a ninth point, warmest of all, out at the abandoned bend, glowing where a boy's chest had opened and a mother had paid the difference.
+That night, in the heart of the ruined akhada, long after observers were gone and nobody was required to report, the ground finished settling over what had happened. Down through the cool mud and up through the old buried cables of the city, a new configuration formed quietly, legible to exactly nobody awake: the seven old coals along the ancient ring, the young warmth in the college lawn — and now a ninth point, warmest of all, out at the abandoned bend, glowing where a boy's chest had opened and a mother had paid the difference.
 
 And below them the city slept. Whatever counted the city counted that night twice — nine seconds apart, then once more, slower, the way you count a knock that is also an answer.
 
@@ -4392,4 +4392,3 @@ And the eight black vehicles crossed the Ganges bridge by the city's own lamps, 
 **BOOK 1 ENDS.**
 
 ---
-

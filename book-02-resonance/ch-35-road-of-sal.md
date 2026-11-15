@@ -129,7 +129,7 @@ Veer waited. Waiting had become his principal industry.
 
 Veer stood with that a while, owl-stitches coming through the wire from the ancient side of the sal.
 
-"Sahi kiya," he said at last — and his grammar, for once, forsook the akhara's third person — "kuch cheezein kaagaz ko di gayi hain — aur kuch cheezein haath ko. Jo kal raat thehar kar baith ke likhogi, woh nazariya hai. Yeh gawahi thi. Gawahi haath se maangi jaati hai — kaagaz se nahi."
+"Sahi kiya," he said at last — and his grammar, for once, forsook the akhada's third person — "kuch cheezein kaagaz ko di gayi hain — aur kuch cheezein haath ko. Jo kal raat thehar kar baith ke likhogi, woh nazariya hai. Yeh gawahi thi. Gawahi haath se maangi jaati hai — kaagaz se nahi."
 
 *(Some things are given to paper; some to the hand. What you'll write tomorrow, calm, is opinion. That was testimony. Testimony is asked of the hand, never the paper.)*
 
@@ -140,7 +140,7 @@ That was the quietest sentence the night contained; and also, although nobody wr
 ---
 They banked the lamp early, all of them, by joint unspoken decision — the lampless verandah drew the sal country closer, the way darkness lends a room its furniture's true size.
 
-Veer slept first, with the discipline of the akhara: forearm across his ribs, back straight against the wall-boards, out in ninety seconds, laya-breathing like a slow engine. Ira sat by Register Two until the ink stopped making sense, then read nothing, then went in. That left, in the way of verandahs and night-watches and families that stand guard together because there is no other way to stand it, Rudra at the steps' head and Aadhya at the west rail, and the enormous vegetation of God's older accounting sitting midnight-black around three walls.
+Veer slept first, with the discipline of the akhada: forearm across his ribs, back straight against the wall-boards, out in ninety seconds, laya-breathing like a slow engine. Ira sat by Register Two until the ink stopped making sense, then read nothing, then went in. That left, in the way of verandahs and night-watches and families that stand guard together because there is no other way to stand it, Rudra at the steps' head and Aadhya at the west rail, and the enormous vegetation of God's older accounting sitting midnight-black around three walls.
 
 They did not talk for a long time. That was the shape the thing between them had found in the weeks since Rajghat's cracked tile-seam: adjacency. Each knew exactly where the other was, in the dark, by the way you know where a lamp is.
 

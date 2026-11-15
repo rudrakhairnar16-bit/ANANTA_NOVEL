@@ -19,7 +19,7 @@ He read that first page eleven times standing: he had never once met his grandfa
 
 ---
 
-By ten o'clock Veer was in the small back courtyard of his uncle's tailor shop — the only closed yard the family owned where noise couldn't escape — teaching himself the manual's first three pages, which were written for hospitals' night-shifts, for madmen, for going across in the dark. *Pehle teen poses koi attack nahi hain. Hilaaye nahi jaane ke teen tarike hain.* He held the first stance until his back leg filed its protest: harder than the akhara, more inward than the akhara — the akhara is about winning; the tin was about *not going anywhere*.
+By ten o'clock Veer was in the small back courtyard of his uncle's tailor shop — the only closed yard the family owned where noise couldn't escape — teaching himself the manual's first three pages, which were written for hospitals' night-shifts, for madmen, for going across in the dark. *Pehle teen poses koi attack nahi hain. Hilaaye nahi jaane ke teen tarike hain.* He held the first stance until his back leg filed its protest: harder than the akhada, more inward than the akhada — the akhada is about winning; the tin was about *not going anywhere*.
 
 The writing ran in two colours: his grandfather's pencil — terse, technical — and, in the margin, in green ballpoint from a later decade, a second hand, correcting. Commentary. Additions. A second owner — his grandmother, who had added her own exacting column of reposting-base for thirty years on the lessons his grandfather had never finished.
 
