@@ -1,6 +1,6 @@
 # Ch68–70 — bounded execution plan
 
-Authority: “commit and push and finish till 70”, after67. Prior work verified clean/local+remote8c44d77. Bible Part17. Write68–70; one full chapter/check/numeric merge/commit/immediate push at a time; STOP70. No main merge requested. Status: **68 COMPLETE4,438w (`fafccbe`, pushed);69 COMPLETE4,413w**, source/notes/checks/merge ready for separate commit+immediate push;70 unwritten. Delivered events are in each chapter's continuity note; the later outline below is still a working plan.
+Authority: “commit and push and finish till 70”, after67. Prior work verified clean/local+remote8c44d77. Bible Part17. Write68–70; one full chapter/check/numeric merge/commit/immediate push at a time; STOP70. No main merge requested. Status: **BATCH COMPLETE — 68:4,438w (`fafccbe`);69:4,413w (`ce6ddb0`);70:4,377w. Total13,228w.** Each source/continuity note finalized, checks PASS, merge61–70 regenerated, individual commit+immediate branch push per chapter. **STOP70; no71 drafted.** Delivered events/costs/handoffs are in each chapter's continuity note. The outline below is the historical bounded execution plan, not additional authorization.
 
 ## Fixed state
 
