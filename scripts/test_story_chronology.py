@@ -2,7 +2,7 @@
 """Regression checks for the authorized Saga 4/5 chronology repair.
 
 Run: python3 -B -m unittest discover -s scripts -p 'test_*.py' -v
-These check the active outline/checker contract, not the pending Ira proposal.
+These check active chronology and the bounded Ira approval, not pending lore/names.
 """
 
 from pathlib import Path
@@ -87,16 +87,23 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("counterpart Aadhya", self.saga4)
         self.assertIn("Aadhya remains alive", self.saga4)
 
-    def test_ira_belonging_preserved_proposals_not_activated(self):
+    def test_ira_core_approved_other_proposals_not_activated(self):
         self.assertIn("Ira Mishra", self.bible)
         self.assertIn("Sarokaar belonging", self.bible)
-        self.assertIn("birth Kul remains UNKNOWN/HIDDEN", self.bible)
-        self.assertIn("### 13.4 RECOMMENDATION — [PROPOSED], NOT CANON", self.bible)
-        for name in ("Sakshi Kul", "Nalin Vaidya", "Kaumudi", "Antaraal"):
+        self.assertIn("Sakshi Kul", self.bible)
+        self.assertIn("unknown to the characters until Ch 187–188", self.bible)
+        self.assertIn("## PART 14: IRA CORE REVEAL", self.bible)
+        for name in ("Nalin Vaidya", "Kaumudi", "Antaraal"):
             with self.subTest(name=name):
                 self.assertNotIn(name, self.bible)
         target = ROOT / "continuity-notes" / "saga-04-repair-and-ira-reveal-proposal.md"
         self.assertTrue(target.is_file())
+
+    def test_ira_reveal_and_choice_windows_are_explicit(self):
+        self.assertIn("Ch 187–188: **IRA'S SAKSHI KUL REVEAL.**", self.saga4)
+        self.assertIn("Ch 189–190: **THE CHOICE AFTER THE ANSWER.**", self.saga4)
+        self.assertIn("Enough proof remains", self.saga4)
+        self.assertIn("Only Ch 61 is authorized now", self.bible)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -129,6 +136,12 @@ class CheckerBoundaryTests(unittest.TestCase):
 
     def test_shivangi_gate_not_moved_with_rudhransh(self):
         self.assert_gate("Shivangi", 240, 241)
+
+    def test_ira_birth_lineage_name_stays_gated_until187(self):
+        self.assert_gate("Sakshi Kul", 186, 187)
+        early = self.run_checker([(61, "Sakshi")])
+        self.assertNotEqual(early.returncode, 0, early.stdout + early.stderr)
+        self.assertIn("PLACEMENT LEAK", early.stdout)
 
     def test_other_origin_and_antagonist_gates_unchanged(self):
         for term, before, at in (

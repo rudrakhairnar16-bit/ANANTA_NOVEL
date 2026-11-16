@@ -55,6 +55,7 @@ ERA_GATED = [
     (r'\bdaksh\b', 131, 'Swarg usurper = Saga 3 antagonist'),
     (r'\bdashanan\b', 179, "Kaal's real name = Saga 3+ territory"),
     (r'\bdvandva\b', 131, 'Dual-realm fusion = Saga 3 (Ch 143+)'),
+    (r'\bsakshi\b', 187, 'Approved Ira birth-Kul name = Ch 187-188, Part 14'),
     (r'\banant\b', 241, 'Late Swaroop name = Saga 4+'),
     (r'\brudhransh\b', 230, 'Birth = Saga 4 Ch 230-232; chronology repair Part 13'),
     (r'\bshivangi\b', 241, 'Existing Shivangi name gate unchanged (Saga 4-5)'),
