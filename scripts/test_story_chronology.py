@@ -112,11 +112,20 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("all other reveal gates remain unchanged", batch)
 
     def test_next_bounded_batch_preserves_split_and_recovery(self):
-        batch = self.bible.split("## PART 16:", 1)[1]
+        batch = self.bible.split("## PART 16:", 1)[1].split("## PART 17:", 1)[0]
         self.assertIn("Ch 65–67 only", batch)
         self.assertIn("66–73 multiple-city defense/team split", batch)
         self.assertIn("not permission to skip recovery", batch)
         self.assertIn("Stop after Ch 67", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
+
+    def test_through70_batch_preserves_limits_and_later_reveals(self):
+        batch = self.bible.split("## PART 17:", 1)[1]
+        self.assertIn("Ch 68–70 only", batch)
+        self.assertIn("Stop after Ch 70", batch)
+        self.assertIn("66–73 multiple-city defense arc", batch)
+        self.assertIn("emergency action is not retroactive combat clearance", batch)
+        self.assertIn("full kavach shatter before79", batch)
         self.assertIn("Pending names/lore remain pending", batch)
 
 

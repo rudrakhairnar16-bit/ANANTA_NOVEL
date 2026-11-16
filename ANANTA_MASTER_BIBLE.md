@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–16)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–17)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–16 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–17 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1256,3 +1256,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - All existing parent/origin, Ira/Sakshi187–190, antagonist-identity and independent-mystery boundaries remain. Pending names/lore remain pending; no new important Kul/antagonist roster or retrospective planting.
 - Each chapter retains4,300–6,200-word target, epigraph, reviewed short chunks, one matching END, continuity note, required Book3 and actual Book4 checks, regenerated merge, individual commit and immediate push on the current branch. Ch0–64 and earlier-book merges remain unchanged.
 - Neutral Book4 metadata only. **Stop after Ch 67; Ch 68 needs a later request.**
+
+
+---
+
+## PART 17: BOOK 4 — EXPLICIT CH 68–70 BATCH AUTHORIZATION
+
+**Authority:** after67 delivery, the user requested **“commit and push and finish till 70”**. The already-delivered work is committed/pushed; this later request authorizes **Ch 68–70 only**, with the standing per-chapter commit/immediate-push pipeline. Part16's completed stop67 is historical. No main merge is requested.
+
+- Continue67's actual Prayagraj crossing emergency; remain inside the approved66–73 multiple-city defense arc with the existing city/mentor split. No tournament before74, full kavach shatter before79, parent-origin reveal before81 or early reunion of the travelling teams.
+- Carry67's acute48h Aadhya rest/reassessment and persistent Ira eye limits forward. Rudra's partial-load/light-duty and Veer's shoulder/knee/rib limits remain; emergency action is not retroactive combat clearance. Mentors, public responders and local people share real work. No free healing, repeatable first-form mastery, source-free reflection, river-scale new power or injury-as-power-up shortcut.
+- Preserve all other reveal gates, Sakshi187–190 contract, chosen Sarokaar identity and independent-mystery boundaries. Pending names/lore remain pending. No new important antagonist/Kul roster or proved overarching controller.
+- Ch0–67 and earlier-book merges remain unchanged. Each new chapter:4,300–6,200w, future-document epigraph, reviewed short chunks, one END, consequence notes, required Book3 and actual Book4 checks, regenerated numeric merge, individual commit and immediate push on current branch.
+- Neutral Book4 metadata remains. **Stop after Ch 70; Ch 71 requires a later request.**
