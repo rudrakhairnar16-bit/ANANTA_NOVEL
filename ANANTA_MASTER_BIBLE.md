@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–18)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–19)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–18 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–19 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1282,3 +1282,15 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Preserve Prayagraj/Mirzapur/Varanasi geography, family agency, public/local workers and all accrued costs. Aadhya needs the actual post48h reassessment; Ira's eye/hand limits and boys'/mentors' aggravated injuries persist. Any later elapsed days and functional permissions must be explicit, individual and bounded; **light duty is not combat clearance**.
 - Ch0–70, earlier-book merges, protected dialogue/reveal/chronology contracts and the original51 source stay unchanged. Future-document epigraph, reviewed short chunks,4,300–6,200w, one END, continuity note, Book3+actual Book4 canon, numeric merge and separate commit+immediate push after each chapter.
 - Neutral Book4 metadata only. **Stop after Ch 73; Ch 74 requires a later request.**
+
+
+---
+
+## PART 19: BOOK 4 — SINGLE CH 74 CONTINUATION
+
+**Authority:** the user's later **“Continue”** after73, read under12.7, authorizes **Ch 74 only**. Part18's completed stop73 is historical. Begin the already-approved74–78 tournament arc, not a new five-chapter execution batch. No main publication requested.
+
+- Resolve73's actual partial-kavach medical alarm first: immediate clinical assessment/observation, honest family contact, no full shatter before79 or origin answer before81. A fading flare is not repaired integrity, a new form, mastery or combat clearance.
+- Tournament opening may show ordinary representatives of already-known Kuls and existing supporting people, without locking a new important named antagonist/Kul roster. Consent, clinical eligibility, limited sources/techniques and real costs matter. A sporting score does not award ownership of roads, relief or households. No equation with earlier Foundation instruments or an overarching controller.
+- Preserve the existing city split and individual injuries/follow-ups. Elapsed observation/rest must be explicit; travel/spectator permission is not permission to fight. Ira's eye review and Aadhya's hand limits remain; no free healing/ancestry shortcut or new power. All other chronology, reveal and independent-mystery contracts stay locked; pending lore/names remain pending.
+- Ch0–73/prior notes and Books1–3 merges unchanged.4,300–6,200w, future-document epigraph, reviewed short chunks, one END74, continuity note, Book3+actual Book4 checks, regenerated numeric merge, separate commit+immediate push current branch. Neutral Book4 metadata only. **Stop after Ch 74; Ch 75 requires a later request.**

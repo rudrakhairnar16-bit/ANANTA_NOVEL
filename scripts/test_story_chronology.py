@@ -129,7 +129,7 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Pending names/lore remain pending", batch)
 
     def test_through73_closes_only_regional_defense_with_care_limits(self):
-        batch = self.bible.split("## PART 18:", 1)[1]
+        batch = self.bible.split("## PART 18:", 1)[1].split("## PART 19:", 1)[0]
         self.assertIn("Ch 71–73 only", batch)
         self.assertIn("approved66–73 multiple-city defense arc", batch)
         self.assertIn("No tournament before74", batch)
@@ -137,6 +137,15 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("post48h reassessment", batch)
         self.assertIn("Pending names/lore remain pending", batch)
         self.assertIn("Stop after Ch 73", batch)
+
+    def test_single74_opens_tournament_without_resetting_medical_cliff(self):
+        continuation = self.bible.split("## PART 19:", 1)[1]
+        self.assertIn("Ch 74 only", continuation)
+        self.assertIn("already-approved74–78 tournament arc", continuation)
+        self.assertIn("medical alarm first", continuation)
+        self.assertIn("spectator permission is not permission to fight", continuation)
+        self.assertIn("no full shatter before79 or origin answer before81", continuation)
+        self.assertIn("Stop after Ch 74", continuation)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
