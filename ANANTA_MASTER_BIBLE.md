@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–20)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–21)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–20 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–21 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1306,3 +1306,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Continue the approved74–78 tournament arc with ordinary representatives of existing Kuls. No new important named antagonist/Kul roster, no new form/mastery/repeatable first form, no free healing or source-free Darpan. A sporting result does not award roads, relief or household ownership. Keep the three-city split and individual clinical permissions; spectator permission is not combat clearance.
 - M7 can advance only through bounded observed partial damage: **no full kavach shatter before79, no father-origin answer before81**. No equation of independent mysteries, private60 whisper knowledge, premature Ira ancestry answers or activation of pending lore/names.
 - Protect Ch0–74/prior notes+plans and Books1–3 merges. Only the explicit12.7 batch-default sentence and Bible index/addendum change existing policy text; all other locked contracts remain. Each chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; after each run required Book3+actual Book4 checks, regenerate numeric merge, separate commit and immediate current-branch push before the next chapter. **Stop after Ch 77; no78 in this execution.**
+
+
+---
+
+## PART 21: CH 78–80 / BOOK 4 COMPLETION
+
+**Authority:** “Next Batch continue” after77, under the three-chapter default, authorizes **Ch 78–80 only**. Part20's completed stop77 is historical. Finish the already-approved74–78 tournament and execute the already-approved **79–80 full kavach shatter / true signature exposed to all Lokas**. This is not permission to start81 or publish to main.
+
+- Answer77's rising live rim/unguarded jaw immediately: release/contact/stop and actual clinical checks before a result. Finish tournament with real bounded results, consent, limited sources and costs; no score becomes ownership of roads/relief/households. No newly locked important antagonist/Kul roster or old-Foundation/controller equation.
+- **No full shatter in78.**79–80 must deliver actual complete loss of the concealing kavach, not a third partial-only postponement. Exposure is not a new Swaroop, repeatable first form, healed body, source-free Darpan, safe-count solution, advanced fusion or mastery. Gold intrinsic to the already-seen signature is not a rebuilt seal.
+- **No father-origin answer before81**; no gated parent names/lineage/realm explanation, maternal-origin reveal, private60 whisper knowledge, premature Ira ancestry/provenance answers or activation of pending names/lore. Keep independent mysteries independent. All-Lokas exposure can be established by external effects/objects/anonymous observers only: **no villain POV**, named new ruling roster, reopened destroyed58 device/portal or ancestor-power download.
+- Preserve the three-city split and actual individual medical care, injuries, return/travel permissions, family agency and honest communication. Full-shatter emergency requires immediate patient/bystander response and real consequences, not convenient universal healing or unexplained reunion.
+- Ch0–77/prior notes+plans/Books1–3 merges/locked contracts unchanged. Each new chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; Book3+actual Book4 checks, numeric merge, separate commit+immediate current-branch push after EACH before next. Neutral Book4 metadata; merged61–80 must contain20 sources once/numeric/END-stripped. **Stop after Ch 80; no81/main publication.**

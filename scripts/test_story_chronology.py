@@ -149,7 +149,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
     def test_three_chapter_default_and75_77_preserve_story_gates(self):
         standing = self.bible.split("### 12.7 ", 1)[1].split("## PART 13:", 1)[0]
-        batch = self.bible.split("## PART 20:", 1)[1]
+        batch = self.bible.split("## PART 20:", 1)[1].split("## PART 21:", 1)[0]
         self.assertIn("Three chapters per batch", standing)
         self.assertIn("three chapters per batch", batch)
         self.assertIn("Ch 75–77 only", batch)
@@ -158,6 +158,17 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("no full kavach shatter before79", batch)
         self.assertIn("no father-origin answer before81", batch)
         self.assertIn("Stop after Ch 77", batch)
+
+    def test78_80_closes_book4_without_early_origin_or_mastery(self):
+        batch = self.bible.split("## PART 21:", 1)[1]
+        self.assertIn("Ch 78–80 only", batch)
+        self.assertIn("No full shatter in78", batch)
+        self.assertIn("actual complete loss", batch)
+        self.assertIn("true signature exposed to all Lokas", batch)
+        self.assertIn("No father-origin answer before81", batch)
+        self.assertIn("no villain POV", batch)
+        self.assertIn("not a new Swaroop", batch)
+        self.assertIn("Stop after Ch 80", batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
