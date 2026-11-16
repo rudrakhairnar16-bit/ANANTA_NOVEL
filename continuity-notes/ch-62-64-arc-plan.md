@@ -1,6 +1,6 @@
 # Ch62–64 — Book4 execution plan
 
-**Authority:** user's explicit “ok next 3chapters continue”; Bible Part15. This is a bounded scene-execution plan within the existing61–65 Kul-War opening, not approval of additional lore or changes to earlier chapters. Status:62 COMPLETE (4,717 words),63 COMPLETE (4,421 words);64 follows with its own checks/commit/push. Stop64.
+**Authority:** user's explicit “ok next 3chapters continue”; Bible Part15. This is a bounded scene-execution plan within the existing61–65 Kul-War opening, not approval of additional lore or changes to earlier chapters. Status:62 COMPLETE (4,717 words),63 COMPLETE (4,421 words),64 COMPLETE (4,481 words). Batch complete:13,619 new chapter words. STOP64; no65 drafted.
 
 ## Fixed incoming state
 
