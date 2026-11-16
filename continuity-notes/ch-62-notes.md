@@ -26,3 +26,7 @@ No parent-origin/advanced-form name,60 whisper knowledge, proposed character/rea
 ## Pipeline
 
 Five chunks957/922/990/972/875 words before assembly edits; final assembled4,717. Full reread corrected ambulance side-door access, bag-owner movement, an unclear food joke, and claim-versus-proof language. Strict word/END/epigraph/quotation/repetition/reveal audit PASS. Required Book3 + Book4 checks PASS;16 regression tests PASS. No checker weakening;64 older book files,61 source, protected Bible5/10/12 and original51 draft unchanged. Merge now61–62, once each, END markers stripped. Individual chapter commit + immediate push on `arena/ec1bc639-ananta-novel`;63–64 still to follow within this explicit batch.
+
+## Continuity correction during63 review
+
+Ch30 explicitly had Ira **stand beside**, not sit in, the extra empty chair. Newly written62's single recollection line was corrected accordingly with63; word count remains4,717. Original30 and every0–61 source are untouched. Corresponding merged62 passage regenerated.

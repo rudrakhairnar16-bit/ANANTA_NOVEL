@@ -461,7 +461,7 @@ Ira laughed once. It hurt behind the dressing. She let the older woman move the 
 
 Rudra heard none of the joke clearly from his bed. He heard the change in her voice.
 
-There had been a chair at Rajghat which she had chosen to sit in. There were people who came when she was hurt. No one at a checkpoint had the authority to make those things temporary.
+There had been a chair at Rajghat which she had chosen to stand beside. There were people who came when she was hurt. No one at a checkpoint had the authority to make those things temporary.
 
 ---
 
