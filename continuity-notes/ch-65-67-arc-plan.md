@@ -1,6 +1,6 @@
 # Ch65–67 — bounded execution plan
 
-Authority: “67 tak complete karo”, after64 delivery. Bible Part16. Write65–67, individually verify/commit/immediately push, then STOP67. No main publication requested. Status:65 COMPLETE (4,482w),66 COMPLETE (4,450w);67 unwritten.
+Authority: “67 tak complete karo”, after64 delivery. Bible Part16. Write65–67, individually verify/commit/immediately push, then STOP67. No main publication requested. Status:65 COMPLETE (4,482w),66 COMPLETE (4,450w),67 COMPLETE (4,415w). Batch13,347w COMPLETE. STOP67; no68 drafted.
 
 ##65 — The Hour Before Water
 
