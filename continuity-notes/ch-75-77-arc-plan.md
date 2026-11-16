@@ -1,6 +1,6 @@
 # Ch75–77 — three-chapter execution plan
 
-**Authority:** user changed default to **3 chapters/batch**, then “Complete karo”. **75–77 only; STOP77, no78/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline65c7835. Status: **75 COMPLETE4,435w**;76–77 unwritten.75 strict/21 regressions/Book3+Book4/merge/preservation PASS; next proceed76 only after75 commit+immediate push. Bible12.7/Part20 record new default without retconning old completed runs.
+**Authority:** user changed default to **3 chapters/batch**, then “Complete karo”. **75–77 only; STOP77, no78/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline65c7835. Status: **75 COMPLETE4,435w** (36d0f20); **76 COMPLETE4,387w**;77 unwritten. Each strict/21 regressions/Book3+Book4/merge/preservation PASS; proceed77 only after76 commit+immediate push.75 unchanged. Bible12.7/Part20 record new default without retconning old completed runs.
 
 ## Locked ground
 
