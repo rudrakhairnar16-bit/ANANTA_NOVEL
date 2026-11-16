@@ -1,6 +1,6 @@
 # Ch75–77 — three-chapter execution plan
 
-**Authority:** user changed default to **3 chapters/batch**, then “Complete karo”. **75–77 only; STOP77, no78/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline65c7835. Status: **75 COMPLETE4,435w** (36d0f20); **76 COMPLETE4,387w**;77 unwritten. Each strict/21 regressions/Book3+Book4/merge/preservation PASS; proceed77 only after76 commit+immediate push.75 unchanged. Bible12.7/Part20 record new default without retconning old completed runs.
+**Authority:** user changed default to **3 chapters/batch**, then “Complete karo”. **75–77 only; STOP77, no78/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline65c7835. **Status: BATCH COMPLETE13,222w** —75:4,435w (36d0f20);76:4,387w (62e768c);77:4,400w. Each strict/21 regressions/Book3+Book4/merge/preservation PASS; final all-four-book sweep PASS (only old27/50 length warnings).75/76 sources+notes unchanged. **STOP77/no78.** Bible12.7/Part20 record new default without retconning old completed runs.
 
 ## Locked ground
 
@@ -28,3 +28,8 @@ Continue74's **same-moment falling70 porter**, not a different cartman/yard open
 ## Production / audit
 
 Each4300–6200w, future-document2–4-line epigraph, hook, dialogue subtext/1–2 turns, one END. Five short clean reviewed chunks each; scrap drift. Per chapter: strict word/format/quote/repetition/garble/reveal check; **Book3+actual Book4 canon**,21 regressions, numeric merge61–current exact once/END-stripped; preservation0–74/prior notes+plans/Books1–3/original51/checker and Bible contracts except explicitly changed12.7 sentence. Separate commit + **immediate push before drafting next chapter**. Final all-four-book sweep; show sources/merged and Hinglish summary, clean remote-sync, STOP77.
+
+
+## Actual batch close
+
+75 answered the porter fall with confirmed nondisplaced wrist fracture/immobilization/follow-up/earned intro pay, actual Veer return and paused/reviewed event handover. Green/Yellow bout ended76 **Yellow3–1**, no automatic injured-underdog win.76's small new M7 offshoot was seen/reported/clinically assessed with continued staffed observation, no cure/full shatter/origin answer. Full day34 rest, individually cleared day35 spectator interval.77 follows semifinal to **4–4**; ninth exchange existing runner/loosened clod fails, low moving guard rising towards crouching opponent's jaw, referee stop hands rising. **No actual contact/injury/result/78 action yet.** Veer still supported/return arranged, Rudra hospital, girls Mirzapur, family Varanasi. Ordinary college material/family/porter home care preserve living agency, no mastery/ancestry/independent-mystery shortcut. Merge61–77 **17 sources once/numeric/no ENDs**. Delivery protocol remains separate77 commit+immediate branch push, main unchanged, STOP77.
