@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–19)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–20)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–19 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–20 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1146,7 +1146,7 @@ The gods remember. Humanity forgets. Write accordingly.
 | M16 | Prologue Lord ↔ city officer relationship | Part 12.5 reconciliation | OPEN — needs user sign-off to resolve |
 
 ### 12.7 STANDING USER RULES (restated)
-1. One chapter per "continue" (multi-chapter runs only on explicit ask).
+1. **Three chapters per batch**, including a generic "continue" (latest user instruction after74: “Ab se tum 3 ke batch me hi chapters likhoge”). This supersedes the former one-chapter default; an explicit later scope instruction controls its own run. Historical completed batch boundaries remain historical.
 2. Hinglish summaries; garble-clean chunks; `canon_check.py book-02-resonance` PASS; single `### END OF CHAPTER NN` marker.
 3. **Nothing story-side changes without user permission** — including titles, reconciliations, and reveal timings.
 
@@ -1294,3 +1294,15 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Tournament opening may show ordinary representatives of already-known Kuls and existing supporting people, without locking a new important named antagonist/Kul roster. Consent, clinical eligibility, limited sources/techniques and real costs matter. A sporting score does not award ownership of roads, relief or households. No equation with earlier Foundation instruments or an overarching controller.
 - Preserve the existing city split and individual injuries/follow-ups. Elapsed observation/rest must be explicit; travel/spectator permission is not permission to fight. Ira's eye review and Aadhya's hand limits remain; no free healing/ancestry shortcut or new power. All other chronology, reveal and independent-mystery contracts stay locked; pending lore/names remain pending.
 - Ch0–73/prior notes and Books1–3 merges unchanged.4,300–6,200w, future-document epigraph, reviewed short chunks, one END74, continuity note, Book3+actual Book4 checks, regenerated numeric merge, separate commit+immediate push current branch. Neutral Book4 metadata only. **Stop after Ch 74; Ch 75 requires a later request.**
+
+
+---
+
+## PART 20: THREE-CHAPTER DEFAULT / CH 75–77 EXECUTION
+
+**Authority:** after74, the user explicitly changed the standing workflow to **three chapters per batch**; the subsequent **“Complete karo”** authorizes **Ch 75–77 only**. Part19's single74 execution is complete, not a restriction on this later request. A generic continue now means the next three chapters, not one. No main publication requested.
+
+- Answer74's falling injured porter immediately with actual landing, medical assessment/care and honest consequences. Do not substitute a registration receipt, appearance allowance or introduction label for consent/clinical clearance. Individual accountability is not collective Kul guilt or proof of an overarching controller.
+- Continue the approved74–78 tournament arc with ordinary representatives of existing Kuls. No new important named antagonist/Kul roster, no new form/mastery/repeatable first form, no free healing or source-free Darpan. A sporting result does not award roads, relief or household ownership. Keep the three-city split and individual clinical permissions; spectator permission is not combat clearance.
+- M7 can advance only through bounded observed partial damage: **no full kavach shatter before79, no father-origin answer before81**. No equation of independent mysteries, private60 whisper knowledge, premature Ira ancestry answers or activation of pending lore/names.
+- Protect Ch0–74/prior notes+plans and Books1–3 merges. Only the explicit12.7 batch-default sentence and Bible index/addendum change existing policy text; all other locked contracts remain. Each chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; after each run required Book3+actual Book4 checks, regenerate numeric merge, separate commit and immediate current-branch push before the next chapter. **Stop after Ch 77; no78 in this execution.**

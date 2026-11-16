@@ -139,13 +139,25 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Stop after Ch 73", batch)
 
     def test_single74_opens_tournament_without_resetting_medical_cliff(self):
-        continuation = self.bible.split("## PART 19:", 1)[1]
+        continuation = self.bible.split("## PART 19:", 1)[1].split("## PART 20:", 1)[0]
         self.assertIn("Ch 74 only", continuation)
         self.assertIn("already-approved74–78 tournament arc", continuation)
         self.assertIn("medical alarm first", continuation)
         self.assertIn("spectator permission is not permission to fight", continuation)
         self.assertIn("no full shatter before79 or origin answer before81", continuation)
         self.assertIn("Stop after Ch 74", continuation)
+
+    def test_three_chapter_default_and75_77_preserve_story_gates(self):
+        standing = self.bible.split("### 12.7 ", 1)[1].split("## PART 13:", 1)[0]
+        batch = self.bible.split("## PART 20:", 1)[1]
+        self.assertIn("Three chapters per batch", standing)
+        self.assertIn("three chapters per batch", batch)
+        self.assertIn("Ch 75–77 only", batch)
+        self.assertIn("falling injured porter immediately", batch)
+        self.assertIn("spectator permission is not combat clearance", batch)
+        self.assertIn("no full kavach shatter before79", batch)
+        self.assertIn("no father-origin answer before81", batch)
+        self.assertIn("Stop after Ch 77", batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
