@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–14)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–15)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–14 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–15 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1229,4 +1229,17 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - No equation between Ira's lineage and the eighth-gate/assistant-ledger/unknown-hand thread. No Lord/city-officer/Right-Hand identity reconciliation.
 - No Ch 0–60 rewrite, new primordial being, changed cosmic hierarchy, altered dialogue lock, revised Ram/Rukmini reveal schedule or removed injury cost.
 - Book 4's individual title remains unassigned. A neutral `book-04` directory/merged heading is organizational metadata, not a newly approved book title.
-- Only Ch 61 is authorized now; Ch 62 waits for a later request. Draft in short reviewed chunks, 4,300–6,200 words, epigraph, one END61 marker, continuity note, strict/full checks, merged file, individual commit and immediate push.
+- That decision authorized only Ch 61. The later explicit three-chapter request is recorded in Part 15; it does not expand the Ira lore approval above.
+
+
+---
+
+## PART 15: BOOK 4 — EXPLICIT CH 62–64 BATCH AUTHORIZATION
+
+**Authority:** after publication of the existing work to main, the user requested **“ok next 3chapters continue”** on the new active Arena branch. Under12.7, this explicit batch request authorizes **Ch 62–64 only**. Part14's former one-chapter execution limit is historical, not a refusal of the later request.
+
+- Continue directly from61's blocked ambulance. Remain within the existing61–65 Kul-War opening; no early multi-city split, tournament, parental-origin answer or full kavach shatter.
+- Preserve the outgoing61 injuries, observation/medical rules, actual route geography and closed/destroyed portal/device. Any discharge/transport permission must be explicit and limited; elapsed time is not a cure or combat clearance.
+- Each new chapter: approximately4,300–6,200 words, legend-first epigraph, reviewed short chunks, one matching END marker, consequence note, required Book3 and Book4 canon checks, regenerated Book4 merge, individual commit and immediate push on the current branch.
+- Sakshi/Ch187–190 contract and all other reveal gates remain unchanged. Other proposed names/realm lore remain pending. No new important antagonist/Kul roster or reconciliation of independent identities is authorized.
+- The neutral Book4 heading remains organizational metadata. Ch0–61 and existing merged Books1–3 stay untouched. **Stop after Ch 64; Ch 65 requires a later request.**

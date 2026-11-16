@@ -103,7 +103,13 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Ch 187–188: **IRA'S SAKSHI KUL REVEAL.**", self.saga4)
         self.assertIn("Ch 189–190: **THE CHOICE AFTER THE ANSWER.**", self.saga4)
         self.assertIn("Enough proof remains", self.saga4)
-        self.assertIn("Only Ch 61 is authorized now", self.bible)
+        self.assertIn("Only the Ira witness-lineage core", self.bible)
+
+    def test_later_explicit_batch_does_not_unlock_lore(self):
+        batch = self.bible.split("## PART 15:", 1)[1]
+        self.assertIn("Ch 62–64 only", batch)
+        self.assertIn("Stop after Ch 64", batch)
+        self.assertIn("all other reveal gates remain unchanged", batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
