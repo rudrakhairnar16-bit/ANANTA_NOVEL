@@ -1,6 +1,6 @@
 # Ch71–73 — completion of the regional-defense arc
 
-Authority: **“complete till 73”** after70. Bible Part18. Work only on `arena/ec1bc639-ananta-novel`; each chapter/source+note+numeric merge validated, separately committed and immediately pushed. **STOP73; no74/main publication.** Status: **71 COMPLETE4,382w (`17a3911`, pushed);72 COMPLETE4,358w**, source/notes/checks/merge finalized for separate commit+immediate push;73 unwritten. Delivered events/costs/handoffs are in chapter notes. Earlier completed stop70 is historical.
+Authority: **“complete till 73”** after70. Bible Part18. Work only on `arena/ec1bc639-ananta-novel`; each chapter/source+note+numeric merge validated, separately committed and immediately pushed. **STOP73; no74/main publication.** Status: **BATCH COMPLETE — 71:4,382w (`17a3911`);72:4,358w (`a96146b`);73:4,415w. Total13,155w.** Sources/notes finalized, checks PASS, merge61–73 regenerated; individual commit+immediate push per chapter. **STOP73; no74 drafted.** Delivered events/costs/handoffs are in chapter notes; outline below is the historical bounded plan, not further authorization. Earlier completed stop70 is historical.
 
 ## Starting state / non-negotiable boundaries
 
