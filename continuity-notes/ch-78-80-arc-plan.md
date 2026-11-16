@@ -1,6 +1,6 @@
 # Ch78–80 — Book4 completion batch
 
-Authority: **“Next Batch continue”** after77, three-chapter default. **78–80 only; STOP80/no81/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline3caed7a. Status: **78 COMPLETE4,403w**, tournament closed;79–80 unwritten. Strict/22 regressions/Book3+Book4/merge/preservation PASS; proceed79 only after78 separate commit+immediate push. Bible21/new22nd regression records scope, not new lore approval.
+Authority: **“Next Batch continue”** after77, three-chapter default. **78–80 only; STOP80/no81/main publication.** Branch `arena/ec1bc639-ananta-novel`, baseline3caed7a. Status: **78 COMPLETE4,403w /79 COMPLETE4,526w**, tournament closed and whole kavach shattered;80 unwritten. Strict/22 regressions/Book3+Book4/merge/preservation PASS; proceed80 only after79 separate commit+immediate push. Bible21/new22nd regression records scope, not new lore approval.
 
 ## Fixed outgoing77
 
