@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–17)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–18)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–17 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–18 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1269,3 +1269,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Preserve all other reveal gates, Sakshi187–190 contract, chosen Sarokaar identity and independent-mystery boundaries. Pending names/lore remain pending. No new important antagonist/Kul roster or proved overarching controller.
 - Ch0–67 and earlier-book merges remain unchanged. Each new chapter:4,300–6,200w, future-document epigraph, reviewed short chunks, one END, consequence notes, required Book3 and actual Book4 checks, regenerated numeric merge, individual commit and immediate push on current branch.
 - Neutral Book4 metadata remains. **Stop after Ch 70; Ch 71 requires a later request.**
+
+
+---
+
+## PART 18: BOOK 4 — EXPLICIT CH 71–73 BATCH AUTHORIZATION
+
+**Authority:** after70 delivery, the user requested **“complete till 73”**. This authorizes **Ch 71–73 only**. Part17's completed stop70 is historical; the standing individual-chapter check/commit/immediate-push pipeline continues on the current branch. No main publication requested.
+
+- Answer70's live forced-night-watch transport emergency immediately with actual local response. Complete the approved66–73 multiple-city defense arc without reuniting the travelling pairs early or treating a local success as peace everywhere.
+- No tournament before74, full kavach shatter before79 or father-origin reveal before81. No new important antagonist/Kul roster, proved controller, new form/mastery, repeatable first form, ancestral power or equation of independent mysteries. Pending names/lore remain pending.
+- Preserve Prayagraj/Mirzapur/Varanasi geography, family agency, public/local workers and all accrued costs. Aadhya needs the actual post48h reassessment; Ira's eye/hand limits and boys'/mentors' aggravated injuries persist. Any later elapsed days and functional permissions must be explicit, individual and bounded; **light duty is not combat clearance**.
+- Ch0–70, earlier-book merges, protected dialogue/reveal/chronology contracts and the original51 source stay unchanged. Future-document epigraph, reviewed short chunks,4,300–6,200w, one END, continuity note, Book3+actual Book4 canon, numeric merge and separate commit+immediate push after each chapter.
+- Neutral Book4 metadata only. **Stop after Ch 73; Ch 74 requires a later request.**

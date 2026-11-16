@@ -120,13 +120,23 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Pending names/lore remain pending", batch)
 
     def test_through70_batch_preserves_limits_and_later_reveals(self):
-        batch = self.bible.split("## PART 17:", 1)[1]
+        batch = self.bible.split("## PART 17:", 1)[1].split("## PART 18:", 1)[0]
         self.assertIn("Ch 68–70 only", batch)
         self.assertIn("Stop after Ch 70", batch)
         self.assertIn("66–73 multiple-city defense arc", batch)
         self.assertIn("emergency action is not retroactive combat clearance", batch)
         self.assertIn("full kavach shatter before79", batch)
         self.assertIn("Pending names/lore remain pending", batch)
+
+    def test_through73_closes_only_regional_defense_with_care_limits(self):
+        batch = self.bible.split("## PART 18:", 1)[1]
+        self.assertIn("Ch 71–73 only", batch)
+        self.assertIn("approved66–73 multiple-city defense arc", batch)
+        self.assertIn("No tournament before74", batch)
+        self.assertIn("light duty is not combat clearance", batch)
+        self.assertIn("post48h reassessment", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
+        self.assertIn("Stop after Ch 73", batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
