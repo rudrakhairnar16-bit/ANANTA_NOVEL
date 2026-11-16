@@ -24,33 +24,46 @@ GLOBAL_BANS = [
 
 # --- BOOK 1 EARLY-REVEAL BANS (apply to NEW chapters 04+ only) ----------------
 # Reference chapters (00-03) are locked canon prose and are exempt.
-EARLY_REVEAL_BANS = [
-    (r'\basuran\w*\b', "Father's Pataal origin reveal = Saga 2 (Ch 81-92)"),
-    (r'\bpataal\b|\bpatala\b', "Pataal reveal = Saga 2"),
-    (r'\bdashanan\b', "Kaal's real name = never in Book 1"),
-    (r'\bkaal\b', "Kaal name first spoken Ch 119-120; shadow only Ch 60"),
-    (r'\bardhanarishwar\w*\b', "Prologue-only term in Book 1; named reveal = Saga 3"),
-    (r'\bswarg\b|\bsvar\b', "Mother's Swarg origin reveal = Saga 3 (Ch 131-142)"),
-    (r'\bsutala\b', "Sutala named reveal = Saga 2+ (Prologue keeps it unnamed-ish)"),
-    (r'\bloka\w*\b', "Lokas framework reveal = post-Book 1"),
-    (r'\bmaha devta\w*\b|\bdevta\w*\b', "Divine hierarchy reveal = post-Book 1"),
-    (r'\bswaroop\w*\b', "Swaroop = Book 3 transformation term (Ch 41-60)"),
-    (r'\bj[aa]grut\b|\bdvandva\b|\banant\b', "Rudra Swaroop names = Book 3+"),
-    (r'\bshakti:|\bvelum:|\bdrishti:', "Epic State names in combat = Book 3"),
-    (r'\bepic state\b', "System term characters do not know in Saga 1"),
-    (r'\bvedant\b|\bdhruv\b|\bsitara\b', "Mentors arrive Book 3 (Ch 41-45)"),
-    (r'\brudhransh\b|\bshivangi\b', "Children = Saga 4-5 (name leak ban)"),
-    (r'\badhira\b', "2020 villain = flashback-only, post-Book 1"),
-    (r'\bdaksh\b', "Swarg usurper = Saga 3 antagonist"),
-    (r'\bkaal chakra\b', "Ending line = Ch 300 only"),
-    (r'\bthe cycle\b|\bdivine cycle\b', "Cycle as named doctrine = not spoken in Book 1 streets"),
-]
+EARLY_REVEAL_BANS = []  # all rows moved to ERA_GATED (bible-scheduled reveals)
 
 # --- PLACEMENT-SPECIFIC BANS ---------------------------------------------------
 PLACEMENT_BANS = [
     (r'\bkul\w*\b', 18, 'First explicit "Kul" mention = Ch 18'),
     (r'\baegis\b|\bmeridian\b', 9, 'Aegis Meridian scouts first appear = Ch 9 (name spoken even later is fine)'),
 ]
+
+# --- ERA-GATED REVEAL TABLE (user-approved Book-3 unlocking, 2026-11-14) -------
+# Terms from EARLY_REVEAL_BANS that the bible unseals at specific chapters.
+# n < min_ch  => still banned. Same semantics as PLACEMENT_BANS.
+ERA_GATED = [
+    (r'\bloka\w*\b', 41, 'Lokas framework reveal = Book 3 (Ch 41+)'),
+    (r'\bsutala\b', 46, "Sutala named = Ira's siege revelation (Ch 46+)"),
+    (r'\bswaroop\w*\b', 51, 'Swaroop term = attempts arc (Ch 51+)'),
+    (r'\bvedant\b|\bdhruv\b|\bsitara\b', 41, 'Mentors arrive Book 3 (Ch 41-45)'),
+    (r'\bshakti:|\bvelum:|\bdrishti:', 51, 'Epic State names in combat = Ch 51+'),
+    (r'\bepic state\b', 51, 'System term = Ch 51+'),
+    (r'\bj[aa]grut\b', 56, "Rudra's first Swaroop name = Ch 56"),
+    (r'\bthe one who broke god\b', 59, "Ram's hospital line = Ch 59"),
+    (r'\bardhanarishwar\w*\b', 60, 'Ch-60 rooftop whisper only; named reveal = Saga 3'),
+    (r'\bthe cycle\b|\bdivine cycle\b', 60, 'Ch-60 whisper only; doctrine naming = later'),
+    (r'\basuran\w*\b', 81, "Father's Pataal origin reveal = Saga 2 (Ch 81-92)"),
+    (r'\bpataal\b|\bpatala\b', 81, 'Pataal reveal = Saga 2 (Ch 81-92)'),
+    (r'\badhira\b', 81, '2020 villain = flashback-only, Saga 2+'),
+    (r'\bmaha devta\w*\b|\bdevta\w*\b', 111, 'Maha Devta-level threat = Ch 111-118'),
+    (r'\bkaal\b', 119, 'Kaal name first spoken Ch 119-120; shadow only Ch 60'),
+    (r'\bswarg\b|\bsvar\b', 131, "Mother's Swarg origin reveal = Saga 3 (Ch 131-142)"),
+    (r'\bdaksh\b', 131, 'Swarg usurper = Saga 3 antagonist'),
+    (r'\bdashanan\b', 179, "Kaal's real name = Saga 3+ territory"),
+    (r'\bdvandva\b', 131, 'Dual-realm fusion = Saga 3 (Ch 143+)'),
+    (r'\bsakshi\b', 187, 'Approved Ira birth-Kul name = Ch 187-188, Part 14'),
+    (r'\banant\b', 241, 'Late Swaroop name = Saga 4+'),
+    (r'\brudhransh\b', 230, 'Birth = Saga 4 Ch 230-232; chronology repair Part 13'),
+    (r'\bshivangi\b', 241, 'Existing Shivangi name gate unchanged (Saga 4-5)'),
+    (r'\bkaal chakra\b', 300, 'Ending line = Ch 300 only'),
+]
+
+# EARLY_REVEAL rows NO LONGER live here once era-gated; the plain list retains
+# only terms with no scheduled reveal (eternal bans handled above in GLOBAL).
 
 # --- VERBATIM LOCKS that must NOT leak early ----------------------------------
 LOCK_LEAKS = [
@@ -106,18 +119,24 @@ def scan_file(path: pathlib.Path, is_reference: bool):
         for pat, why in EARLY_REVEAL_BANS:
             for m in re.finditer(pat, prose, re.I):
                 fails.append(f"EARLY REVEAL '{m.group(0)}' — {why}")
-        for pat, min_ch, why in PLACEMENT_BANS:
+        for pat, min_ch, why in PLACEMENT_BANS + ERA_GATED:
             if n < min_ch:
                 for m in re.finditer(pat, prose, re.I):
                     fails.append(f"PLACEMENT LEAK '{m.group(0)}' — {why}")
+        LOCK_ALLOW = {59: r'the one who broke god'}
         for pat in LOCK_LEAKS:
             for m in re.finditer(pat, prose, re.I):
+                if n in LOCK_ALLOW and re.match(LOCK_ALLOW[n], pat):
+                    continue
                 fails.append(f"DIALOGUE LOCK LEAK '{m.group(0)[:40]}...'")
-        for m in AGE_GUARD.finditer(prose):
-            num = m.group(1) or m.group(2)
-            if num and int(num) != 19:
-                ctx = prose[max(0, m.start()-60):m.end()+40].replace('\n', ' ')
-                warns.append(f"AGE mention '{num}' (locked=19): ...{ctx}...")
+        # The nineteen-year baseline is scoped to Saga 1-3. Later chapters
+        # include elapsed years and children; ages follow the Part 13 ledger.
+        if n <= 180:
+            for m in AGE_GUARD.finditer(prose):
+                num = m.group(1) or m.group(2)
+                if num and int(num) != 19:
+                    ctx = prose[max(0, m.start()-60):m.end()+40].replace('\n', ' ')
+                    warns.append(f"AGE mention '{num}' (locked=19): ...{ctx}...")
     else:
         pass  # reference prose is locked canon; global bans still applied above
 
@@ -128,7 +147,10 @@ def scan_file(path: pathlib.Path, is_reference: bool):
     return words, fails, warns
 
 def main():
-    files = sorted(f for f in CHAPTER_DIR.glob('*.md') if re.match(r'^ch-\d\d-', f.name))
+    files = sorted(
+        (f for f in CHAPTER_DIR.glob('*.md') if re.match(r'^ch-\d{2,3}-', f.name)),
+        key=lambda f: int(re.match(r'^ch-(\d+)', f.name).group(1)),
+    )
     if not files:
         print('No chapter files found.'); sys.exit(1)
     total_fails = 0

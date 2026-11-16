@@ -93,7 +93,7 @@ Then he sat at the office's modest desk — still piled with the former officer'
 
 And at margin:
 
-*Rudra Yadav does not exist in shared municipal birth files. Ref: archive C-1983.*
+*Rudra Vashisht does not exist in shared municipal birth files. Ref: archive C-1983.*
 
 Then the lamp was banked at 8 PM exactly and the household-kitchen's lamp at the lane's end was still burning for the washing.
 
@@ -260,7 +260,7 @@ At dinner that night he said not one word of it; at midnight, the chest seam pul
 
 ---
 
-**The Right Hand also took a walk that week — Friday evening, alone, civilian cap low — and arrived at his silent view of Rudra Yadav without any instruments: watched the boy cross Taat-Niya Chowk with two kilos of chana in one hand and umbrella rolled on his forearm like all boys. He read nothing nationally past thought visitation eyebrows-based typology:
+**The Right Hand also took a walk that week — Friday evening, alone, civilian cap low — and arrived at his silent view of Rudra Vashisht without any instruments: watched the boy cross Taat-Niya Chowk with two kilos of chana in one hand and umbrella rolled on his forearm like all boys. He read nothing nationally past thought visitation eyebrows-based typology:
 
 **"Ye ladka band hai. Run nahi kar raha — ruka raha hai."
 
@@ -292,7 +292,7 @@ And that was how, that Thursday evening — market packing up, a boy coming home
 
 Rudra turned a corner under the incomplete new balcony-shadow of someone's repaired first floor and the man simply **was there** — on the far-side of the lane, strolling as one memorizes, in civilian shirt, nothing in his hands, having been placed, Rudra understood in the instant, with care: not in his path; but at the place where his **eyes would land**. Carefully, evenly, as men speak at appointed barriers when they intend diplomacy of the strictest and oldest kind, the Right Hand of the Crown-circle said, in good clear Hindi:
 
-**"Namaste, Rudra Yadav."**
+**"Namaste, Rudra Vashisht."**
 
 A second. The district's sounds continued beyond them at every edge of this adjustment: a rickshaw bell; a pressure-cooker; the vegetable seller's long three-tone cry.
 

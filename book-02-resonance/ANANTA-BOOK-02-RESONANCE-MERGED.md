@@ -298,10 +298,10 @@ Thursday brought the flyer.
 It was handed out at college gates and paan shops and the wrestling pit's fence — yellow paper, well printed, a colour-blocked sun over a stylized river:
 
 **MERIDIAN FOUNDATION presents**
-**OPEN AKHARA — All Banaras Challenge**
+**OPEN AKHADA — All Banaras Challenge**
 *India's youth, India's strength. Open wrestling bouts at the old riverside ground. Prize ₹5,000 for any local who lasts three full minutes with our State Champion. This Saturday after the public lecture.*
 
-Every chai stall in the district got fifty copies. They did not go home with their evening count. People want to see things the city can now afford to look at: an akhara opening, a prize, India's name folded three times into third person.
+Every chai stall in the district got fifty copies. They did not go home with their evening count. People want to see things the city can now afford to look at: an akhada opening, a prize, India's name folded three times into third person.
 
 By evening the college boys had renamed it, predictably, *paanch-hazaar-ka-chance* — and nobody that heard the name all afternoon was too poor to hope.
 
@@ -309,9 +309,9 @@ Veer was one of them.
 
 ---
 
-The old akhara had reopened Thursday morning. Actual contractors did the work — proper shovelling, new sand worked into the ring, three parachute tents for shade, a visitor gallery fenced off, two black vehicles parked under what used to be the pavilion's left pergola. Birju was declared the State Champion at three PM.
+The old akhada had reopened Thursday morning. Actual contractors did the work — proper shovelling, new sand worked into the ring, three parachute tents for shade, a visitor gallery fenced off, two black vehicles parked under what used to be the pavilion's left pergola. Birju was declared the State Champion at three PM.
 
-All Banaras knew Birju. Temple-hair pehlwan, wife's flower stall across the Hanuman temple, six-foot-two of akhara stubbornness, once banned a year over a suspension nobody ever explained, back from Pune camps a June, runner-up at the state level. And yet it was not entirely the same Birju. He was quieter. He declined every ceremonial boast strongmen start bouts with. In the pits between rounds he walked with a shallow, careful gait like a man walking another's legs.
+All Banaras knew Birju. Temple-hair pehlwan, wife's flower stall across the Hanuman temple, six-foot-two of akhada stubbornness, once banned a year over a suspension nobody ever explained, back from Pune camps a June, runner-up at the state level. And yet it was not entirely the same Birju. He was quieter. He declined every ceremonial boast strongmen start bouts with. In the pits between rounds he walked with a shallow, careful gait like a man walking another's legs.
 
 First bout: a local club-kid in his twenties offered himself as warm-up. Birju caught him by the waist, lifted him off his feet with the energy of somebody hoisting a sack, and set him down flat on the sand-ring side of the boundary — so gently it was almost an apology. Second and third, same. Four district regulars in twenty minutes. Each thrown without visible violence; none bruised. All of them glared at their own surprise for a while afterward like customers charged for meals they don't remember eating.
 
@@ -325,7 +325,7 @@ The dial's red needle swung hard up when Birju gripped a man, held its reading t
 
 Veer identified, then, the other two such devices in the pit gallery — one per controller, tent-shadowed at either end of the visitor rail, identically suited, one dial-face glimpsed under each cuff, same brassy municipal stillness. The nearer one had a woolen-bound notebook and wrote constantly in it with the indulgent attention of somebody billing an incident report.
 
-Veer left the akhara a little after nine. Twice on the walk home he stopped and looked at nothing in particular — the old wordless habit of a man who has noticed something and is still letting it rise. At home, in the courtyard, Ira was already waiting with the chai. They looked at each other over it with the exact quality of two pieces of the same game laid by different people.
+Veer left the akhada a little after nine. Twice on the walk home he stopped and looked at nothing in particular — the old wordless habit of a man who has noticed something and is still letting it rise. At home, in the courtyard, Ira was already waiting with the chai. They looked at each other over it with the exact quality of two pieces of the same game laid by different people.
 
 "Dekha maine," Veer said. "Unke haath mein joote naapne waale sensors hain — cuff waale. Pehlwan ke bhi, gate ke bhi."
 
@@ -333,7 +333,7 @@ Veer left the akhara a little after nine. Twice on the walk home he stopped and 
 
 On Friday morning Rudra went himself.
 
-His father had said not to go near their gates. That covered gates. It did not cover a crowd rope at eleven AM at an akhara Rudra had legal rights to, older than the rights of anyone employed to patrol it. He wore full sleeves, kept his chest wrapped plain — no tape, Ram's rule — and stood inside the second row of the afternoon's shove-along public with his hands folded like any local student on a Friday off.
+His father had said not to go near their gates. That covered gates. It did not cover a crowd rope at eleven AM at an akhada Rudra had legal rights to, older than the rights of anyone employed to patrol it. He wore full sleeves, kept his chest wrapped plain — no tape, Ram's rule — and stood inside the second row of the afternoon's shove-along public with his hands folded like any local student on a Friday off.
 
 Birju worked two bouts. The Foundation's chosen champion was exactly as Veer had described: quiet, methodical, empty of ceremony, throwing full-time district heavyweights with the calm energy-budget of a man setting down orders his body already understood. Between bouts the two controllers noted things in their register and changed the dial-face on his cuff twice — a lieutenant boy-wrencher walked from tent to champion with the intimate short history of boys sent by places to keep speaking the whole truth to the wrestlers.
 
@@ -404,7 +404,7 @@ He walked home — no limp tonight; that was later — wrote the milk order on t
 
 **Yudh abhi shuru hua hai.**
 
-On the roof-pipeline of the same sleeping city that night — two kilometers across the rooftops feeding his lower step every Sunday from the smaller sewage of a light-grid anxious Tuesday — Rudra Yadav slept the deep sleep of a boy whose week had plainly ended: no nightmares, no climbing re-calculation of alarms, only the plain division of himself back among the ordinary dreams. His own fists were in front of his chest, fisted tight around nothing. On the desk near him, in a hard-bound khata, the nero-black notebook-page he had closed after his father's voice in the stair-well lay open to some white spaces of night from Wednesday:
+On the roof-pipeline of the same sleeping city that night — two kilometers across the rooftops feeding his lower step every Sunday from the smaller sewage of a light-grid anxious Tuesday — Rudra Vashisht slept the deep sleep of a boy whose week had plainly ended: no nightmares, no climbing re-calculation of alarms, only the plain division of himself back among the ordinary dreams. His own fists were in front of his chest, fisted tight around nothing. On the desk near him, in a hard-bound khata, the nero-black notebook-page he had closed after his father's voice in the stair-well lay open to some white spaces of night from Wednesday:
 **Kal ayega. Kal kuch zayaada nahin toh bilkul zaroor hoga**, he'd written plainly;
 
 And below it, puzzled at by nobody, one cleanly-pencilled line of arithmetical arrival — four figures, in a childlike upright hand:
@@ -415,7 +415,7 @@ And below it, puzzled at by nobody, one cleanly-pencilled line of arithmetical a
 
 Ira's night ledger carried one line:
 
-*Saturday: lecture aur akhara ek hi din. Public sab waahin honge — aur hum bhi.*
+*Saturday: lecture aur akhada ek hi din. Public sab waahin honge — aur hum bhi.*
 
 And under it, kept plain, which was the whole appetite of that chapter's worth of worry set down at last the way lists are written by people who know what they are for:
 
@@ -441,7 +441,7 @@ Forty minutes in, the speaker requested *volunteers* for a demonstration of "tra
 
 Ira watched the woman in white's mouth counting with each touch — a little read-off of numbers addressed to some listening place under the stage, each number departing that clipboard like a bead departing a thread.
 
-The whole thing took fifty-five minutes. It ended with an invitation — the akhara, the challenge, five thousand rupees, patriotism. The crowd left warmer than it arrived. The stillness the estate had taken all that way out of the stoveyard was never noticed leaving or coming back.
+The whole thing took fifty-five minutes. It ended with an invitation — the akhada, the challenge, five thousand rupees, patriotism. The crowd left warmer than it arrived. The stillness the estate had taken all that way out of the stoveyard was never noticed leaving or coming back.
 
 Ira wrote in her register: *"jaali hai — magar chamakdar jaali."*
 ---
@@ -519,7 +519,7 @@ Nobody said anything.
 
 Ira looked at him the way she looked at errors that have arrived too early to be mistakes and too late to be student-questions, and waited to be outraged.
 
-"Kal lecture humara line-up hai. Akhara unka hai," Veer said, addressing his own knuckles. "Lekin ye bracelet waala scene — main usse paas se test karna chahta hoon. Darwaze pe nahi. Ring mein. Maine khud pehli baar rozana bharat mein alchemy ka sauda dekha. Us bracelet ke saath jis bazaar wala maamla saamne hai, woh match-record nahi nikalta without exact testing."
+"Kal lecture humara line-up hai. Akhada unka hai," Veer said, addressing his own knuckles. "Lekin ye bracelet waala scene — main usse paas se test karna chahta hoon. Darwaze pe nahi. Ring mein. Maine khud pehli baar rozana bharat mein alchemy ka sauda dekha. Us bracelet ke saath jis bazaar wala maamla saamne hai, woh match-record nahi nikalta without exact testing."
 
 "Toh tum maar khaane jaa rahe ho," Ira said. "Saaf-saaf."
 
@@ -573,7 +573,7 @@ The city hardly noticed: it was a modest office hour, and old Banaras in Novembe
 
 In the Foundation's wet-ink night register — a hard rectangle of a book beside the wire their reports fed ground-fore — entered somewhere toward the back in a small even hand:
 
-*Event 41 — akhara challenge: local subject Moin-ul-Haq, age 19. Duration achieved: 180 sec. Bracelet output maximum sustained: 96%. Subject uninstrumented. Estimated output origin: unknown — pending re-scan. Recommended: approach indirect only. Priority flag: deliberation room — second desk.*
+*Event 41 — akhada challenge: local subject Moin-ul-Haq, age 19. Duration achieved: 180 sec. Bracelet output maximum sustained: 96%. Subject uninstrumented. Estimated output origin: unknown — pending re-scan. Recommended: approach indirect only. Priority flag: deliberation room — second desk.*
 
 And below that entry, in the same dry hand, the single unalterable truth which no tactics can erase and no confidentiality can revoke:
 
@@ -730,7 +730,7 @@ They rose, folded chairs, and the four walked out through the rich warm salon do
 
 Only at the tea table, redirected like visitors were issued three stalls of sweets rather than one. The fourth was a neatly sealed paper envelope with a name typed in front, reading merely:
 
-**R. Yadav**
+**R. Vashisht**
 
 A gift by bureaucracy. By envelope under it.
 
@@ -804,7 +804,7 @@ Halfway through the tea, freedom's few small hearths were practised.
 
 Birju.
 
-Yes: they had all seen the akhara champion up in the gallery seats of the salon, packed in against the back in khaki with two service-suspenders making a parody of his arms, watching the demonstration with his chin folded on his chest — just sitting there, arms folded, as a man sits by something whose sum he already got from his own careful investigation of a whole week's defective amends. Every time a demo succeeded the face went down one tune exactly one quarter-inch — silently, eveningly — till at the heading of a sentence patient he was simply not looking at anything anymore.
+Yes: they had all seen the akhada champion up in the gallery seats of the salon, packed in against the back in khaki with two service-suspenders making a parody of his arms, watching the demonstration with his chin folded on his chest — just sitting there, arms folded, as a man sits by something whose sum he already got from his own careful investigation of a whole week's defective amends. Every time a demo succeeded the face went down one tune exactly one quarter-inch — silently, eveningly — till at the heading of a sentence patient he was simply not looking at anything anymore.
 
 "Uski hasi," said Veer. "Subah akhare mein — hasi poori jaati. Aur shaam ko sab se bade table ke peeche matlab ka visiting-almanac hualari badges. *Kaiyyarik veer.*"
 
@@ -938,7 +938,7 @@ Dadi signed for Rudra's. She read it twice, folded it once, placed it under her 
 By noon the four had the same card in four separate hands. Wording, identical:
 
 **MERIDIAN FOUNDATION — Youth Division**
-**invites the following: R. Yadav / M. Ansari / A. Sharma / I. Karim**
+**invites the following: R. Vashisht / M. Dikshit / A. Sharma / I. Mishra**
 **Saturday, 10 AM — Verification Review. Buses from Maidagin crossing.**
 **Attendance kindly requested so that funding decisions may be finalized.**
 
@@ -960,7 +960,7 @@ Rudra and Aadhya, inside. Veer and Ira, outside — city side, street side — w
 
 Inside the haveli at ten past ten the atmosphere was changed from Tuesday: fewer flowers, more officiants. The reception desk now possessed a metal detector-arch of modest size — probably kitchen equipment, definitely kitchen equipment — and the smiling desk-girls didn't ask names. They *had* names.
 
-"Rudra Yadav," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
+"Rudra Vashisht," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
 
 The classroom was the second room of the old inner wing — the one Ira's rezoning notes called "the map room," from its south light — and forty-eight chairs now held twenty-two students. Fifteen faces the crew did not recognize; seven they did, from the lecture list. It smelled of turpentine and cardamom tea kept too long on a hot plate.
 
@@ -982,7 +982,7 @@ But Aadhya saw what the glass factory did to boys: the Tuesday kid stood two ful
 
 She moved one finger exactly two millimetres on her armrest. Rudra, at her left, said nothing and kept looking straight: but under his collar, where the Monday fault-line ran along the bone, the skin had gone four degrees hotter than the classroom.
 
-In the second row, the boy nearest the wall — face washed, face ordinary, face nobody's — leaned forward to see better and slid one sleeve-hem exactly one inch up: to reveal a bare wrist with nothing on it except a fine, fine, white embroidered akhara thread, the sort they tie in temples for protection against fever. The man in the visitor-gallery seat beside Aadhya turned, quietly, and made a note with a mechanical pencil that clicked exactly twice.
+In the second row, the boy nearest the wall — face washed, face ordinary, face nobody's — leaned forward to see better and slid one sleeve-hem exactly one inch up: to reveal a bare wrist with nothing on it except a fine, fine, white embroidered akhada thread, the sort they tie in temples for protection against fever. The man in the visitor-gallery seat beside Aadhya turned, quietly, and made a note with a mechanical pencil that clicked exactly twice.
 
 And at the board the officer said, bright: "Next. — Rudra?"
 
@@ -1014,7 +1014,7 @@ The lamp lit once. Pale green. One aperture only — one of eight — and the of
 
 And from under the floor, a fraction of a second after the glass went dark, something answered him — something he felt only against his own chest's seam, which gave one small deep pull like a thread taken between teeth — and the white thread on the wall-boy's wrist twitched, unasked, in the corner of Rudra's sight.
 
-He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Yadav boy, the same card value as a slow cousin from the Tuesday batch.
+He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Vashisht boy, the same card value as a slow cousin from the Tuesday batch.
 
 Behind him Aadhya exhaled without movement. *Third seat. Watch the wall.*
 
@@ -1081,7 +1081,7 @@ Across the dark, Veer's fist stopped in the doorframe's shadow — flexed-open-e
 
 And Birju — across the room, from his seat against the back wall — got up. Slowly: the heavy careful stand of a man who has spent years learning the legal breakfast of heavyweight. Threetoed advocate silence walking across in his canvas shoes; he planted himself between the white-thread boy and the second row of chairs.
 
-"Yeh akhara nahi hai," he said, not loudly. "Yahan bachche ko haath lagana hai kya?"
+"Yeh akhada nahi hai," he said, not loudly. "Yahan bachche ko haath lagana hai kya?"
 
 The thread boy's fingers stayed one second past whatever orders he had received, and then backed.
 
@@ -1117,7 +1117,7 @@ By midnight the boy slept at last; he slept with both fists closed in the formal
 
 Sunday was, by district consensus, a false Sunday.
 
-Veer woke with a swollen lip he had not earned in a fight and spent the whole morning telling his mother it was exhaustion. It was muscle memory: his body had spent the haveli's dark room trying to complete the contract Saturday's akhara had written. In their courtyard his grandfather's old posts stood wrapped in rope; Veer did two full sessions against them before nine AM, discovering only then how frightened he was. The posts, being heritage exercise posts, had the kindness not to notice.
+Veer woke with a swollen lip he had not earned in a fight and spent the whole morning telling his mother it was exhaustion. It was muscle memory: his body had spent the haveli's dark room trying to complete the contract Saturday's akhada had written. In their courtyard his grandfather's old posts stood wrapped in rope; Veer did two full sessions against them before nine AM, discovering only then how frightened he was. The posts, being heritage exercise posts, had the kindness not to notice.
 
 Ira did not leave her roof. She sat with her register open to a new page headed, in her hard-edged script, "*dusra sheher*", and transcribed — from memory — the layout of the inner wing: doors, chairs, gallery seats, the dais, the lamp, the window's hinge direction. The fact that she could do this, to a centimetre, without consulting her own notes, distressed her. She had not believed, until that classroom dark, how complete the day-book could become in the hands of somebody who runs toward things. It also, by morning prayer, failed all her tests: the layout went right to the edges but stopped at the floor below the dais. She kept writing *under the dais* and the pen simply would not commit what came next. Finally she wrote instead: *dais ke neeche kuch hai jo apna naam sunta hai.*
 
@@ -1254,7 +1254,7 @@ status: FIRST DRAFT (post-check pending)
 
 It came on Friday, not Saturday. Of course it came on Friday.
 
-Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Yadav boy without a building involved was to make the building involved. So they chose the river.
+Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Vashisht boy without a building involved was to make the building involved. So they chose the river.
 
 Friday at eleven AM the eastern ghats were shuts, quietly, by order of Heritage Protective Works — brass boards at both ends of Dashashwamedh's lower flight, men in good uniforms taking compasses across the stone, and about three hundred pilgrims re-routed through the tank lanes with the perfect mildness which carried more information than bribes. By eleven-fifteen Aadhya had the exact outline of the cordon in her head, because the cordon had been made with the district-mapping inverted triangles she knew from her own diary: north cordon, south cordon, and a precision *nothing* where the third side should have been. The riverside opening.
 
@@ -1270,7 +1270,7 @@ At one PM precisely the agent came down onto the stone.
 
 He was young — twenty-five maybe — with a shaved temple on one side and a logistics-flat jacket with a numeric code ar the collar. He walked without hurry down the lower flight, and somewhere near the seventh step he stopped and stood with his hands loose as if to make a phone call.
 
-Under his left wrist: a new cuff. Not the bracelet of the akhara week. This was eight centimetres of gunmetal ceramic, cupped to the bone, opening like an unenterable house at least three axes oldest — and Rudra, three hundred metres up-ghat behind a flower seller's heap, felt the thing measure him back across the flats with a mildness worse than blackness.
+Under his left wrist: a new cuff. Not the bracelet of the akhada week. This was eight centimetres of gunmetal ceramic, cupped to the bone, opening like an unenterable house at least three axes oldest — and Rudra, three hundred metres up-ghat behind a flower seller's heap, felt the thing measure him back across the flats with a mildness worse than blackness.
 
 "Ye command-rank hai," Ira said from the rooftop's tea-ledger desk, directly to nobody. She had already written in the new white-column-*chastity* habit of her register, and the pen didn't move: *unka calibrated officer — ye aaj wali ladai humein batane ke liye bataaya gaya hai.*
 
@@ -1630,7 +1630,7 @@ And, in the faint pencil-hand which appears across galena days dressed of winds 
 
 ---
 
-Birju came to the Badi Haveli's gate at six-thirty Tuesday evening, without invitation, and sat down on the gate-stone like a man settling a loan — just sat there, in canvas akhara shoes and his wife's ironed grey kurta, watching the light grow across the Foundation's racks in exactly the way men sit who have concluded their professional business in this neighbourhood.
+Birju came to the Badi Haveli's gate at six-thirty Tuesday evening, without invitation, and sat down on the gate-stone like a man settling a loan — just sat there, in canvas akhada shoes and his wife's ironed grey kurta, watching the light grow across the Foundation's racks in exactly the way men sit who have concluded their professional business in this neighbourhood.
 
 The desk girls wrote it down. He was one hour and forty minutes there. Their observations solved for: **Birju Prasad — bangle- band_ decommissioned. Attachment: to the boy. Affiliation: uncertain.** And the last executive line which went east that night, flat with the cold skill of all their reportage:
 
@@ -1856,7 +1856,7 @@ He read that first page eleven times standing: he had never once met his grandfa
 
 ---
 
-By ten o'clock Veer was in the small back courtyard of his uncle's tailor shop — the only closed yard the family owned where noise couldn't escape — teaching himself the manual's first three pages, which were written for hospitals' night-shifts, for madmen, for going across in the dark. *Pehle teen poses koi attack nahi hain. Hilaaye nahi jaane ke teen tarike hain.* He held the first stance until his back leg filed its protest: harder than the akhara, more inward than the akhara — the akhara is about winning; the tin was about *not going anywhere*.
+By ten o'clock Veer was in the small back courtyard of his uncle's tailor shop — the only closed yard the family owned where noise couldn't escape — teaching himself the manual's first three pages, which were written for hospitals' night-shifts, for madmen, for going across in the dark. *Pehle teen poses koi attack nahi hain. Hilaaye nahi jaane ke teen tarike hain.* He held the first stance until his back leg filed its protest: harder than the akhada, more inward than the akhada — the akhada is about winning; the tin was about *not going anywhere*.
 
 The writing ran in two colours: his grandfather's pencil — terse, technical — and, in the margin, in green ballpoint from a later decade, a second hand, correcting. Commentary. Additions. A second owner — his grandmother, who had added her own exacting column of reposting-base for thirty years on the lessons his grandfather had never finished.
 
@@ -1896,7 +1896,7 @@ Ira's file-hunt began where hunts begin in this district — the municipal recor
 
 "Aapko exactly kya chahiye?" Female clerk. Middle-aged. Swivel chair. Thirty-year-tincture absolute awareness.
 
-"Ira Karim. Birth record. Nineteen."
+"Ira Mishra. Birth record. Nineteen."
 
 The year-books were brought down. Entries pursued with precise forefinger: K, Ka, Kar. Nothing under her name. She had known it since she was six — and she made her neat healthy marginal dot on the page anyway, in case anyone at the adjacent shelves was keeping the collective presence of request patterns. The clerk caught the cadence.
 
@@ -2117,7 +2117,7 @@ Then he sat at the office's modest desk — still piled with the former officer'
 
 And at margin:
 
-*Rudra Yadav does not exist in shared municipal birth files. Ref: archive C-1983.*
+*Rudra Vashisht does not exist in shared municipal birth files. Ref: archive C-1983.*
 
 Then the lamp was banked at 8 PM exactly and the household-kitchen's lamp at the lane's end was still burning for the washing.
 
@@ -2284,7 +2284,7 @@ At dinner that night he said not one word of it; at midnight, the chest seam pul
 
 ---
 
-**The Right Hand also took a walk that week — Friday evening, alone, civilian cap low — and arrived at his silent view of Rudra Yadav without any instruments: watched the boy cross Taat-Niya Chowk with two kilos of chana in one hand and umbrella rolled on his forearm like all boys. He read nothing nationally past thought visitation eyebrows-based typology:
+**The Right Hand also took a walk that week — Friday evening, alone, civilian cap low — and arrived at his silent view of Rudra Vashisht without any instruments: watched the boy cross Taat-Niya Chowk with two kilos of chana in one hand and umbrella rolled on his forearm like all boys. He read nothing nationally past thought visitation eyebrows-based typology:
 
 **"Ye ladka band hai. Run nahi kar raha — ruka raha hai."
 
@@ -2316,7 +2316,7 @@ And that was how, that Thursday evening — market packing up, a boy coming home
 
 Rudra turned a corner under the incomplete new balcony-shadow of someone's repaired first floor and the man simply **was there** — on the far-side of the lane, strolling as one memorizes, in civilian shirt, nothing in his hands, having been placed, Rudra understood in the instant, with care: not in his path; but at the place where his **eyes would land**. Carefully, evenly, as men speak at appointed barriers when they intend diplomacy of the strictest and oldest kind, the Right Hand of the Crown-circle said, in good clear Hindi:
 
-**"Namaste, Rudra Yadav."**
+**"Namaste, Rudra Vashisht."**
 
 A second. The district's sounds continued beyond them at every edge of this adjustment: a rickshaw bell; a pressure-cooker; the vegetable seller's long three-tone cry.
 
@@ -2438,7 +2438,7 @@ and beneath it, smaller, almost rubbed away by whoever had last held it between 
 
 Ira's breath came once, shallow. She closed the pouch without removing anything, and only then looked at the sign-out card still wired to the shelf-pin. One entry. One single entry in forty-three years:
 
-**"14.11.1983 — R. YADAV, Survey Assistant, MCD — reason: SURVEY VERIFICATION — return date: —"**
+**"14.11.1983 — R. VASHISHT, Survey Assistant, MCD — reason: SURVEY VERIFICATION — return date: —"**
 
 The return line was blank. Beneath the card, in the manifest's own ruled column, a rubber stamp repeated itself in a patient blue column of identical verdicts, one for every audit year, fading from violet 1984 to the resent bright purple of last Thursday:
 
@@ -2456,7 +2456,7 @@ On the steps outside, in the sun, the recorder-lady permitted exactly one conver
 
 "Kabhi nahi." The old woman looked across the road at nothing, precisely the way a person looks when they are seeing forty years. "Har saal stamp hota hai. *Anveshan jaari.* Sun — jis cheez ki sachmuch talash chalti hai, woh milti ya kho jaati hai. Stamp sirf tab chalti hai jab koi nahi chahta ki cheez mile. Stamp bol rahi hai: *yeh raaz abhi zinda hai, door rakho.*"
 
-"R. Yadav," Ira said quietly. "Ram ke pitaji."
+"R. Vashisht," Ira said quietly. "Ram ke pitaji."
 
 "Hmm." Nothing in the old woman's face confirmed it; nothing denied it. "Surveyor the. Rekha kheenchte the. Sheher mein ab bhi simayen hain jo unki tainat ki hui hain. Log un par ghar banaate hain, bhuele." She adjusted her sari's end over her shoulder. "Jaanti ho kya hai survey ka kaam, bitiya? Pehle rekha kheenchna. Taaki baad mein koi aur na kheenche."
 
@@ -2479,7 +2479,7 @@ The Right Hand read it twice. Then he took his grey pencil — the thin one he s
 
 He turned to his own trip-register and laid the facts out in his flat, unhurried hand:
 
-> *1983: box signed out by R. Yadav, Survey Assistant, this district. Never returned. Never genuinely pursued.*
+> *1983: box signed out by R. Vashisht, Survey Assistant, this district. Never returned. Never genuinely pursued.*
 > *1983: the same year four tamarind tokens went into a sealed file.*
 > *Present: the surveyor's son builds furniture two lanes from the temple tank. Dovetails perfect. Glue-lines invisible. A man who decides what a piece of wood IS before he measures what it can be made to carry.*
 
@@ -2491,7 +2491,7 @@ He wrote one more line and boxed it:
 
 > **"DO NOT hunt the box. Hunt the man who decided the box was no longer safe where it lay. The box was tin. The decision — that was the vault."**
 
-Then he did something nobody in the Foundation's local office would have believed of him: he put on his ordinary civilian kurta, walked the length of the bazaar at dusk, and stood across the road from Ram Yadav's furniture shop for the length of one cigarette he never lit, simply watching.
+Then he did something nobody in the Foundation's local office would have believed of him: he put on his ordinary civilian kurta, walked the length of the bazaar at dusk, and stood across the road from Ram Vashisht's furniture shop for the length of one cigarette he never lit, simply watching.
 
 A boy passed under the streetlamp — Rudra, groceries on his shoulder — and the Right Hand's eyes went, with the third-of-a-second speed of a trained witness, to the boy's shadow as it crossed the lamp's angle.
 
@@ -2536,7 +2536,7 @@ The plane stopped.
 
 Not dramatically — Ram had spent thirty years making sure nothing about him ever stopped dramatically — but the ribbon of wood shavings thinning to nothing, the plane iron standing still an inch above the grain: in that shop, where work had never once halted mid-stroke, it was as loud as a shout.
 
-"Box ki baat nahi kar raha main," the Right Hand continued, mild as milk. "Sign ki baat kar raha hoon. Aadmi ka sign uski niyat hota hai. Tumhaare pitaji — jab woh likhte the *R. Yadav* — kis niyat se likhte the?"
+"Box ki baat nahi kar raha main," the Right Hand continued, mild as milk. "Sign ki baat kar raha hoon. Aadmi ka sign uski niyat hota hai. Tumhaare pitaji — jab woh likhte the *R. Vashisht* — kis niyat se likhte the?"
 
 Ram looked at him fully for the first time.
 
@@ -2604,7 +2604,7 @@ Ira told it flat, the way she reported everything: the dust rectangle, the seven
 
 Nobody interrupted her. When she finished, the roof held one of its silences — the kind in which the district's water-tanks and satellite-less antennas and temple flag all seemed to lean in, listening.
 
-"R. Yadav," Veer said at last. It was not a question.
+"R. Vashisht," Veer said at last. It was not a question.
 
 "Mere dada," Rudra said.
 
@@ -2834,7 +2834,7 @@ Rudra's jaw moved. The frustration came up through him hot and orange *— and h
 
 Ram watched all nine without comment. Then: "Achha. Ginti pehle se lambi thi." *(Good. The count was longer than before.)* It was the first compliment of the new kind — not about what Rudra could do, but about what he could now *hold*.
 
-"Teen kaam hain mere paas," Ram said, and now he did stop, because this part had been prepared, and a Yadav preparing words is a rarer mechanism than any clock in the district. "Naam ke peeche koi pariksha rakhte nahi hum. Par *pad* ke peeche rakhte hain. Sun."
+"Teen kaam hain mere paas," Ram said, and now he did stop, because this part had been prepared, and a Vashisht preparing words is a rarer mechanism than any clock in the district. "Naam ke peeche koi pariksha rakhte nahi hum. Par *pad* ke peeche rakhte hain. Sun."
 
 One finger. "Pehla: us cheez ko — jo seene mein jaagi hai — ek poore ghante tak jaagne do, aur istemaal bilkul mat karo. Naam roshni *dene* mein nahi hai — roshni **sambhalne** mein hai: diya aandhi mein bhi jalta rahe, aur kisi aur ka kaam na kare — yeh mushkil hai. Yahi pehla kaam."
 
@@ -2842,7 +2842,7 @@ Second finger. "Doosra: ek baar — bina us cheez ke — peeth par gir ke dekho.
 
 Third finger. "Aur teesra: kisi aise ke liye wajan uthao jo kamzor hai — jahan koi dekh na raha ho. Koi praising nahi, koi register nahi. Tumhara kavach nahin — *tumhari peeth*."
 
-"Yeh teen kaam," he added, after the tank had gone fully black beside them, "maine bhi kiye the. Tumhare dada ne rakhe the mere saamne — bus itna hi batata hoon unke baare mein ki woh rekha kheenchne waale the, aur rekha ke doosri taraf khade rehna unhone mujhe sikhaya tha, nahi unki taraf aana." He said it without heat, the plainest inheritance-summary a Yadav had yet voiced aloud. "Main ek cheez aur kehta hoon kyunki tum bade ho gaye ho: teeno kaam mein se koi bhi tumhari *taakat* par nahi hai. Teeno tumhare **dhaarne** par hain. Jis din tum samajh jaoge ki rakha jaana hi asli zor hai — us din humein waapas baithna hai."
+"Yeh teen kaam," he added, after the tank had gone fully black beside them, "maine bhi kiye the. Tumhare dada ne rakhe the mere saamne — bus itna hi batata hoon unke baare mein ki woh rekha kheenchne waale the, aur rekha ke doosri taraf khade rehna unhone mujhe sikhaya tha, nahi unki taraf aana." He said it without heat, the plainest inheritance-summary a Vashisht had yet voiced aloud. "Main ek cheez aur kehta hoon kyunki tum bade ho gaye ho: teeno kaam mein se koi bhi tumhari *taakat* par nahi hai. Teeno tumhare **dhaarne** par hain. Jis din tum samajh jaoge ki rakha jaana hi asli zor hai — us din humein waapas baithna hai."
 
 He folded the fingers down. "Jab teeno ho jayein, aa jana. Main kholunga."
 
@@ -2977,7 +2977,7 @@ There was no reason, yet, to be afraid of the disappointment of a thing that was
 
 Monday stayed kind, the way districts stay kind before weddings, with a sweetness that in retrospect would look like the world drawing one deep breath.
 
-Veer spent it in the akhara dust with the manual open at its fourteenth page — his dada's pencil describing the third stance in six words that still resisted understanding, and his dadi's green ink circling them in the margin with a single underlined verdict: *nahin, beta — yeh akhri hai kyunki yeh pehla hai.* He read it eleven times and understood nothing except that the green hand had also, once, not understood.
+Veer spent it in the akhada dust with the manual open at its fourteenth page — his dada's pencil describing the third stance in six words that still resisted understanding, and his dadi's green ink circling them in the margin with a single underlined verdict: *nahin, beta — yeh akhri hai kyunki yeh pehla hai.* He read it eleven times and understood nothing except that the green hand had also, once, not understood.
 
 Aadhya spent it at the ghat rim with her two sprouts and a third seam the old woman had shown her by the simple act of kneeling somewhere new. The bread-seller's pitcher had acquired a second, smaller lota beside it now — *for the little one*, he said, not specifying which little one he meant.
 
@@ -3176,7 +3176,7 @@ Anticipation.
 
 Then, as the bell-dark began — not to fade; to *tilt*, the way waking tilts a dream out from under you:
 
-"Hamara samay ho gaya hai, Yadav-ka-beta. Taala kholne ka waqt dheere-dheere aa raha hai. Aur sun — " quieter; almost tender; the sound of a hand resting briefly on a shoulder through glass: "usse mat poochna ki woh kaun hai. **Khud se poochna ki tum kis taraf ke taale ho.**"
+"Hamara samay ho gaya hai, Vashisht-ka-beta. Taala kholne ka waqt dheere-dheere aa raha hai. Aur sun — " quieter; almost tender; the sound of a hand resting briefly on a shoulder through glass: "usse mat poochna ki woh kaun hai. **Khud se poochna ki tum kis taraf ke taale ho.**"
 
 The bell rang.
 
@@ -3216,13 +3216,13 @@ And the pause ended, and the silence went on waiting, because Veer was getting u
 
 It is written that way in no police record and in every lane's memory: *Veer utha.*
 
-He got up the way he had got up eleven times in his grandfather's akhara dust before the age of fourteen — not quickly, not defiantly, with no music in it anywhere; he got up the way furniture gets righted by people who intend to keep using it. His right hand held half a baton. His left hand held the other half. His feet — the traitorous feet he had been staring at, demanding an explanation of — he placed, consciously, toe-line to toe-line, twelve inches apart, on the *old* marks: his own foot-prints from before he had been moved.
+He got up the way he had got up eleven times in his grandfather's akhada dust before the age of fourteen — not quickly, not defiantly, with no music in it anywhere; he got up the way furniture gets righted by people who intend to keep using it. His right hand held half a baton. His left hand held the other half. His feet — the traitorous feet he had been staring at, demanding an explanation of — he placed, consciously, toe-line to toe-line, twelve inches apart, on the *old* marks: his own foot-prints from before he had been moved.
 
 He stepped back into his own footprints the way you step back into your own name.
 
 The man with no pulse watched this with the first flicker of something on his face that was not patience.
 
-"Bhai," Veer said, in the third person the akhara keeps for sacred purposes, "main wapas aa gaya." *(Brother — the akhara's word of respect even for enemies — I have returned.)*
+"Bhai," Veer said, in the third person the akhada keeps for sacred purposes, "main wapas aa gaya." *(Brother — the akhada's word of respect even for enemies — I have returned.)*
 
 The man inclined his head the width of a coin, and waited.
 
@@ -3235,17 +3235,17 @@ He was being *engaged.*
 What the ghat then witnessed for four minutes, the lanes retold for four years.
 
 ---
-When Veer was nine, his dada had died in the month of Kartik, and the akhara had kept his corner swept for eleven days, and on the eleventh day Veer's dadi had put the steel tin into his hands and said: *"Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
+When Veer was nine, his dada had died in the month of Kartik, and the akhada had kept his corner swept for eleven days, and on the eleventh day Veer's dadi had put the steel tin into his hands and said: *"Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
 
 "Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
 
 The baton had come three weeks later, in the same tin, wrapped in oiled cloth the colour of strong tea. Ninety centimetres. Sheesham like the house's best doorframes. His dadi had stood over the unwrapping with the tallyman's pride of widows, and Veer had been nine years old and had not understood why a stick should matter, so she had told him — once, the way she told things: once, permanently:
 
-"Tumhare dada ne yeh *kharidi* nahi thi. Aur banayi bhi nahi thi. Yeh *di gayi* thi." She had set the baton across his two palms — too heavy, for nine. "Pata hai akhare mein baton ka asli kaam kya hai? Madad nahi. **Intezaar.** Jab tak tum waise sahi khade na ho jao ki lath ki zaroorat hi na rahe, akhara tumhe lath deta hi nahi. Pehle pair. Phir hathiyar. Hathiyar aakhri cheez hai — bhoolne ke liye."
+"Tumhare dada ne yeh *kharidi* nahi thi. Aur banayi bhi nahi thi. Yeh *di gayi* thi." She had set the baton across his two palms — too heavy, for nine. "Pata hai akhare mein baton ka asli kaam kya hai? Madad nahi. **Intezaar.** Jab tak tum waise sahi khade na ho jao ki lath ki zaroorat hi na rahe, akhada tumhe lath deta hi nahi. Pehle pair. Phir hathiyar. Hathiyar aakhri cheez hai — bhoolne ke liye."
 
 *(This was not bought. It was not made. It was conferred. You don't get the staff to help you hold your ground — you get it when you no longer need it.)*
 
-Twenty years later — this evening, on the ghat — the baton had split finally in two, and the district would say afterward, in the tone reserved for omens you couldn't afford to be frightened of, that the akhara's oldest equipment had broken *only after* its lesson had completed its arrival into the boy.
+Twenty years later — this evening, on the ghat — the baton had split finally in two, and the district would say afterward, in the tone reserved for omens you couldn't afford to be frightened of, that the akhada's oldest equipment had broken *only after* its lesson had completed its arrival into the boy.
 
 He had read the manual every morning since. For eleven years, at 5 AM, in lamplight that his mother pretended not to have to refill.
 
@@ -3259,7 +3259,7 @@ The pencil-hand said little. Page fourteen had six words in it — the third sta
 
 The first exchange was over before the crowd saw it.
 
-Veer came in with the half-baton low — stance two, *rasta badal do*, the yielding-arc — and the man simply stood through it the way you stand through wind, and Veer's follow-through brought him around with the second half of the baton rising to the temple-line in a strike that should not, by any physics the akhara taught, have been *catchable* —
+Veer came in with the half-baton low — stance two, *rasta badal do*, the yielding-arc — and the man simply stood through it the way you stand through wind, and Veer's follow-through brought him around with the second half of the baton rising to the temple-line in a strike that should not, by any physics the akhada taught, have been *catchable* —
 
 The man caught it. Between two fingers. He held the sixty-year-old oiled wood like a letter he was deciding whether to read.
 
@@ -3297,7 +3297,7 @@ The man with no pulse regarded him differently then.
 
 Both feet. On the ghat dust. For the first time that evening — the crowd did not gasp; the crowd did not know; but Dadi, on the rim, closed her eyes once, slowly, like a teacher whose answer has finally been obtained from the back bench, and the recorder-lady's own disciplines wept somewhere far away without knowing why.
 
-Somewhere in the oldest shelving of her — under forty years of wheat and weather and doorways — Dadi saw the year 1977 open like a blade-cut page: an evening exactly like this one, heat lamps of a summer, her husband standing in front of **his** teacher in the akhara with two feet set down for the first time, and the whole akhara not knowing whether to cheer or go home, and her own green-ink hand in the margin, young then, writing the words Veer had spent eleven years unable to read.
+Somewhere in the oldest shelving of her — under forty years of wheat and weather and doorways — Dadi saw the year 1977 open like a blade-cut page: an evening exactly like this one, heat lamps of a summer, her husband standing in front of **his** teacher in the akhada with two feet set down for the first time, and the whole akhada not knowing whether to cheer or go home, and her own green-ink hand in the margin, young then, writing the words Veer had spent eleven years unable to read.
 
 She had waited eleven years and one evening to learn whether the grandson would read them correctly.
 
@@ -3328,7 +3328,7 @@ And Veer — nineteen, sweating through the pain-smell of himself, his grandfath
 
 *(Because you are here. And my people are behind me.)*
 
-The man considered the answer with the seriousness of a clerk who has finally been handed the puzzle he was posted for. Then he hit Veer once more — cleanly, almost kindly, exactly above the heart, a fist placed rather than swung — and Veer went down into his own foot-prints, out like a lamp at oil's end, unbeaten in any way the akhara would count it.
+The man considered the answer with the seriousness of a clerk who has finally been handed the puzzle he was posted for. Then he hit Veer once more — cleanly, almost kindly, exactly above the heart, a fist placed rather than swung — and Veer went down into his own foot-prints, out like a lamp at oil's end, unbeaten in any way the akhada would count it.
 
 It was 6:47 PM. Ira wrote the time afterward from memory, in an undamaged register, twice underlined.
 
@@ -3400,7 +3400,7 @@ A coat under Veer's head. Water cupped from the river in a brass lota for Aadhya
 
 Birju carried Veer.
 
-No one asked him; he was simply, once the carrying began, *there* — broad, silent, smelling of the tailor-shop's chalk and threading-oil — and he took the akhara boy up in the two arms that had once been measured by the Foundation's machines and found worth wiring for, and he carried him the whole road up from the ghats without adjusting his grip once, even when the wrist needed it. In the old grammar of pehlwans, adjusting your grip mid-carry signalled weight. Birju carried the boy as if he weighed what a baton still-living weighs.
+No one asked him; he was simply, once the carrying began, *there* — broad, silent, smelling of the tailor-shop's chalk and threading-oil — and he took the akhada boy up in the two arms that had once been measured by the Foundation's machines and found worth wiring for, and he carried him the whole road up from the ghats without adjusting his grip once, even when the wrist needed it. In the old grammar of pehlwans, adjusting your grip mid-carry signalled weight. Birju carried the boy as if he weighed what a baton still-living weighs.
 
 Ira walked unaided the whole way, the register clutched flat across her chestbone in both hands. At the first tea-corner she stopped, sat on the stall's bench without asking, opened the strap — it came open, ordinary as weather, *now* — and with hands that trembled only fractionally more than they deserved, she wrote one line and underlined it once:
 
@@ -3446,7 +3446,7 @@ The hour had arrived.
 
 Ram did not go inside to see his son first. The district would hold that against him for a day, until the tellers understood — he had gone **to where the fight would be**, and the order of his duties was a grief no one should have to explain.
 
-"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Yadav turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
+"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Vashisht turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
 
 The whisper had reached its proper ears.
 
@@ -3495,7 +3495,7 @@ The foundation's officer was finishing his morning chai when the carpenter came 
 
 Officers of the Crown-circle — of any circle, of any era — are trained to recognize the approach of secrets: by car, by envelope, by emissary, by subpoena. Nothing in their training covers the approach of a *father*, midweek, on foot, in sawdust.
 
-"R. Yadav," said the local officer, rising. Guards appeared in doorways with the quietness of good tools. The detection dial on the reception wall did not spin for this man. Nothing in him was of the governed kind they registered.
+"R. Vashisht," said the local officer, rising. Guards appeared in doorways with the quietness of good tools. The detection dial on the reception wall did not spin for this man. Nothing in him was of the governed kind they registered.
 
 "You keep machines," said Ram.
 
@@ -3509,7 +3509,7 @@ The officer did not answer. The dial, tellingly, did nothing, which was — the 
 
 "Main carpenter hoon," said Ram. "Main measure karke kaat-ta hoon. Kabhi galat nahi kaata pachaas saal mein, ek inch bhi. Abhi measure ho raha hai yeh sheher." He leaned in, not much. "Socho kaun dekh raha hai tumhara kaam hum par, aur hum na dekhin."
 
-Then, the thing that was entered into no district telling, but which four guards and six clerks witnessed and a Delhi incident-report would confirm three days later at fifty pages: Ram Yadav, carpenter, resident, laid his thumb flat on the brass face of the Foundation's front-desk detection dial — and pressed.
+Then, the thing that was entered into no district telling, but which four guards and six clerks witnessed and a Delhi incident-report would confirm three days later at fifty pages: Ram Vashisht, carpenter, resident, laid his thumb flat on the brass face of the Foundation's front-desk detection dial — and pressed.
 
 The dial's lens — calibrated, expensive, ordered from Delhi with a letterhead — **cracked**. Not outward, the way glass cracks when struck. The lens cracked *around* the shape of the thumb, dead-centred, obedienced, a blister of fracture in an otherwise smooth pane, as though the machine had been holding that flaw in for a long time, waiting for a permission that had finally been spoken.
 
@@ -3755,7 +3755,7 @@ A bench like this keeps its hundred-year tab open, or closes it. Every filing he
 
 The leaves turned overhead. The rotation boy, discharged for the hour but kept at his kettle out of habit, had set three extra clean glasses upside down on the tray before being shooed — and nobody had told him to. Boodhi's place made such provisions on its own long habit; banyans, and their attendant dead, had ways of knowing how many were *actually* coming. At twelve noon exactly, the district's delegation arrived.
 
-Ram Yadav came first, stopping at the bench's north end — the end you fought from if there was going to be fighting, the Right Hand noted — and stood, waiting. Dadi came second, unhurried, carried nothing, leaning nowhere, in a cotton sari that had walked this city down more wednesdays than the Right Hand had been alive. The tea-boy came third with three glasses on a tin tray, because the rotation had already been told there would be three, by someone whose brief was so quietly exact that the Right Hand permitted himself a pencil's worth of new respect.
+Ram Vashisht came first, stopping at the bench's north end — the end you fought from if there was going to be fighting, the Right Hand noted — and stood, waiting. Dadi came second, unhurried, carried nothing, leaning nowhere, in a cotton sari that had walked this city down more wednesdays than the Right Hand had been alive. The tea-boy came third with three glasses on a tin tray, because the rotation had already been told there would be three, by someone whose brief was so quietly exact that the Right Hand permitted himself a pencil's worth of new respect.
 
 Nobody spoke until the glasses were placed. Nobody drank.
 
@@ -4040,7 +4040,7 @@ Veer waited. Waiting had become his principal industry.
 
 Veer stood with that a while, owl-stitches coming through the wire from the ancient side of the sal.
 
-"Sahi kiya," he said at last — and his grammar, for once, forsook the akhara's third person — "kuch cheezein kaagaz ko di gayi hain — aur kuch cheezein haath ko. Jo kal raat thehar kar baith ke likhogi, woh nazariya hai. Yeh gawahi thi. Gawahi haath se maangi jaati hai — kaagaz se nahi."
+"Sahi kiya," he said at last — and his grammar, for once, forsook the akhada's third person — "kuch cheezein kaagaz ko di gayi hain — aur kuch cheezein haath ko. Jo kal raat thehar kar baith ke likhogi, woh nazariya hai. Yeh gawahi thi. Gawahi haath se maangi jaati hai — kaagaz se nahi."
 
 *(Some things are given to paper; some to the hand. What you'll write tomorrow, calm, is opinion. That was testimony. Testimony is asked of the hand, never the paper.)*
 
@@ -4051,7 +4051,7 @@ That was the quietest sentence the night contained; and also, although nobody wr
 ---
 They banked the lamp early, all of them, by joint unspoken decision — the lampless verandah drew the sal country closer, the way darkness lends a room its furniture's true size.
 
-Veer slept first, with the discipline of the akhara: forearm across his ribs, back straight against the wall-boards, out in ninety seconds, laya-breathing like a slow engine. Ira sat by Register Two until the ink stopped making sense, then read nothing, then went in. That left, in the way of verandahs and night-watches and families that stand guard together because there is no other way to stand it, Rudra at the steps' head and Aadhya at the west rail, and the enormous vegetation of God's older accounting sitting midnight-black around three walls.
+Veer slept first, with the discipline of the akhada: forearm across his ribs, back straight against the wall-boards, out in ninety seconds, laya-breathing like a slow engine. Ira sat by Register Two until the ink stopped making sense, then read nothing, then went in. That left, in the way of verandahs and night-watches and families that stand guard together because there is no other way to stand it, Rudra at the steps' head and Aadhya at the west rail, and the enormous vegetation of God's older accounting sitting midnight-black around three walls.
 
 They did not talk for a long time. That was the shape the thing between them had found in the weeks since Rajghat's cracked tile-seam: adjacency. Each knew exactly where the other was, in the dark, by the way you know where a lamp is.
 
@@ -4233,13 +4233,13 @@ Rudra, when she showed him the entry, read the word *spent* twice and grinned fo
 
 Aadhya gardened. Which is to say: she walked the temple's outer line with her palms open, asking nothing, and reported at midday that the sal nearest the temple — the two great ones flanking the gate — carried no memory of their own sowing, only of the pranal-channel's water having once run through their root-zone like a pipe run through a field. "Inhe kisi ne lagaya nahi," she said. "Yeh dono *aaye* hain. Yahan paani ka raasta tha. Jungle apni certificate ke saath khada ho jaata hai jahan paani poorani umar ka ho." *(Those two sal were not planted. They came. Where there was once a water-course, the forest stands up with its own certificate.)* She was quiet the rest of midday, and the quiet was the quiet of someone briefing herself.
 
-Veer kept order — his own, the lane's, the afternoon's: he cooked rice on Faguwa's fire-cradle, and washed the brass plate, and built the evening's bed-rolls order, and at noon when the light came down into the garbhagriha's door at the angle masons reserve for their revealed things, he stood in the threshold's shadow with the baton in its sling and was — as he reported it afterward, with an akhara's unembarrassed precision — *studied.*
+Veer kept order — his own, the lane's, the afternoon's: he cooked rice on Faguwa's fire-cradle, and washed the brass plate, and built the evening's bed-rolls order, and at noon when the light came down into the garbhagriha's door at the angle masons reserve for their revealed things, he stood in the threshold's shadow with the baton in its sling and was — as he reported it afterward, with an akhada's unembarrassed precision — *studied.*
 
 Not the panel. Not the wall. No: at the moment the sun's coin slid down the shikhara and entered the door, the chamber's geometry changed its regard, and he felt — his word, under questioning, in his mother's courtyard, days later — *naiyat*: the appraisal given to a bale of cotton, the ring of the thumb on brass — he had been *weighed at the door*, and the weighing had found him sufficient to enter, and the sufficiency had not made him welcome, only *admissible*. Like a debtor accepted in a counting-house: *yes, your coin is valid. No, we will not smile.*
 
 He repaid the weighing in the only currency his training kept: he stood his full height, feet planted the way his ustad had taught feet to plant when a bout's first exchange is decided *before* hands touch — and he let the doorway look. Ustad-ji's doctrine of the weighing: *the man who fidgets under appraisal has already spent himself; the man who stands just stands.* He did not bow — you do not bow to a scales. He did not stare it down — you do not insult scales either; they simply say what mass says.
 
-And afterward, in the district's retelling, this was the moment that gave the akhara back its pride in him: *Boodhi-ka-Veer had gone to the silent temple and the temple had weighed him and not dismissed him.* His mother, hearing it the fourth time from the bangle-farmer, only said what mothers in that district have the habit of saying: "**Tolne wale ko jhukna nahi padta. Jhukna toliya ko padta hai.**" *(The scales doesn't bow. What is weighed does the bowing.)*
+And afterward, in the district's retelling, this was the moment that gave the akhada back its pride in him: *Boodhi-ka-Veer had gone to the silent temple and the temple had weighed him and not dismissed him.* His mother, hearing it the fourth time from the bangle-farmer, only said what mothers in that district have the habit of saying: "**Tolne wale ko jhukna nahi padta. Jhukna toliya ko padta hai.**" *(The scales doesn't bow. What is weighed does the bowing.)*
 She fed him two extra rotis and did not explain further.
 
 And Rudra —
@@ -4559,7 +4559,7 @@ And it answered itself, just before sleep, in the tone of ledgers finding their 
 
 # CHAPTER 38 — THE WATER'S RECEIPT (Book 2, Ch 18)
 
-They rose in the dark of the last morning with the particular quietness of travellers whose packing has stopped being luggage and become *testimony*: rope coiled the way Ram coiled it, knot on the third coil, never the second; notebooks oil-clothed against sal-dew; the regulation coin — one copper each, four coppers, wrapped in a leaf, leaf in Veer's sling-pocket, pocket flap pinned — pinned, because today's account was *descent-wages*, and Veer had insisted, with the shame-proof stubbornness of akhara boys about debts, on being the designated carrier of all four. ("Ghira hua ho toh pugree nahi; pugree kisi ki, toh deni sabko" — *if one head wears the honour, the turban is everyone's to deliver*, Ram would have said, polishing a batten, if he'd been told; he was told months later, and agreed, and drove a nail in demonstration.)
+They rose in the dark of the last morning with the particular quietness of travellers whose packing has stopped being luggage and become *testimony*: rope coiled the way Ram coiled it, knot on the third coil, never the second; notebooks oil-clothed against sal-dew; the regulation coin — one copper each, four coppers, wrapped in a leaf, leaf in Veer's sling-pocket, pocket flap pinned — pinned, because today's account was *descent-wages*, and Veer had insisted, with the shame-proof stubbornness of akhada boys about debts, on being the designated carrier of all four. ("Ghira hua ho toh pugree nahi; pugree kisi ki, toh deni sabko" — *if one head wears the honour, the turban is everyone's to deliver*, Ram would have said, polishing a batten, if he'd been told; he was told months later, and agreed, and drove a nail in demonstration.)
 
 They walked the breath-bands without speak-counting them this time, which was how they knew the bands had become garden — *you only stop measuring a thing when it has stopped being a question*, Ira wrote later; she did not write then; today Ira had resolved everything would be walked before it was written. The district had produced three clerks before her, and each had said the same retirement-sentence: *the record survives the recording.*
 
@@ -4601,7 +4601,7 @@ And Veer, last — having spent the dawn's marches convincing himself with Ram's
 
 "Kal peeche dekha tha. Aaj nahi dekhunga. Lekin is sikke ki — *rosani aaj utarna baaki hai.*" *(Yesterday I looked back. Today I will not. But for this coin — its* output* is still due to be unloaded today.)*
 
-Rosani — produce, yield, what a field returns; the boys of the akhara's grammar had one good word for *debt-discharge through performance* and it was this: what you owe the ground, you lift it in front of its eyes.
+Rosani — produce, yield, what a field returns; the boys of the akhada's grammar had one good word for *debt-discharge through performance* and it was this: what you owe the ground, you lift it in front of its eyes.
 
 The four coppers shone on green. The kund, out beyond, returned them — they would all swear to it separately, in four tellings, to three generations of the district's children — one soft bass-note of approval, so low it was almost an opinion about the ground.
 Inside the garbhagriha, the day's work was *reading*, and the chapter owes its readers the frankness of registering this: they had thought, walking in, that the remaining mystery would be a device — a chamber behind, a spring under, a lock the bronze tablet fitted. The archive's method of disappointment was more distinguished than that. Nothing in the small square chamber was mechanical. **Every secret the room held was textual**, which is to say, kept in the open, behind no veil except the veil of being too clear to notice.
@@ -4772,7 +4772,7 @@ He said it without harshness — he said it the way he said *iss lakdi mein line
 
 ---
 
-The kitchen was the hour's true council. The district's doctrine had always said so about every house — *bahri panchayat mein faisle likhe jaate hain; bheetri panchayat mein faisle bane jaate hain* — and the kitchen of this house, with its smoke-dark beam and its tulsi-pot at the window and its row of brass lotas in descending order of shine, had held more verdicts than the akhara's all its winters.
+The kitchen was the hour's true council. The district's doctrine had always said so about every house — *bahri panchayat mein faisle likhe jaate hain; bheetri panchayat mein faisle bane jaate hain* — and the kitchen of this house, with its smoke-dark beam and its tulsi-pot at the window and its row of brass lotas in descending order of shine, had held more verdicts than the akhada's all its winters.
 
 Rukmini stood at the stove with her back to the door.
 
@@ -4876,7 +4876,7 @@ he was standing already, folded; the dawn-committee hour admitted no last lines,
 *(Reading it is not your turn yet, son. Keeping it is. Now sleep — in the morning you go to the morning's work, and it begins when a hand is set on a wall and the wall delivers its evidence. And son— Rudra. When the wall gives —* kiss it.)
 
 What was held through Book One under the key of her silence, what had been hinted with doorways and lullabies and the tremor of Ram's hands — was, in that kitchen, relinquished into *his* keeping with the ordinary ceremony of a cupboard's inventory; and if the house's foundation received it — the crooked old foundation, which had taken the tea-crate's envelope in ch-23 box-years ago and held it sealed through every weather — the house made no sign. The house's law: *grihasth kutumb ke kaagaz anna ke saath rakhte hain.* (A householder family's documents are kept with the grain.)
-The morning was the last quiet morning the district would have for some while, and it spent its quietness at Rudra's house, because news of the kitchen had done what kitchen-news does: it had reached Dadi by cot-line, Ram by the shed's lamp, and — through channels no household intends but every household permits, the water-carrier's boy being Veer's akhara brother's cousin and indiscreet as all true couriers are — the three other keepers by half past four.
+The morning was the last quiet morning the district would have for some while, and it spent its quietness at Rudra's house, because news of the kitchen had done what kitchen-news does: it had reached Dadi by cot-line, Ram by the shed's lamp, and — through channels no household intends but every household permits, the water-carrier's boy being Veer's akhada brother's cousin and indiscreet as all true couriers are — the three other keepers by half past four.
 
 So that when the eastern light came up, it came up on an arranged assembly: the four keepers cross-legged in the courtyard, the three parents and elders standing; the register on a folded blanket on the grinding-stone; the tin box from ch-31's archive era brought out by Dadi without asking, open, its contents laid in file-order like a pawnbroker's defense: the four-hour-old wire, the maala-sketch, the 1983 roll, and on top of them all — Dadi's doing, Dadi's alone, Dadi in the matter-of-fact of the oldest savant of the house — **Rukmini's tamarind leaf**, delivered by the mother to the grandmother in the toilet-dark before dawn with the words the district does not record because there was no one to record them, mother to grandmother, worker to worker.
 
@@ -4946,7 +4946,7 @@ It darkened from the west at half past eleven, from the same horizon the wheat-b
 
 And inside the weather, as the archive eventually proved by the simple method of the station-master's barograph — a pressure-trace that fell in seven deliberate steps, as a staircase falls — *inside* the weather, in the manner of riders hidden in the dust of feigned cavalry: came the assault's first echelon.
 
-They had had a six-day start of being written about. Ira's pages — wire-copied, postmaster-carried, bangle-mother-audited — had gone ahead of them into all four lanes of the district's new grammar: *the right hand sends teams; teams arrive as weather; weather arrives as counting; counting is to be answered by the count.* What the district of silences had to pay against a house of instruments was not trained men (it had one akhara), not forward posts (it had milestones), not walls (it had lamps). What it had, it had spent the whole of this chronicle's second book acquiring, building, registering and rehearsing without once knowing its rehearsal's date:
+They had had a six-day start of being written about. Ira's pages — wire-copied, postmaster-carried, bangle-mother-audited — had gone ahead of them into all four lanes of the district's new grammar: *the right hand sends teams; teams arrive as weather; weather arrives as counting; counting is to be answered by the count.* What the district of silences had to pay against a house of instruments was not trained men (it had one akhada), not forward posts (it had milestones), not walls (it had lamps). What it had, it had spent the whole of this chronicle's second book acquiring, building, registering and rehearsing without once knowing its rehearsal's date:
 
 **a district that could count in four voices at once.**
 
@@ -4966,9 +4966,9 @@ To Birju he said, with the mildness that is the last and best-fitting cloak of t
 
 *(Do not keep us standing outside, son. We are this account's* judge.)
 
-Which was, as the whole district understood within the hour — by lamps, by word of the courtyard mothers telegraphing glance to glance across the roofs, by the akhara's wrestlers filing out of the muscle-house in two silent files, by Ira's pencil recording the sentence as *Exhibit One of the Day's Grammar* — the truest sentence the assault spoke all day: this was no robbery; it was an inspection; and an inspection's danger is never the inspector's weapons but the inspected's *fear of failing the form.*
+Which was, as the whole district understood within the hour — by lamps, by word of the courtyard mothers telegraphing glance to glance across the roofs, by the akhada's wrestlers filing out of the muscle-house in two silent files, by Ira's pencil recording the sentence as *Exhibit One of the Day's Grammar* — the truest sentence the assault spoke all day: this was no robbery; it was an inspection; and an inspection's danger is never the inspector's weapons but the inspected's *fear of failing the form.*
 
-They let him in. That, too, must be recorded in the register's way: the district did not admit him in defeat and it did not resist him in violence; it *processed* him. Veer and ten akhara boys formed the corridor — wall of shoulder, no weapon anywhere but a wrestler's shoulder, the procession-sport of the district's physical law — and down the corridor the grey auditors walked, abacus-beads moving of themselves, while on every roof the housewives stood and counted aloud, in the flat antiphonal manner of well-counting villages in famine-years, and their count was accurate, and their accuracy frightened the escorted men more than any challenge could have: *gyarah aaye, gyarah chale; ek raha. Diye jitne hain utne jal rahe hain.* (Eleven came; eleven walked; one stayed. The lamps that are lit are all still lit.)
+They let him in. That, too, must be recorded in the register's way: the district did not admit him in defeat and it did not resist him in violence; it *processed* him. Veer and ten akhada boys formed the corridor — wall of shoulder, no weapon anywhere but a wrestler's shoulder, the procession-sport of the district's physical law — and down the corridor the grey auditors walked, abacus-beads moving of themselves, while on every roof the housewives stood and counted aloud, in the flat antiphonal manner of well-counting villages in famine-years, and their count was accurate, and their accuracy frightened the escorted men more than any challenge could have: *gyarah aaye, gyarah chale; ek raha. Diye jitne hain utne jal rahe hain.* (Eleven came; eleven walked; one stayed. The lamps that are lit are all still lit.)
 
 *One stayed.* For the eleven who entered, there were indeed — though the count did not say it — a twelfth, who did not enter by the lane; he was already somewhere in the district, had possibly been somewhere in the district for days: a thin man of indeterminate age, in the dress of a minor land-record copyist, with a food-vendor's wooden box whose interior — the postmaster later helped dismantle it, sweating the whole of a tense hour — was no food-vendor's box at all but an **instrument-board**: five needles fitted over dials, each needle tuned, not to the district's magnetic ground like an honest compass, but *to four signatures*: four little worm-tracks of vibration running on smoked paper under glass, each track labeled — and this detail the district's later history students always repeat twice, once in disbelief and once in outrage or with tears, depending on the student — each labeled in a fine, proprietary, inventory hand:
 

@@ -1,4 +1,10 @@
-# ANANTA — BOOK 1: AWAKENING (Complete)
+# ANANTA — BOOK 01: AWAKENING — MERGED
+
+---
+prologue: PROLOGUE — THE FIRST SIGNAL
+book: 1 — ANANTA — AWAKENING
+source: ANANTA_MASTER_BIBLE.md Part 10 (reference text, LOCKED — do not edit prose)
+---
 
 # PROLOGUE — THE FIRST SIGNAL
 
@@ -70,6 +76,12 @@ The Cycle had noticed.
 
 And the Cycle, as always, would respond.
 
+---
+
+---
+chapter 1: CHAPTER 1 — THE WEIGHT OF MORNING
+book: 1 — ANANTA — AWAKENING
+source: ANANTA_MASTER_BIBLE.md Part 10 (reference text, LOCKED — do not edit prose)
 ---
 
 # CHAPTER 1 — THE WEIGHT OF MORNING
@@ -208,6 +220,12 @@ Somewhere, impossibly far away and impossibly close, something answered.
 
 ---
 
+---
+chapter 2: CHAPTER 2 — THE UNSEEN CURRENT
+book: 1 — ANANTA — AWAKENING
+source: ANANTA_MASTER_BIBLE.md Part 10 (reference text, LOCKED — do not edit prose)
+---
+
 # CHAPTER 2 — THE UNSEEN CURRENT
 
 Aadhya noticed the tree before anyone else.
@@ -316,6 +334,12 @@ The chai-wallah dropped a fresh glass of chai on her table with a clatter. She w
 
 She failed.
 
+---
+
+---
+chapter 3: CHAPTER 3 — FOUR FREQUENCIES
+book: 1 — ANANTA — AWAKENING
+source: ANANTA_MASTER_BIBLE.md Part 10 (reference text, LOCKED — do not edit prose)
 ---
 
 # CHAPTER 3 — FOUR FREQUENCIES
@@ -472,6 +496,13 @@ None of them noticed.
 
 But something, far below, in the lightless corridors of a realm that had been sealed for millennia, did.
 
+---
+
+---
+chapter: 4
+title: The Burning Ghat
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 4 — THE BURNING GHAT
@@ -768,6 +799,13 @@ Far beneath, with the patience of all extinct and vaulting things, the line that
 
 ---
 
+---
+chapter: 5
+title: The Second Lesson
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 5 — THE SECOND LESSON
 
 The police came with floodlights, the way police do — late, loud, and already certain of the wrong story.
@@ -1018,6 +1056,13 @@ He hit send. Put the phone away, face-down-deep, bottom pocket. Up ahead the col
 
 ---
 
+---
+chapter: 6
+title: Roots
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 6 — ROOTS
 
 Aadhya did not sleep on the night after the burning ghat.
@@ -1232,6 +1277,13 @@ It returned slow seconds after to its arteries. But it had now *two* scents with
 
 And down the full dark length of the bore — all the way down past the bedrock, past the seam of old iron-stained strata, past nine days' deepening harvest of the city's slow-warmed prayers — a vessel that could not properly grow edges stirred its walls by one millimetre, listening, and upon the tenth night geometrically began again, two taps wider than before.
 
+---
+
+---
+chapter: 7
+title: The Lullaby
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 7 — THE LULLABY
@@ -1490,6 +1542,13 @@ Far below, far below the pucca whiteness of Lanka, the bore in the dark took one
 
 ---
 
+---
+chapter: 8
+title: The Dream Map
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 8 — THE DREAM MAP
 
 Ira's room rented itself by the facts.
@@ -1738,6 +1797,13 @@ And Ira — recorder of tremors, cartographer of cups — went back up her iron 
 
 ---
 
+---
+chapter: 9
+title: Dashashwamedh
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 9 — DASHASHWAMEDH
 
 Ira called it at half past four in the afternoon, in the language of people who had decided, without ever once voting on it, that they were going.
@@ -1962,6 +2028,13 @@ Very far below the ghats, the seventh part of the ring's cup drank.
 
 ---
 
+---
+chapter: 10
+title: The Protector's Fist
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 10 — THE PROTECTOR'S FIST
 
 The fight, when it properly began, lasted eleven seconds before it started breaking things that didn't belong to anybody.
@@ -2155,6 +2228,13 @@ She stayed there with him without going any nearer until the watch-feel of the h
 
 Outside, the lane dog finished its night-check of the thresholds and climbed onto the newspaper stack outside the shuttered paan kiosk and arranged itself to sleep. Over the river two districts away, the ghat's prayer-smoke roved in the dark — losing its edge, thickening slowly, settling like a closed hand.
 
+---
+
+---
+chapter: 11
+title: Cracks
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 11 — CRACKS
@@ -2363,6 +2443,13 @@ The tape lay on the floor where it had finally desisted. Rudra switched off the 
 
 ---
 
+---
+chapter: 12
+title: The Interrogation
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 12 — THE INTERROGATION
 
 It came for Rudra at dawn, the way everything in this house came: through the courtyard, on a count.
@@ -2555,6 +2642,13 @@ The neem above the courtyard leaned against the house listening with its hundred
 
 The day was required to continue. It did.
 
+---
+
+---
+chapter: 13
+title: The Mela
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 13 — THE MELA
@@ -2762,6 +2856,13 @@ They stood together in the leftover heat of five hundred thousand lamps, and did
 
 ---
 
+---
+chapter: 14
+title: The Boat Race
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 14 — THE BOAT RACE
 
 The poster went up on a Thursday, pasted with rice-glue to the notice wall of Assi's chai shop between a lost-goat announcement and a tuition-class schedule, lettered by hand in the definitive red of events that have happened every year for longer than anyone has been checking:
@@ -2818,7 +2919,7 @@ Saturday, four o'clock: the river had turned out.
 
 Race days on the Ganga at Varanasi are as old as oars; the municipality came in later and licensed them. The start line lay north off Rajghat, where the current was widest and most honest — a stretch of brown-green water that gave any rower exactly as much river as his education deserved — with the finish buoy a white-painted oil drum bobbing opposite Panchganga, a route of perhaps two kilometres, downstream, diagonally hugging the ghatside so the crowd could follow along the steps like a standing ovation in motion.
 
-Seventeen boats had entered. By hydrological legacy they divided, as they divided every year, into three unchangeable nations: the **boatmen's sons**, lean, gorgeously economical boys of the river who had been pulling oars since they were eight and whose strokes were as standardized as scripture (entry of Munna Majhi's people, the reigning champions for four years in their red trim boat); the **gym's rearguard**, broad and desperate, alumni of every akhara and cable-gym in Sigra and Lanka, strong as oxcarts and precisely as hydrodynamic; and the **others** — college boys, a pair of widowed enthusiasts, one team of boys from the polytechnic who had shown up in matching jerseys with *GANGA WARRIORS* printed on the back, who would capsize within sight of the starting rope, ritually, as they did every year.
+Seventeen boats had entered. By hydrological legacy they divided, as they divided every year, into three unchangeable nations: the **boatmen's sons**, lean, gorgeously economical boys of the river who had been pulling oars since they were eight and whose strokes were as standardized as scripture (entry of Munna Majhi's people, the reigning champions for four years in their red trim boat); the **gym's rearguard**, broad and desperate, alumni of every akhada and cable-gym in Sigra and Lanka, strong as oxcarts and precisely as hydrodynamic; and the **others** — college boys, a pair of widowed enthusiasts, one team of boys from the polytechnic who had shown up in matching jerseys with *GANGA WARRIORS* printed on the back, who would capsize within sight of the starting rope, ritually, as they did every year.
 
 The boat Veer had rented was old, twenty-two feet of heavy river-made timber named *Jalpari* on a patch of brass, and she leaked with the serene persistence of long experience.
 
@@ -2968,6 +3069,13 @@ And then — because her hand had finally been told what kind of arithmetic was 
 
 **7.**
 
+---
+
+---
+chapter: 15
+title: The Library
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 15 — THE LIBRARY
@@ -3158,6 +3266,13 @@ Her mother looked at her once, sidelong, measure and mercy combined, and left th
 
 Aadhya turned the lamp low and slept. For the first time in weeks of being marked, she chose not to listen for what was moving under the city — chose it deliberately, like closing a window — and slept the unreasonable sleep of someone who had, at last, work to do.
 
+---
+
+---
+chapter: 16
+title: The Rooftop
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 16 — THE ROOFTOP
@@ -3397,6 +3512,11 @@ They gave the thing no name; the thing was forming nonetheless; and below them t
 
 ---
 
+---
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 17 — THE RAKSHAS
 
 Friday came up out of the river-fog like a creditor's knock.
@@ -3579,7 +3699,6 @@ He came back and reported it in his own unconsulted vocabulary: "Jo kha liya —
 
 Then Aadhya held up her hands in the lamplight. The knuckle-pads had stopped bleeding. Around her smallest finger, pressed beneath the skin like a welt seen through glass, ran a thread of colour the exact warm gold of a marigold petal. She turned the finger slowly. Nobody had words for it. Ira wrote it down anyway, with the time.
 
-
 ---
 
 They separated late and in pairs, leaving behind an empty quadrangle where the brown earth was slowly furling itself over the hollow, and where a hundred pale new grass-threads were already replacing the ruined lawn in obedience to tomorrow's timetables, as though tonight had taught nobody anything except, perhaps, grass.
@@ -3598,7 +3717,7 @@ Below him the river negotiated its channels. Somewhere far and damp, in the grid
 
 Then he went home, alone, at walking pace, as if at a funeral nobody had announced.
 
-Two turns from home, Ram Yadav's door opened on a lantern held by a hand more steady than any face at eleven at night should have to be greeted by.
+Two turns from home, Ram Vashisht's door opened on a lantern held by a hand more steady than any face at eleven at night should have to be greeted by.
 
 He said, to nobody in particular, into the vestibule's air: "Rukmini. Paani nikalo."
 
@@ -3630,6 +3749,11 @@ Below the whole city the old line took its measure of the night. Seven faint coa
 
 Half a month ago he could have thought those words and stayed himself. He no longer could.
 
+---
+
+---
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 18 — THE WORD "KUL"
@@ -3793,7 +3917,7 @@ He wrote down nothing. He narrated the whole thing to himself in his mind, in th
 
 Home. Side door. The chest-board. He lay down.
 
-Across the courtyard's well of dark, on the far side of the house where the night reached first, Ram Yadav lay awake on his rope-bed facing the open door of the store-room, in which, folded in oilcloth and stacked in plain view behind the awls, sat thirty-eight years of the explanations he had sworn to die without speaking. He had not slept during his son's excursion. He did not speak of it the next morning either. This was the second lie that the house, in its whole history, had ever successfully kept from its mother.
+Across the courtyard's well of dark, on the far side of the house where the night reached first, Ram Vashisht lay awake on his rope-bed facing the open door of the store-room, in which, folded in oilcloth and stacked in plain view behind the awls, sat thirty-eight years of the explanations he had sworn to die without speaking. He had not slept during his son's excursion. He did not speak of it the next morning either. This was the second lie that the house, in its whole history, had ever successfully kept from its mother.
 
 ---
 Sunday morning the jamun went in.
@@ -3863,6 +3987,11 @@ The tape was not there.
 
 ---
 
+---
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
+---
+
 # CHAPTER 19 — UNLEASHED
 
 Rudra had not slept. He had learned, boy by boy across the years, the secondary skill that comes free with a taped chest — how to lie on your back with your eyes shut and keep the night's accounts without opening the ledger — and he had spent Sunday night at it, counting the four days Ira had claimed, authorizing and re-authorizing each, until the conclusion his father plainly reached months ago arrived also at his own window: *the count would not hold. Something was about to collect.*
@@ -3891,7 +4020,7 @@ And his father walked to the padlocked pavilion and came back with a long bamboo
 
 ---
 
-The ground they worked each morning was the river's abandoned bend, walled and dust-floored, and it had its own archaeology. Long ago — Ram had once told him, in the years when history still occasionally escaped the storeroom — a mishraji family had kept a wrestling akhara here, and after them a granary, and after that flood-water for one whole monsoon, and after the flood nobody at all. The pavilion's roof had fallen inward gracefully the year Rudra was seven, and the neem whose dead arms stood at the yard's east side had been venerated by three generations of umpires. Training, for nineteen years, had therefore had the property here of being returned to the earth's own format: only what the dust accepted kept happening. By five-thirty they had done the forty minutes of anonymous labour the session always opened with — corners, weights, the slow arithmetic of tendons greeting load. The fog leaned down over the wall like a fourth member. Rudra's skin had gone the clean hot red of freight at work, and nothing under his ribs had moved at all.
+The ground they worked each morning was the river's abandoned bend, walled and dust-floored, and it had its own archaeology. Long ago — Ram had once told him, in the years when history still occasionally escaped the storeroom — a mishraji family had kept a wrestling akhada here, and after them a granary, and after that flood-water for one whole monsoon, and after the flood nobody at all. The pavilion's roof had fallen inward gracefully the year Rudra was seven, and the neem whose dead arms stood at the yard's east side had been venerated by three generations of umpires. Training, for nineteen years, had therefore had the property here of being returned to the earth's own format: only what the dust accepted kept happening. By five-thirty they had done the forty minutes of anonymous labour the session always opened with — corners, weights, the slow arithmetic of tendons greeting load. The fog leaned down over the wall like a fourth member. Rudra's skin had gone the clean hot red of freight at work, and nothing under his ribs had moved at all.
 
 "Good," said Ram. "Normal din shuru. Ab — saans pakad. Pehli tarah — andar waali."
 
@@ -3920,7 +4049,7 @@ The light that came out of him was not the lamplight-flare of Friday night.
 
 That had been unused brightness, bright even angled down, even collapsed: serviceable brightness. This was colourless at first and then not colourless but *furnished* — the enclosed burst like the stimulus patterning of coals covered all night underground and uncovered at last by somebody's shovel — red at the bone, black-red at the spine of it, with the dark that lives on the far side of ember — and it did not take from him so much as it *called,* out of his deepest internal flour, an enormous, sympathetic summoning like a whole shop of iron shavings leaping to one magnet:
 
-— and Ram Yadav, who had spent thirty-eight years as the most steadily non-movable object in his district of the world, *lifted off his feet without rising,* and went backwards over the whole yard the way a child-pulled doll goes backwards over a cot, and hit the pavilion's collapsed doorway wall with all of himself, and was allowed by that wall to sit down inside its broken shade.
+— and Ram Vashisht, who had spent thirty-eight years as the most steadily non-movable object in his district of the world, *lifted off his feet without rising,* and went backwards over the whole yard the way a child-pulled doll goes backwards over a cot, and hit the pavilion's collapsed doorway wall with all of himself, and was allowed by that wall to sit down inside its broken shade.
 
 Father and son regarded one another for a moment through the hanging smoke-coloured nothing between them across eighty feet. Rudra was still rising some part of an inch. He was not moving; he was audible — the whole of him was, at a register below ears, the way water preparing to fall can be felt in a bridge before a drop actually leaves.
 
@@ -3948,13 +4077,13 @@ They all, then, in the ways of them, began, each at their own velocity, the same
 
 ---
 
-Veer rounded the last wall corner into the old akhara fourteen minutes after the first ring, at a pace no man of his bulk correctly maintained — and stood, frozen mid-stride with one hand raised, on the threshold of the gateway through the fallen edge of the yard, finding what the others would find one breath after him:
+Veer rounded the last wall corner into the old akhada fourteen minutes after the first ring, at a pace no man of his bulk correctly maintained — and stood, frozen mid-stride with one hand raised, on the threshold of the gateway through the fallen edge of the yard, finding what the others would find one breath after him:
 
-The ground in ruin. The pavilion's roof slumped sideways in powder. The lamp-posts staring up out of the disconnected gravel. And in the middle of it all, inside the widest clearing of the circumference the dust itself vacated like a withdrawn crowd, Rudra Yadav stood upright with his whole forearms wrapped around something collapsed across his chest and neck — a woman — *his mother* —
+The ground in ruin. The pavilion's roof slumped sideways in powder. The lamp-posts staring up out of the disconnected gravel. And in the middle of it all, inside the widest clearing of the circumference the dust itself vacated like a withdrawn crowd, Rudra Vashisht stood upright with his whole forearms wrapped around something collapsed across his chest and neck — a woman — *his mother* —
 
 Rukmini.
 
-Son and mother both turned their faces toward the gate at the sound of him. Neither of them had the shape to answer him. Over the far side of the yard, by the lowest tread of the dead neem's shadow, Ram Yadav sat on the ground with his back against the wall of his own defeat, coat scorched off one shoulder, face empty except for the thing men keep in their eyes when they have been required to watch themselves be out-spent — and he made no move at all, because there was no hour left in his life that did not belong to this one.
+Son and mother both turned their faces toward the gate at the sound of him. Neither of them had the shape to answer him. Over the far side of the yard, by the lowest tread of the dead neem's shadow, Ram Vashisht sat on the ground with his back against the wall of his own defeat, coat scorched off one shoulder, face empty except for the thing men keep in their eyes when they have been required to watch themselves be out-spent — and he made no move at all, because there was no hour left in his life that did not belong to this one.
 
 They'll talk about this, much later, anyone who arrives at the story here. Nobody spoke. Veer walked across the yard with his arms open and took his place beside them, and the sunrise over Varanasi cleared the top of the broken pavilion wall and struck all of them square in the face with gold — the command, unhurried, ordinary as a tolling bell: *abhi, yahin, khade raho.* The ground settled its last drifts into rest, as though to say: so that is what you all look like when the news enters you first.
 
@@ -3975,8 +4104,6 @@ Aadhya straightened. The bands on her knuckles, the gold on her fingertip, the p
 Nobody argued: it was that kind of day. Veer set his shoulder under Rukmini's arm on the free side and Rudra took the other, and the whole family of them, father walking last with his scorched coat held closed by one hand, went home through the lanes with the sun laying their portraits one by one flat across the doorsteps as they passed, and every door that morning opened on time, as if by agreement, to watch a procession that was, on paper, nobody's procession at all.
 
 ---
-
-
 
 She had not been supposed to be there. Of all the standing orders of that household her son was the one irreducibly explicit one, laid down before he could comb his own hair, renewed at breakfast after every four-day vision: *ground pe maa nahi jaati.*
 
@@ -4049,10 +4176,15 @@ Rudra had understood already — in knowing his father's habit from the first of
 
 He stood at the basin until pale dust went scummed over the whole surface of the water, and when Ram's feet came at last down the stairs behind him, Rudra didn't turn, and he said — with the whole nineteen years packed into the single breath: "Mujhe maaf kar do, Dad." And Ram stood, looked at the water, looked at his son, and answered the way that doorway answered everything: "Chal. Andar chal. Garam paani se nahao." And they went in together; and to any neighbour looking down over the wall it would have looked no older than Thursday; and the basin-water slowly carried off their one word each.
 
-That night, in the heart of the ruined akhara, long after observers were gone and nobody was required to report, the ground finished settling over what had happened. Down through the cool mud and up through the old buried cables of the city, a new configuration formed quietly, legible to exactly nobody awake: the seven old coals along the ancient ring, the young warmth in the college lawn — and now a ninth point, warmest of all, out at the abandoned bend, glowing where a boy's chest had opened and a mother had paid the difference.
+That night, in the heart of the ruined akhada, long after observers were gone and nobody was required to report, the ground finished settling over what had happened. Down through the cool mud and up through the old buried cables of the city, a new configuration formed quietly, legible to exactly nobody awake: the seven old coals along the ancient ring, the young warmth in the college lawn — and now a ninth point, warmest of all, out at the abandoned bend, glowing where a boy's chest had opened and a mother had paid the difference.
 
 And below them the city slept. Whatever counted the city counted that night twice — nine seconds apart, then once more, slower, the way you count a knock that is also an answer.
 
+---
+
+---
+book: 1 — ANANTA — AWAKENING (Saga 1)
+status: FIRST DRAFT (post-check pending)
 ---
 
 # CHAPTER 20 — THE ARRIVAL
@@ -4147,7 +4279,6 @@ They split the lanes between them by unspoken rights: Ira went for Veer, Aadhya 
 And at five-thirty the whole dossier of the day completed itself into a single plain total, repeated by Ira to Veer at his gate, by Aadhya to Rudra at his, like a child delivering medicine twice to the same fever:
 
 *bees.* Twenty points of arrival. Twenty doors, all knocking at once.
-
 
 By six the library's lantern portico stood chain-locked an hour early. Shastri-ji had not chained the gate in that style in forty years; the regulars who found it so stood at the bottom of the steps in the evening dust arguing with the closure as with a land deed.
 
@@ -4244,7 +4375,7 @@ Ram had already guessed before the window came down. Guessed for nineteen years.
 
 And his son stood beside him, not seeing the bridge's smoke or the river's rope — watching the face it had cost nineteen years to learn to watch — and saw in it the door open on the room he had been petitioned all his youth to leave shut.
 
-"It's starting." Ram Yadav said it in English, evenly and without breathiness, the way weathered men conclude a memorandum they have carried a lifetime; and then — speaking it to the bridge-tower, and then over the river, and then so as to give it entirely to his son beside him and not at all across the city — *"It's starting. Everything I trained you for. Everything I was afraid of."*
+"It's starting." Ram Vashisht said it in English, evenly and without breathiness, the way weathered men conclude a memorandum they have carried a lifetime; and then — speaking it to the bridge-tower, and then over the river, and then so as to give it entirely to his son beside him and not at all across the city — *"It's starting. Everything I trained you for. Everything I was afraid of."*
 
 And in that exact half-minute, in four separate houses across the city, four people stopped what they were doing, heart-first.
 

@@ -18,7 +18,7 @@ Monday 5 AM (day after Sunday jamun). Clock: **chaar din — holds** ("nahi ghat
 - Veer carries Rukmini home; lane witnessed: city reads it as near-funeral procession (milk-boiling, bowls for two weeks).
 - Doctor summoned: false diagnosis = stomach-ailment; prescribes "rest to be taken standing in water" (baffled heaviness).
 - Aadhya resolve-line: "Kal se main sirf mitaane nahi jaaongi. Kal se — jod ke aaoongi" (mitigation → joining/awarding: sets up the odd-requesting entry of her mother-tendering function in future confrontation).
-- Coda: the underground now has **nine points** — seven old coals + young warmth (college lawn) + the warmest ninth = the akhara where a mother's payment lives; knock answered, "city counted twice".
+- Coda: the underground now has **nine points** — seven old coals + young warmth (college lawn) + the warmest ninth = the akhada where a mother's payment lives; knock answered, "city counted twice".
 - Ram's storeroom = 38 years of explanations (ch-18) → ch-20 delivery of mentor thread.
 
 ## Status of crew heading into finale

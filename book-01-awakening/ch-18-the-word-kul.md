@@ -164,7 +164,7 @@ He wrote down nothing. He narrated the whole thing to himself in his mind, in th
 
 Home. Side door. The chest-board. He lay down.
 
-Across the courtyard's well of dark, on the far side of the house where the night reached first, Ram Yadav lay awake on his rope-bed facing the open door of the store-room, in which, folded in oilcloth and stacked in plain view behind the awls, sat thirty-eight years of the explanations he had sworn to die without speaking. He had not slept during his son's excursion. He did not speak of it the next morning either. This was the second lie that the house, in its whole history, had ever successfully kept from its mother.
+Across the courtyard's well of dark, on the far side of the house where the night reached first, Ram Vashisht lay awake on his rope-bed facing the open door of the store-room, in which, folded in oilcloth and stacked in plain view behind the awls, sat thirty-eight years of the explanations he had sworn to die without speaking. He had not slept during his son's excursion. He did not speak of it the next morning either. This was the second lie that the house, in its whole history, had ever successfully kept from its mother.
 
 ---
 Sunday morning the jamun went in.

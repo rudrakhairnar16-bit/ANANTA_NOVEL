@@ -14,7 +14,7 @@ Dadi signed for Rudra's. She read it twice, folded it once, placed it under her 
 By noon the four had the same card in four separate hands. Wording, identical:
 
 **MERIDIAN FOUNDATION — Youth Division**
-**invites the following: R. Yadav / M. Ansari / A. Sharma / I. Karim**
+**invites the following: R. Vashisht / M. Dikshit / A. Sharma / I. Mishra**
 **Saturday, 10 AM — Verification Review. Buses from Maidagin crossing.**
 **Attendance kindly requested so that funding decisions may be finalized.**
 
@@ -36,7 +36,7 @@ Rudra and Aadhya, inside. Veer and Ira, outside — city side, street side — w
 
 Inside the haveli at ten past ten the atmosphere was changed from Tuesday: fewer flowers, more officiants. The reception desk now possessed a metal detector-arch of modest size — probably kitchen equipment, definitely kitchen equipment — and the smiling desk-girls didn't ask names. They *had* names.
 
-"Rudra Yadav," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
+"Rudra Vashisht," said the girl at desk two, before Rudra had spoken. "Aadhya Sharma. Classroom Ek. — Any metal objects other than belt buckles, please, to the tray." Her smile did not surrender a millimetre.
 
 The classroom was the second room of the old inner wing — the one Ira's rezoning notes called "the map room," from its south light — and forty-eight chairs now held twenty-two students. Fifteen faces the crew did not recognize; seven they did, from the lecture list. It smelled of turpentine and cardamom tea kept too long on a hot plate.
 
@@ -58,7 +58,7 @@ But Aadhya saw what the glass factory did to boys: the Tuesday kid stood two ful
 
 She moved one finger exactly two millimetres on her armrest. Rudra, at her left, said nothing and kept looking straight: but under his collar, where the Monday fault-line ran along the bone, the skin had gone four degrees hotter than the classroom.
 
-In the second row, the boy nearest the wall — face washed, face ordinary, face nobody's — leaned forward to see better and slid one sleeve-hem exactly one inch up: to reveal a bare wrist with nothing on it except a fine, fine, white embroidered akhara thread, the sort they tie in temples for protection against fever. The man in the visitor-gallery seat beside Aadhya turned, quietly, and made a note with a mechanical pencil that clicked exactly twice.
+In the second row, the boy nearest the wall — face washed, face ordinary, face nobody's — leaned forward to see better and slid one sleeve-hem exactly one inch up: to reveal a bare wrist with nothing on it except a fine, fine, white embroidered akhada thread, the sort they tie in temples for protection against fever. The man in the visitor-gallery seat beside Aadhya turned, quietly, and made a note with a mechanical pencil that clicked exactly twice.
 
 And at the board the officer said, bright: "Next. — Rudra?"
 
@@ -90,7 +90,7 @@ The lamp lit once. Pale green. One aperture only — one of eight — and the of
 
 And from under the floor, a fraction of a second after the glass went dark, something answered him — something he felt only against his own chest's seam, which gave one small deep pull like a thread taken between teeth — and the white thread on the wall-boy's wrist twitched, unasked, in the corner of Rudra's sight.
 
-He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Yadav boy, the same card value as a slow cousin from the Tuesday batch.
+He sat down. He had passed. He had passed so quietly that the officer himself had no idea what had just not happened — only that the instrument of his regulations had produced, for the Vashisht boy, the same card value as a slow cousin from the Tuesday batch.
 
 Behind him Aadhya exhaled without movement. *Third seat. Watch the wall.*
 
@@ -157,7 +157,7 @@ Across the dark, Veer's fist stopped in the doorframe's shadow — flexed-open-e
 
 And Birju — across the room, from his seat against the back wall — got up. Slowly: the heavy careful stand of a man who has spent years learning the legal breakfast of heavyweight. Threetoed advocate silence walking across in his canvas shoes; he planted himself between the white-thread boy and the second row of chairs.
 
-"Yeh akhara nahi hai," he said, not loudly. "Yahan bachche ko haath lagana hai kya?"
+"Yeh akhada nahi hai," he said, not loudly. "Yahan bachche ko haath lagana hai kya?"
 
 The thread boy's fingers stayed one second past whatever orders he had received, and then backed.
 
@@ -193,7 +193,7 @@ By midnight the boy slept at last; he slept with both fists closed in the formal
 
 Sunday was, by district consensus, a false Sunday.
 
-Veer woke with a swollen lip he had not earned in a fight and spent the whole morning telling his mother it was exhaustion. It was muscle memory: his body had spent the haveli's dark room trying to complete the contract Saturday's akhara had written. In their courtyard his grandfather's old posts stood wrapped in rope; Veer did two full sessions against them before nine AM, discovering only then how frightened he was. The posts, being heritage exercise posts, had the kindness not to notice.
+Veer woke with a swollen lip he had not earned in a fight and spent the whole morning telling his mother it was exhaustion. It was muscle memory: his body had spent the haveli's dark room trying to complete the contract Saturday's akhada had written. In their courtyard his grandfather's old posts stood wrapped in rope; Veer did two full sessions against them before nine AM, discovering only then how frightened he was. The posts, being heritage exercise posts, had the kindness not to notice.
 
 Ira did not leave her roof. She sat with her register open to a new page headed, in her hard-edged script, "*dusra sheher*", and transcribed — from memory — the layout of the inner wing: doors, chairs, gallery seats, the dais, the lamp, the window's hinge direction. The fact that she could do this, to a centimetre, without consulting her own notes, distressed her. She had not believed, until that classroom dark, how complete the day-book could become in the hands of somebody who runs toward things. It also, by morning prayer, failed all her tests: the layout went right to the edges but stopped at the floor below the dais. She kept writing *under the dais* and the pen simply would not commit what came next. Finally she wrote instead: *dais ke neeche kuch hai jo apna naam sunta hai.*
 

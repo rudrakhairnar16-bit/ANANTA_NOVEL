@@ -38,7 +38,7 @@ He said it without harshness — he said it the way he said *iss lakdi mein line
 
 ---
 
-The kitchen was the hour's true council. The district's doctrine had always said so about every house — *bahri panchayat mein faisle likhe jaate hain; bheetri panchayat mein faisle bane jaate hain* — and the kitchen of this house, with its smoke-dark beam and its tulsi-pot at the window and its row of brass lotas in descending order of shine, had held more verdicts than the akhara's all its winters.
+The kitchen was the hour's true council. The district's doctrine had always said so about every house — *bahri panchayat mein faisle likhe jaate hain; bheetri panchayat mein faisle bane jaate hain* — and the kitchen of this house, with its smoke-dark beam and its tulsi-pot at the window and its row of brass lotas in descending order of shine, had held more verdicts than the akhada's all its winters.
 
 Rukmini stood at the stove with her back to the door.
 
@@ -142,7 +142,7 @@ he was standing already, folded; the dawn-committee hour admitted no last lines,
 *(Reading it is not your turn yet, son. Keeping it is. Now sleep — in the morning you go to the morning's work, and it begins when a hand is set on a wall and the wall delivers its evidence. And son— Rudra. When the wall gives —* kiss it.)
 
 What was held through Book One under the key of her silence, what had been hinted with doorways and lullabies and the tremor of Ram's hands — was, in that kitchen, relinquished into *his* keeping with the ordinary ceremony of a cupboard's inventory; and if the house's foundation received it — the crooked old foundation, which had taken the tea-crate's envelope in ch-23 box-years ago and held it sealed through every weather — the house made no sign. The house's law: *grihasth kutumb ke kaagaz anna ke saath rakhte hain.* (A householder family's documents are kept with the grain.)
-The morning was the last quiet morning the district would have for some while, and it spent its quietness at Rudra's house, because news of the kitchen had done what kitchen-news does: it had reached Dadi by cot-line, Ram by the shed's lamp, and — through channels no household intends but every household permits, the water-carrier's boy being Veer's akhara brother's cousin and indiscreet as all true couriers are — the three other keepers by half past four.
+The morning was the last quiet morning the district would have for some while, and it spent its quietness at Rudra's house, because news of the kitchen had done what kitchen-news does: it had reached Dadi by cot-line, Ram by the shed's lamp, and — through channels no household intends but every household permits, the water-carrier's boy being Veer's akhada brother's cousin and indiscreet as all true couriers are — the three other keepers by half past four.
 
 So that when the eastern light came up, it came up on an arranged assembly: the four keepers cross-legged in the courtyard, the three parents and elders standing; the register on a folded blanket on the grinding-stone; the tin box from ch-31's archive era brought out by Dadi without asking, open, its contents laid in file-order like a pawnbroker's defense: the four-hour-old wire, the maala-sketch, the 1983 roll, and on top of them all — Dadi's doing, Dadi's alone, Dadi in the matter-of-fact of the oldest savant of the house — **Rukmini's tamarind leaf**, delivered by the mother to the grandmother in the toilet-dark before dawn with the words the district does not record because there was no one to record them, mother to grandmother, worker to worker.
 

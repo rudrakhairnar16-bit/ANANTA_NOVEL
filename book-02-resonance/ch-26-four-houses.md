@@ -119,7 +119,7 @@ And, in the faint pencil-hand which appears across galena days dressed of winds 
 
 ---
 
-Birju came to the Badi Haveli's gate at six-thirty Tuesday evening, without invitation, and sat down on the gate-stone like a man settling a loan — just sat there, in canvas akhara shoes and his wife's ironed grey kurta, watching the light grow across the Foundation's racks in exactly the way men sit who have concluded their professional business in this neighbourhood.
+Birju came to the Badi Haveli's gate at six-thirty Tuesday evening, without invitation, and sat down on the gate-stone like a man settling a loan — just sat there, in canvas akhada shoes and his wife's ironed grey kurta, watching the light grow across the Foundation's racks in exactly the way men sit who have concluded their professional business in this neighbourhood.
 
 The desk girls wrote it down. He was one hour and forty minutes there. Their observations solved for: **Birju Prasad — bangle- band_ decommissioned. Attachment: to the boy. Affiliation: uncertain.** And the last executive line which went east that night, flat with the cold skill of all their reportage:
 

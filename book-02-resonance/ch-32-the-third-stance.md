@@ -20,13 +20,13 @@ And the pause ended, and the silence went on waiting, because Veer was getting u
 
 It is written that way in no police record and in every lane's memory: *Veer utha.*
 
-He got up the way he had got up eleven times in his grandfather's akhara dust before the age of fourteen — not quickly, not defiantly, with no music in it anywhere; he got up the way furniture gets righted by people who intend to keep using it. His right hand held half a baton. His left hand held the other half. His feet — the traitorous feet he had been staring at, demanding an explanation of — he placed, consciously, toe-line to toe-line, twelve inches apart, on the *old* marks: his own foot-prints from before he had been moved.
+He got up the way he had got up eleven times in his grandfather's akhada dust before the age of fourteen — not quickly, not defiantly, with no music in it anywhere; he got up the way furniture gets righted by people who intend to keep using it. His right hand held half a baton. His left hand held the other half. His feet — the traitorous feet he had been staring at, demanding an explanation of — he placed, consciously, toe-line to toe-line, twelve inches apart, on the *old* marks: his own foot-prints from before he had been moved.
 
 He stepped back into his own footprints the way you step back into your own name.
 
 The man with no pulse watched this with the first flicker of something on his face that was not patience.
 
-"Bhai," Veer said, in the third person the akhara keeps for sacred purposes, "main wapas aa gaya." *(Brother — the akhara's word of respect even for enemies — I have returned.)*
+"Bhai," Veer said, in the third person the akhada keeps for sacred purposes, "main wapas aa gaya." *(Brother — the akhada's word of respect even for enemies — I have returned.)*
 
 The man inclined his head the width of a coin, and waited.
 
@@ -39,17 +39,17 @@ He was being *engaged.*
 What the ghat then witnessed for four minutes, the lanes retold for four years.
 
 ---
-When Veer was nine, his dada had died in the month of Kartik, and the akhara had kept his corner swept for eleven days, and on the eleventh day Veer's dadi had put the steel tin into his hands and said: *"Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
+When Veer was nine, his dada had died in the month of Kartik, and the akhada had kept his corner swept for eleven days, and on the eleventh day Veer's dadi had put the steel tin into his hands and said: *"Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
 
 "Yeh kitaab nahi hai. Yeh dada ki peeth hai."*
 
 The baton had come three weeks later, in the same tin, wrapped in oiled cloth the colour of strong tea. Ninety centimetres. Sheesham like the house's best doorframes. His dadi had stood over the unwrapping with the tallyman's pride of widows, and Veer had been nine years old and had not understood why a stick should matter, so she had told him — once, the way she told things: once, permanently:
 
-"Tumhare dada ne yeh *kharidi* nahi thi. Aur banayi bhi nahi thi. Yeh *di gayi* thi." She had set the baton across his two palms — too heavy, for nine. "Pata hai akhare mein baton ka asli kaam kya hai? Madad nahi. **Intezaar.** Jab tak tum waise sahi khade na ho jao ki lath ki zaroorat hi na rahe, akhara tumhe lath deta hi nahi. Pehle pair. Phir hathiyar. Hathiyar aakhri cheez hai — bhoolne ke liye."
+"Tumhare dada ne yeh *kharidi* nahi thi. Aur banayi bhi nahi thi. Yeh *di gayi* thi." She had set the baton across his two palms — too heavy, for nine. "Pata hai akhare mein baton ka asli kaam kya hai? Madad nahi. **Intezaar.** Jab tak tum waise sahi khade na ho jao ki lath ki zaroorat hi na rahe, akhada tumhe lath deta hi nahi. Pehle pair. Phir hathiyar. Hathiyar aakhri cheez hai — bhoolne ke liye."
 
 *(This was not bought. It was not made. It was conferred. You don't get the staff to help you hold your ground — you get it when you no longer need it.)*
 
-Twenty years later — this evening, on the ghat — the baton had split finally in two, and the district would say afterward, in the tone reserved for omens you couldn't afford to be frightened of, that the akhara's oldest equipment had broken *only after* its lesson had completed its arrival into the boy.
+Twenty years later — this evening, on the ghat — the baton had split finally in two, and the district would say afterward, in the tone reserved for omens you couldn't afford to be frightened of, that the akhada's oldest equipment had broken *only after* its lesson had completed its arrival into the boy.
 
 He had read the manual every morning since. For eleven years, at 5 AM, in lamplight that his mother pretended not to have to refill.
 
@@ -63,7 +63,7 @@ The pencil-hand said little. Page fourteen had six words in it — the third sta
 
 The first exchange was over before the crowd saw it.
 
-Veer came in with the half-baton low — stance two, *rasta badal do*, the yielding-arc — and the man simply stood through it the way you stand through wind, and Veer's follow-through brought him around with the second half of the baton rising to the temple-line in a strike that should not, by any physics the akhara taught, have been *catchable* —
+Veer came in with the half-baton low — stance two, *rasta badal do*, the yielding-arc — and the man simply stood through it the way you stand through wind, and Veer's follow-through brought him around with the second half of the baton rising to the temple-line in a strike that should not, by any physics the akhada taught, have been *catchable* —
 
 The man caught it. Between two fingers. He held the sixty-year-old oiled wood like a letter he was deciding whether to read.
 
@@ -101,7 +101,7 @@ The man with no pulse regarded him differently then.
 
 Both feet. On the ghat dust. For the first time that evening — the crowd did not gasp; the crowd did not know; but Dadi, on the rim, closed her eyes once, slowly, like a teacher whose answer has finally been obtained from the back bench, and the recorder-lady's own disciplines wept somewhere far away without knowing why.
 
-Somewhere in the oldest shelving of her — under forty years of wheat and weather and doorways — Dadi saw the year 1977 open like a blade-cut page: an evening exactly like this one, heat lamps of a summer, her husband standing in front of **his** teacher in the akhara with two feet set down for the first time, and the whole akhara not knowing whether to cheer or go home, and her own green-ink hand in the margin, young then, writing the words Veer had spent eleven years unable to read.
+Somewhere in the oldest shelving of her — under forty years of wheat and weather and doorways — Dadi saw the year 1977 open like a blade-cut page: an evening exactly like this one, heat lamps of a summer, her husband standing in front of **his** teacher in the akhada with two feet set down for the first time, and the whole akhada not knowing whether to cheer or go home, and her own green-ink hand in the margin, young then, writing the words Veer had spent eleven years unable to read.
 
 She had waited eleven years and one evening to learn whether the grandson would read them correctly.
 
@@ -132,7 +132,7 @@ And Veer — nineteen, sweating through the pain-smell of himself, his grandfath
 
 *(Because you are here. And my people are behind me.)*
 
-The man considered the answer with the seriousness of a clerk who has finally been handed the puzzle he was posted for. Then he hit Veer once more — cleanly, almost kindly, exactly above the heart, a fist placed rather than swung — and Veer went down into his own foot-prints, out like a lamp at oil's end, unbeaten in any way the akhara would count it.
+The man considered the answer with the seriousness of a clerk who has finally been handed the puzzle he was posted for. Then he hit Veer once more — cleanly, almost kindly, exactly above the heart, a fist placed rather than swung — and Veer went down into his own foot-prints, out like a lamp at oil's end, unbeaten in any way the akhada would count it.
 
 It was 6:47 PM. Ira wrote the time afterward from memory, in an undamaged register, twice underlined.
 
@@ -206,7 +206,7 @@ A coat under Veer's head. Water cupped from the river in a brass lota for Aadhya
 
 Birju carried Veer.
 
-No one asked him; he was simply, once the carrying began, *there* — broad, silent, smelling of the tailor-shop's chalk and threading-oil — and he took the akhara boy up in the two arms that had once been measured by the Foundation's machines and found worth wiring for, and he carried him the whole road up from the ghats without adjusting his grip once, even when the wrist needed it. In the old grammar of pehlwans, adjusting your grip mid-carry signalled weight. Birju carried the boy as if he weighed what a baton still-living weighs.
+No one asked him; he was simply, once the carrying began, *there* — broad, silent, smelling of the tailor-shop's chalk and threading-oil — and he took the akhada boy up in the two arms that had once been measured by the Foundation's machines and found worth wiring for, and he carried him the whole road up from the ghats without adjusting his grip once, even when the wrist needed it. In the old grammar of pehlwans, adjusting your grip mid-carry signalled weight. Birju carried the boy as if he weighed what a baton still-living weighs.
 
 Ira walked unaided the whole way, the register clutched flat across her chestbone in both hands. At the first tea-corner she stopped, sat on the stall's bench without asking, opened the strap — it came open, ordinary as weather, *now* — and with hands that trembled only fractionally more than they deserved, she wrote one line and underlined it once:
 
@@ -252,7 +252,7 @@ The hour had arrived.
 
 Ram did not go inside to see his son first. The district would hold that against him for a day, until the tellers understood — he had gone **to where the fight would be**, and the order of his duties was a grief no one should have to explain.
 
-"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Yadav turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
+"Wapas bulao sabko," he told Dadi, very quietly — *call everyone back* — and standing at his own gate with his family bleeding inside it, Ram Vashisht turned around, and walked out of the lamplight, and somewhere in the city's dark a man with no pulse was walking with no hurry at all, and the night of the district leaned toward the space between them the way a held bell leans into ringing.
 
 The whisper had reached its proper ears.
 

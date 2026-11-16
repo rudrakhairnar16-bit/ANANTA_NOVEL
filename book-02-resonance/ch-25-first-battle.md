@@ -36,7 +36,7 @@ status: FIRST DRAFT (post-check pending)
 
 It came on Friday, not Saturday. Of course it came on Friday.
 
-Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Yadav boy without a building involved was to make the building involved. So they chose the river.
+Meridian had spent the week learning the same lesson in four opposite registers, and the cleanest of its analysts reached the simply stationed conclusion that the way to read the Vashisht boy without a building involved was to make the building involved. So they chose the river.
 
 Friday at eleven AM the eastern ghats were shuts, quietly, by order of Heritage Protective Works — brass boards at both ends of Dashashwamedh's lower flight, men in good uniforms taking compasses across the stone, and about three hundred pilgrims re-routed through the tank lanes with the perfect mildness which carried more information than bribes. By eleven-fifteen Aadhya had the exact outline of the cordon in her head, because the cordon had been made with the district-mapping inverted triangles she knew from her own diary: north cordon, south cordon, and a precision *nothing* where the third side should have been. The riverside opening.
 
@@ -52,7 +52,7 @@ At one PM precisely the agent came down onto the stone.
 
 He was young — twenty-five maybe — with a shaved temple on one side and a logistics-flat jacket with a numeric code ar the collar. He walked without hurry down the lower flight, and somewhere near the seventh step he stopped and stood with his hands loose as if to make a phone call.
 
-Under his left wrist: a new cuff. Not the bracelet of the akhara week. This was eight centimetres of gunmetal ceramic, cupped to the bone, opening like an unenterable house at least three axes oldest — and Rudra, three hundred metres up-ghat behind a flower seller's heap, felt the thing measure him back across the flats with a mildness worse than blackness.
+Under his left wrist: a new cuff. Not the bracelet of the akhada week. This was eight centimetres of gunmetal ceramic, cupped to the bone, opening like an unenterable house at least three axes oldest — and Rudra, three hundred metres up-ghat behind a flower seller's heap, felt the thing measure him back across the flats with a mildness worse than blackness.
 
 "Ye command-rank hai," Ira said from the rooftop's tea-ledger desk, directly to nobody. She had already written in the new white-column-*chastity* habit of her register, and the pen didn't move: *unka calibrated officer — ye aaj wali ladai humein batane ke liye bataaya gaya hai.*
 

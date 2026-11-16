@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–14)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -19,7 +19,7 @@ You are a professional novel-writing AI agent. Your task is to write the complet
 6. **NEVER give characters arbitrary power-ups.** Every power must have narrative setup, preparation, limits, and consequences.
 7. **NEVER write romance as the central plot.** Chemistry is allowed. Romantic subtext is allowed. But the story is an ADVENTURE first. Marriage and family arcs happen in Saga 4-5 only.
 8. **NEVER deviate from verbatim dialogue locks.** See Part 8.
-9. **All four protagonists are exactly 19 years old.** This is LOCKED.
+9. **All four protagonists are exactly 19 years old through Saga 1–3.** This is LOCKED. The character-sheet ages are the opening baseline; later elapsed years in Saga 4–5 must be carried forward, not reset to nineteen (Part 13).
 10. **Write in English prose with authentic Hindi/Hinglish dialogue.** Narrative = English. Character speech = natural Hindi/Hinglish where appropriate.
 11. **Each chapter must be approximately 5,000 words.** Not 2,000. Not 8,000. ~5,000.
 12. **Match the tone and style of the reference chapters in Part 10.** Literary, atmospheric, character-driven, with bursts of kinetic action.
@@ -85,7 +85,8 @@ Kuls are ancient family bloodlines on Prithvi (Earth) that carry inherited cosmi
 - **Rakshak Kul** (Prithvi origin) — Veer's lineage. "Prithvi par sarv-shreshtha" — Earth's greatest protectors.
 - **Bhraman Kul** (Human origin) — Kaal/Dashanan's original lineage. Originally human, no inherent cosmic powers.
 - **Vedic Kul** (Earth origin) — The lineage that found baby Ram when he emerged from the ground. Healing powers.
-- **Ira's Kul** — UNKNOWN/HIDDEN. She is an orphan. Her true lineage is one of the series' biggest mysteries. [UNRESOLVED — Agent must build toward this reveal in Saga 3-4]
+- **Sarokaar Kul** — The civil-records lineage established in written Ch 26. Ira claims Sarokaar belonging through her Ch 30 vow and chosen mentors; that belonging is real, not proof of a biological pedigree.
+- **Sakshi Kul** — Ira's birth lineage: an Earth-born human branch descended from witnesses displaced from the Forgotten Realm, whose family history was deliberately suppressed. **Author canon approved; in-story name/ancestry confirmation only in Ch 187–188.** Her Sarokaar belonging remains real. No royal status, divine incarnation or new power tier follows from this ancestry (Part 14).
 
 ### 2.5 THE SEVEN LOKAS (REALMS)
 
@@ -113,10 +114,10 @@ Kuls are ancient family bloodlines on Prithvi (Earth) that carry inherited cosmi
 
 ### 2.7 CORE TEAM — COMPLETE CHARACTER SHEETS
 
-All four protagonists are **19 years old**. LOCKED.
+All four protagonists are **19 years old through Saga 1–3**. LOCKED. Profiles below give that baseline; Saga 4–5 ages follow the elapsed-time ledger in Part 13.
 
 #### RUDRA (Main Protagonist)
-- **Full Name:** Rudra (surname TBD — [UNRESOLVED])
+- **Full Name:** Rudra Vashisht (existing user lock; opening profile)
 - **Age:** 19
 - **Location:** Varanasi, lives with parents Ram and Rukmini
 - **Personality:** Sarcastic, dismissive on the surface. Deeply loyal underneath. Carries enormous pressure from his father's extreme training. Doesn't know his true origins yet.
@@ -134,7 +135,7 @@ All four protagonists are **19 years old**. LOCKED.
   - Saga 3 Ch 11-22: Learns mother is from Swarg (Prakriti Kul, daughter of Swarg's Highest Lord).
 
 #### AADHYA
-- **Full Name:** Aadhya (surname TBD — [UNRESOLVED])
+- **Full Name:** Aadhya Sharma (existing user lock; opening profile)
 - **Age:** 19
 - **Personality:** Empathetic, curious, fiercely intelligent. Feels things deeply. First to notice the supernatural disturbances. Frustrated by Rudra's dismissiveness.
 - **Kul:** Prakriti Kul (sarvashreshtha Maha Devta Kul — the highest nature/life-force lineage)
@@ -147,7 +148,7 @@ All four protagonists are **19 years old**. LOCKED.
 - **Relationship with Rudra:** Chemistry and mutual respect. NOT a romance arc until Saga 4 (marriage).
 
 #### VEER
-- **Full Name:** Veer (surname TBD — [UNRESOLVED])
+- **Full Name:** Veer Dikshit (existing user lock; opening profile)
 - **Age:** 19
 - **Personality:** Confident, protective, physically imposing. The "big brother" of the group. Knows more about Rudra than anyone else (childhood friend).
 - **Kul:** Rakshak Kul (Prithvi par sarv-shreshtha — Earth's greatest protector lineage)
@@ -160,16 +161,16 @@ All four protagonists are **19 years old**. LOCKED.
 - **Future:** Marries Ira. They have a daughter named Shivangi (Saga 4-5).
 
 #### IRA
-- **Full Name:** Ira (surname unknown — orphan)
+- **Full Name:** Ira Mishra (existing user lock; orphan; how the surname was assigned remains unestablished)
 - **Age:** 19
 - **Personality:** Quiet, observant, analytical. Speaks less but sees everything. Haunted by dreams she can't explain.
-- **Kul:** UNKNOWN/HIDDEN. This is a major mystery. [UNRESOLVED — Agent must build toward reveal in Saga 3-4]
+- **Birth Kul:** Sakshi Kul — author-locked, **unknown to the characters until Ch 187–188**. Earth-born human descendant of a witness-lineage displaced from the Forgotten Realm; family history deliberately suppressed. **Sarokaar belonging:** her written Ch 30 vow and chosen family remain true. Exact parents' names/fates and custody route remain unresolved; Part 14 fixes the approved scope.
 - **Epic State Name:** DRISHTI
 - **Swaroop 1:** Drishti: Darpan (Mirror — reflects others' powers)
 - **Swaroop 2:** Drishti: Divyachakshu (Divine Eye — sees across realms)
 - **Swaroop 3:** Drishti: Sarvagya (Omniscient — sees all timelines)
 - **Powers:** Clairvoyance, spatial awareness, energy pattern reading, prophetic visions.
-- **Key Detail:** Her orphan status is connected to the larger cosmic conspiracy. Her true lineage will shock everyone.
+- **Key Detail:** Her missing birth record is a consequence of suppression, not proof that she has no people. The reveal confirms real ancestry before a Ch 189–190 choice: protect living people rather than retrieve the inaccessible remainder of her personal archive. Enough evidence survives to keep the revelation genuine; no arbitrary power-up or invalidation of her dreams.
 - **Future:** Marries Veer. Their daughter Shivangi inherits ALL of both parents' powers.
 
 ### 2.8 RUDRA'S FAMILY (CRITICAL — MOST COMPLEX BACKSTORY)
@@ -190,8 +191,9 @@ All four protagonists are **19 years old**. LOCKED.
 - **The Kavach:** At Rudra's birth, she placed a powerful seal (kavach) on him to hide his dual Asuran-Prakriti identity from cosmic entities who would hunt him. This kavach is cracking as the story begins.
 - **Personality:** Warm, protective, carries deep grief about her exile. Drops subtle hints about the truth but never reveals it directly in Saga 1.
 
-#### SON: RUDHRANSH (Born Saga 4)
+#### SON: RUDHRANSH (Born Saga 4, Ch 230–232)
 - **Parents:** Rudra + Aadhya
+- **Chronology:** Full-term birth in Ch 230–232, after the Ch 217–219 marriage and Ch 220–222 pregnancy confirmation. Show the intervening months and postnatal recovery time; no instant pregnancy or rapid physical ageing. Five elapsed Earth years during the separation make him five at the Ch 241–243 reunion. Rudra's direct, age-appropriate guidance begins in Ch 244–248, not before birth.
 - **Nature:** Ardhanarishwar reborn — the prophesied return of the primordial being.
 - **Powers:** Power absorption, timeline travel, power transfer, nature + demonic + auspicious fusion. Essentially limitless potential.
 - **Swaroops:** Gets 2 Swaroops during the final battle (trained by Rudra), plus an Antim (Final) Swaroop when he absorbs ALL cosmic powers.
@@ -241,7 +243,7 @@ All four protagonists are **19 years old**. LOCKED.
 - Saga 2: Tournament (Ch 74–78), Mentor Backstories (Ch 97–102)
 - Saga 3: Realm Culture (Ch 127–130), Gods' Daily Life (Ch 150–153)
 - Saga 4: Marriage + Peace (Ch 217–222)
-- Saga 5: Rudra + Rudhransh bonding (Ch 244–248), Aadhya + Team (Ch 252–256)
+- Saga 5: Rudra + Rudhransh bonding and first direct, age-appropriate control guidance (Ch 244–248), Aadhya + Team preparations (Ch 252–256)
 
 ---
 
@@ -393,28 +395,33 @@ Saga 1 finale. The team celebrates their victory, but the camera pulls back to r
 
 ### ═══ BOOKS 10–12: SAGA 4 — THE FORGOTTEN REALM (Ch 181–240) ═══
 
-**Arc Summary:** The most personal saga. Rudra and Aadhya's relationship deepens into love. **Marriage (Ch 217–219).** **Pregnancy (Ch 220–222).** Rudhransh is born. The team discovers the Forgotten Realm — a hidden eighth Loka that was erased from existence by the Devtas because it contained beings more powerful than Maha Devtas. Kaal has been hiding there. He takes Ardhanarishwar's cosmic throne. **The 5-year separation:** an inter-dimensional blast scatters the team across different timelines (Ch 233–240). Rudra is trapped in a timeline where Rudhransh is 5 years old and Aadhya is dead. He must fight his way back. This saga ends with the team reunited but broken, facing Kaal's final assault.
+**Arc Summary:** The most personal saga. Rudra and Aadhya's relationship deepens into love. **Marriage (Ch 217–219). Pregnancy confirmation (Ch 220–222). Full-term birth of Rudhransh (Ch 230–232), after explicitly marked months of gestation.** The team discovers the Forgotten Realm — a hidden eighth Loka that was erased from existence by the Devtas because it contained beings more powerful than Maha Devtas. Kaal has been hiding there. He takes Ardhanarishwar's cosmic throne. **The 5-year separation (Ch 233–240):** after the birth and a marked recovery interval, an inter-dimensional blast scatters the team. On the primary Earth timeline, Aadhya remains alive, leads the resistance, and raises Rudhransh during five elapsed years without Rudra. Rudra is trapped in an alternate timeline where a counterpart Aadhya is dead and a counterpart Rudhransh is five; these counterparts do not replace his living family. **Saga 4 ends with the family still separated. Actual return/reunion belongs only to Ch 241–243 in Saga 5.** No accelerated child ageing or pre-birth training; Part 13 is the chronology contract.
 
 **Key Chapters:**
-- Ch 181–190: The Forgotten Realm discovered. Team enters the erased Loka.
+- Ch 181–184: The Forgotten Realm physically verified; the team enters through an investigated route, not an Ira-only blood key.
+- Ch 185–186: Ira's notebook provenance becomes an evidence lead; independent corroboration required, not a matching-symbol verdict.
+- Ch 187–188: **IRA'S SAKSHI KUL REVEAL.** Confirm the Earth-born witness-lineage and meaningful family facts with independent evidence. Sarokaar belonging remains true; no new Swaroop or restored eye.
+- Ch 189–190: **THE CHOICE AFTER THE ANSWER.** Ira saves living people over the inaccessible remainder of her family archive, losing a concrete chance to recover more personal history. Enough proof remains; do not retract the ancestry answer. Specific rescue mechanics and parents' fates require later design, not retroactive invention.
 - Ch 191–200: Kaal's backstory revealed in full — his human life, his people's death, his journey to Pataal, drinking the gods' blood.
 - Ch 201–210: Kaal takes Ardhanarishwar's throne. Cosmic chaos. All Lokas destabilize.
-- Ch 211–216: Preparation for final war. Training Rudhransh (who ages rapidly due to his Ardhanarishwar nature).
-- Ch 217–222: FILLER/EMOTIONAL — Marriage, peace, pregnancy. The calm before the storm.
-- Ch 223–232: The final war begins. Massive multi-realm battles.
-- Ch 233–240: **THE SEPARATION.** Inter-dimensional blast. 5 years lost. Rudra in alternate timeline. Rudhransh grows up without his father. Aadhya leads the resistance alone.
+- Ch 211–216: Adult-team preparation for the coming war: recovery, coordination, refuge and evacuation planning. No unborn-child training.
+- Ch 217–219: EMOTIONAL — Marriage and a limited interval of peace.
+- Ch 220–222: EMOTIONAL — Pregnancy confirmed; family choices before the next escalation. This is not a birth or accelerated gestation.
+- Ch 223–229: The final war begins across multiple realms. **Months visibly pass** while Aadhya's pregnancy progresses; protect her agency and medical/physical limits.
+- Ch 230–232: **RUDHRANSH'S FULL-TERM BIRTH.** Family/medical care and a clearly marked postnatal recovery interval amid the continuing war. No infant combat training.
+- Ch 233–240: **THE SEPARATION.** Inter-dimensional blast after the birth/recovery interval. Five years elapse on primary Earth: Aadhya remains alive, leads resistance, and raises Rudhransh without Rudra. Rudra faces the alternate-timeline loss of counterpart Aadhya. **Ch 240 ends before his actual return; no family/team reunion in Saga 4.**
 
 ---
 
 ### ═══ BOOKS 13–15: SAGA 5 — CYCLE OF ANANTA (Ch 241–300) ═══
 
-**Arc Summary:** The final saga. Reunion, redemption, and the end of everything. Rudra returns from the alternate timeline. Reunites with Aadhya and 5-year-old Rudhransh. The team gathers all allies across all Lokas for the final assault on Kaal. Rudhransh achieves his full potential. The ending follows the LOCKED sequence exactly (see Part 5).
+**Arc Summary:** The final saga. Reunion, redemption, and the end of everything. **Rudra first returns from the alternate timeline and reunites with his primary-timeline family in Ch 241–243.** Aadhya is alive; Rudhransh is five because five Earth years have passed, not because of accelerated growth. Father–son bonding and Rudra's first direct, age-appropriate control guidance follow in Ch 244–248, with later supervised practice during preparations. The team gathers allies across all Lokas for the final assault on Kaal. Rudhransh achieves his full potential only in the scheduled final-war arc. The ending follows the LOCKED sequence exactly (see Part 5).
 
 **Key Chapters:**
-- Ch 241–243: Rudra's return. Emotional reunion.
-- Ch 244–248: FILLER — Rudra + Rudhransh bonding. Father-son relationship.
+- Ch 241–243: **ACTUAL RETURN / REUNION.** Rudra returns to primary Earth; reunites with living Aadhya, five-year-old Rudhransh, and the core team. This is not a repeat of an offscreen Saga 4 reunion.
+- Ch 244–248: CHARACTER — Rudra + Rudhransh bonding. First direct father–son, age-appropriate control guidance; no repeated version of Ram's brutal childhood drills or instant combat mastery.
 - Ch 249–251: Gathering allies. Every surviving character from all sagas returns.
-- Ch 252–256: FILLER — Aadhya + Team preparations.
+- Ch 252–256: CHARACTER — Aadhya-led team preparations, coordination and continued supervised control practice. This does not unlock Rudhransh's final potential early.
 - Ch 257–260: The assault on Kaal's fortress begins.
 - Ch 261–272: Multi-realm war. Every mentor, ally, and redeemed villain fights. Massive casualties.
 - Ch 273–280: **Tribute to fallen warriors.** Emotional chapter honoring every character who died across the series.
@@ -484,12 +491,14 @@ THE END.
 | Rudra's father's origin | Ch 1 (hints) | Saga 1-2 | Saga 2 Ch 81-92 (Pataal/Asuran) |
 | Rudra's mother's origin | Ch 7 (lullaby) | Saga 1-2 | Saga 3 Ch 131-142 (Swarg/Prakriti) |
 | The Kavach's purpose | Ch 1 (eye flicker) | Ch 19, 39 | Saga 2 Ch 79-80 (full shatter) |
-| Ira's true Kul | Ch 8 (dreams) | Saga 2-3 | Saga 3-4 [UNRESOLVED] |
+| Ira's birth Kul / real Sarokaar belonging | Ch 8 (dreams/notebook); Ch 26–30 (missing file/chosen vow) | Saga 2: records' limits; Ch 171–178: unmapped-place visions; Ch 181–186: physical/provenance investigation | Ch 187–188: Sakshi Kul ancestry confirmed; Ch 189–190: costly rescue choice; Sarokaar belonging intact (Part 14) |
 | Kaal's identity | Ch 60 (shadow) | Saga 2-3 | Saga 3 Ch 179-180 (first appearance) |
 | Kaal's backstory | Saga 2 (hints) | Saga 3 | Saga 4 Ch 191-200 (full reveal) |
 | Aegis leader's identity | Ch 20 (Ram's reaction) | Saga 1-2 | Saga 2 Ch 110-115 |
 | The Forgotten Realm | Saga 3 (Ira's visions) | Saga 3-4 | Saga 4 Ch 181-190 |
-| Rudhransh's nature | Saga 4 (birth) | Saga 4 | Saga 5 Ch 289-292 |
+| Rudhransh's nature | Saga 4 Ch 230–232 (birth) | Saga 4; no premature origin explanation | Saga 5 Ch 289-292 |
+| Rudhransh's age / direct training | Ch 220–222 (pregnancy); Ch 230–232 (birth) | Ch 233–240: five elapsed Earth years | Ch 241–243: age five; Ch 244–248: Rudra's first direct guidance |
+| Separation / return boundary | Saga 4 Ch 233–240 | Family still separated at Ch 240 | Saga 5 Ch 241–243: actual return/reunion only |
 | Ardhanarishwar's split | Prologue narration | Saga 2-3 | Saga 3 Ch 154-160 (full context) |
 | Rukmini's sister | Saga 3 (mentioned) | Saga 3 | Saga 3 Ch 131-142 |
 | The Divine Cycle's flaw | Saga 1 (hints) | Saga 2-3 | Saga 3 Ch 154-160 (Devtas' indifference) |
@@ -511,7 +520,7 @@ RUDRA (dual heritage) ═══ marries (Saga 4) ═══ AADHYA (Prakriti Kul)
     ↓
 RUDHRANSH (Ardhanarishwar reborn)
 
-VEER (Rakshak Kul) ═══ marries (Saga 4) ═══ IRA (Kul unknown)
+VEER (Rakshak Kul) ═══ marries (Saga 4) ═══ IRA (Sakshi birth Kul: reveal Ch 187–188; Sarokaar belonging affirmed in Ch 30)
     ↓
 SHIVANGI (Velum + Drishti combined)
 
@@ -536,8 +545,11 @@ RAM ← former mentor → AEGIS LEADER [Name UNRESOLVED] (betrayed Ram)
 | 2026 (Story Start) | Rudra, Aadhya, Veer, Ira are 19. Kavach cracks. Saga 1 begins. |
 | 2026-2027 | Saga 1-2 events. Kul Wars. Father's origin revealed. |
 | 2027-2028 | Saga 3 events. Swarg. Mother's origin revealed. Kaal appears. |
-| 2028-2029 | Saga 4 events. Marriage. Rudhransh born. 5-year separation. |
-| 2033-2034 | Saga 5 events. Reunion. Final war. Cycle reset. THE END. |
+| 2028 | Saga 4: marriage (Ch 217–219), pregnancy confirmation (Ch 220–222). |
+| 2028-2029 | Marked gestation months amid the war (Ch 223–229); full-term birth and postnatal recovery (Ch 230–232). |
+| 2029 | Inter-dimensional blast/separation begins after birth and recovery (Ch 233–240). |
+| 2029-2034 | Five elapsed primary-Earth years during Saga 4's separation: living Aadhya leads resistance; Rudhransh grows naturally to five. Rudra remains absent. |
+| 2034 | Saga 5: actual return/reunion (Ch 241–243), then bonding/guidance, final war and locked ending. |
 
 ---
 
@@ -1040,14 +1052,19 @@ But something, far below, in the lightless corridors of a realm that had been se
 - [ ] Tone consistent with reference chapters
 
 ### UNRESOLVED ITEMS (Agent must resolve during writing):
-- [ ] Rudra's surname
-- [ ] Aadhya's surname
-- [ ] Veer's surname
+- [x] Rudra Vashisht — existing user lock synchronized
+- [x] Aadhya Sharma — existing user lock synchronized
+- [x] Veer Dikshit — existing user lock synchronized
+- [x] Ira Mishra — existing surname lock; Sakshi birth lineage approved in Part 14, still hidden on-page until Ch 187–188
 - [ ] Aegis Meridian leader's name and detailed backstory
 - [ ] Rukmini's sister's name
-- [ ] Ira's true Kul (reveal in Saga 3-4)
+- [x] Ira's birth Kul / reveal structure — Sakshi lineage, Sarokaar belonging and Ch 187–190 sequence approved in Part 14.
+- [ ] Ira's parents' names/fates, precise custody chain and scene-specific evidence/rescue mechanics — not selected by this approval.
 - [ ] Specific Maha Devta names for each Loka
-- [ ] Detailed Forgotten Realm lore (Saga 4)
+- [ ] Detailed Forgotten Realm lore (Saga 4); recommendation remains [PROPOSED], Part 13.4.
+- [x] Saga 4 birth/training chronology and Saga 4/5 reunion boundary — repaired in Part 13.
+
+**Still-pending names/lore are not silently canonized:** Part 14 accepts only the Ira core, lineage name and reveal structure. Other candidate character names, the realm alias/new lore and precise parental history in the linked recommendation still require separate selection.
 
 ### FINAL NOTE TO AGENT:
 This is not a summary. This is not an outline. This is a NOVEL SERIES. Write it as if it will be published. Every chapter must stand alone as a piece of professional fiction while contributing to the larger arc. Characters must breathe. Settings must feel real. Powers must cost something. Mysteries must earn their reveals. The ending must devastate.
@@ -1056,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by Part 12 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–14 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1132,3 +1149,84 @@ The gods remember. Humanity forgets. Write accordingly.
 1. One chapter per "continue" (multi-chapter runs only on explicit ask).
 2. Hinglish summaries; garble-clean chunks; `canon_check.py book-02-resonance` PASS; single `### END OF CHAPTER NN` marker.
 3. **Nothing story-side changes without user permission** — including titles, reconciliations, and reveal timings.
+
+
+---
+
+## PART 13: SAGA 4–5 CHRONOLOGY REPAIR / IRA PROPOSAL BOUNDARY (2026-11-15)
+
+**Authority:** the user requested repair of the pre-birth training contradiction and the Saga 4/5 reunion contradiction, and asked for the strongest Ira reveal idea. The chronology below implements that repair. **A request for an idea is not approval of new lineage, names or realm lore.** Existing surname locks and written Sarokaar belonging are synchronized, not newly invented. No written Ch 0–60 or dialogue lock is changed.
+
+**Subsequent decision:** Part 14 records the later explicit approval of the bounded Ira core/reveal structure. The chronology in13.1–13.2 is unchanged; unselected proposal details remain pending.
+
+### 13.1 CHRONOLOGY CONTRACT — ACTIVE
+
+Keep all book/saga boundaries and the existing marriage/pregnancy slots. Chapter numbers below are GLOBAL, not book-local.
+
+| Event | Global chapters | Continuity requirement |
+|-------|-----------------|------------------------|
+| Adult-team preparation | 211–216 | Adult recovery, coordination, refuge/evacuation planning; no child training. |
+| Marriage | 217–219 | Existing slot retained. |
+| Pregnancy confirmation | 220–222 | Existing slot retained; no birth or accelerated gestation. |
+| War and gestation | 223–229 | Mark the passage of the remaining gestation months; no one-week pregnancy. |
+| Birth and recovery | 230–232 | Full-term birth, family/medical care, marked postnatal recovery interval before the blast. |
+| Separation | 233–240 | Five primary-Earth years pass; main Aadhya alive, Rudra absent, son grows naturally. No actual return/reunion by Ch 240. |
+| Return and reunion | 241–243 | Actual return to living primary family/core team; Rudhransh is five. |
+| Bonding and first direct guidance | 244–248 | Rudra's first direct, age-appropriate control teaching; no instant mastery. |
+| Continued team preparation | 252–256 | Aadhya-led preparation and supervised practice, not the child's final awakening. |
+
+Rudhransh's extraordinary nature is not a shortcut for pregnancy, growth, learned skill, or the scheduled final-potential reveal in Ch 289–292. His name is gated until Ch 230; the separate Shivangi name gate remains unchanged at Ch 241. Other origin/name/dialogue gates are not unlocked by this amendment. The protagonists' nineteen-year profiles are the Saga 1–3 baseline, not a reset after the later five-year absence.
+
+### 13.2 TWO TIMELINES / ONE REUNION — ACTIVE
+
+- **Primary Earth:** Aadhya survives, leads the resistance and raises her son through the five-year absence. Do not kill/resurrect this Aadhya to manufacture a reunion.
+- **Alternate timeline:** Rudra confronts a dead counterpart Aadhya and a five-year-old counterpart son. Those counterparts neither replace nor supply his real family.
+- **Saga 4 closes separated. Saga 5 opens with the actual Ch 241–243 return/reunion.** No hidden/offscreen earlier reunion or repeat reunion.
+- Keep the primary-Earth calendar coherent: 2028 marriage/pregnancy; 2029 full-term birth/recovery and separation; five elapsed years; 2034 reunion. The reference/Prologue text and locked series ending stay untouched.
+
+### 13.3 EXISTING IRA CANON — ACTIVE
+
+- Her name remains **Ira Mishra**. The origin/assignment of that surname has not been established.
+- Her Ch 30 vow **"Main Sarokaar hoon. Main likhoongi — jo sarkar na likhe."** and her chosen relationships remain true. Neither becomes a false identity discarded when biological ancestry is learned.
+- Her author-locked birth Kul is Sakshi (Part 14); characters do not know that ancestry/name until Ch 187–188. Notebook, missing records and dreams remain leads, not an early ancestry certificate. No new name or explanation in Ch 61.
+- Darpan remains one demonstrated **live** reflection with the source's weaknesses and immediate source-off ending. No ancestral recording may supply a stored combat power; bleeding/blur/tremor and recovery still matter.
+- The eighth-gate/assistant-ledger thread and the Prologue-Lord/city-officer relationship stay independent open threads. Do not merge them into an Ira answer by implication.
+
+### 13.4 RECOMMENDATION RECORD — PARTIALLY ACCEPTED IN PART 14
+
+See [Saga 4 repair and Ira reveal recommendation](continuity-notes/saga-04-repair-and-ira-reveal-proposal.md), decision G. **Only the Ira witness-lineage core, Sakshi name, preserved Sarokaar belonging and Ch 187–190 reveal/choice structure are now selected.** Other candidate character names, realm alias/new lore, exact parental history and scene mechanics remain [PROPOSED]. Part 14 controls the active scope. Do not expose the accepted future reveal early or plant it retroactively in written chapters.
+
+
+---
+
+## PART 14: IRA CORE REVEAL — EXPLICITLY APPROVED / CH 61 AUTHORIZED
+
+**Authority:** the user selected **“Dono karo”** in the clarification: first lock Sakshi Kul, Sarokaar belonging and the proposed Ch 187–190 reveal structure, then write **one** Book 4 chapter, Ch 61, without exposing that future reveal. This is not blanket approval of the remaining proposal names/lore.
+
+### 14.1 ACTIVE FUTURE CANON
+
+- Ira Mishra is an **Earth-born human descendant of the Sakshi witness-lineage displaced from the Forgotten Realm**. Her family history was deliberately suppressed. This is ancestry, not a title, transformation, divine incarnation or right to a throne.
+- She is born in her own ordinary generation, with a real childhood; no ancient/frozen/time-travelling infant explanation. Her surname stays Mishra; its assignment/provenance remains unestablished.
+- **Sarokaar remains her real chosen belonging.** Do not invalidate the Ch 30 vow, chosen mentors, learned investigative/legal skill or relationships. Birth answers do not erase earned identity.
+- The reveal grants no new form, sight tier, healing or stored combat power. Darpan still needs a live source and inherits its limits; injuries/recovery remain. Prophetic/remote visions are not all retroactively reclassified as ancestral memories.
+
+### 14.2 ACTIVE REVEAL CONTRACT
+
+| Global chapters | Authorized progression |
+|---|---|
+| Saga 2 | Investigate limits/gaps in official records without naming the birth Kul or proving a forgotten-realm origin. Do not displace Ram's scheduled origin arc. |
+| 171–178 | Existing visions supply a testable unmapped-place discrepancy; still no birth-Kul name or genealogy explanation. |
+| 181–184 | Physical realm/location verification independent of Ira's dream; no exclusive biological door key. |
+| 185–186 | Notebook provenance as lead, independent evidence gathered; matching marks alone do not prove ancestry. |
+| 187–188 | **Sakshi Kul name and biological ancestry confirmed**, with meaningful family facts and independently corroborated evidence. |
+| 189–190 | After receiving real answers, Ira saves living people over the inaccessible remainder of her family archive. Concrete personal-history cost; enough evidence remains to preserve the answer already earned. |
+
+The Sakshi name is gated until187 in the checker. Approved future canon belongs in planning now, not in Ch 61 prose/epigraph. Precise evidence objects, witnesses, chase/rescue logistics and parental names/fates are later design decisions, not automatically established by this structure.
+
+### 14.3 STILL PENDING / NON-CHANGES
+
+- Other proposed character names and the realm alias/new lore in the recommendation remain **[PROPOSED]**. Do not use them as canon.
+- No equation between Ira's lineage and the eighth-gate/assistant-ledger/unknown-hand thread. No Lord/city-officer/Right-Hand identity reconciliation.
+- No Ch 0–60 rewrite, new primordial being, changed cosmic hierarchy, altered dialogue lock, revised Ram/Rukmini reveal schedule or removed injury cost.
+- Book 4's individual title remains unassigned. A neutral `book-04` directory/merged heading is organizational metadata, not a newly approved book title.
+- Only Ch 61 is authorized now; Ch 62 waits for a later request. Draft in short reviewed chunks, 4,300–6,200 words, epigraph, one END61 marker, continuity note, strict/full checks, merged file, individual commit and immediate push.

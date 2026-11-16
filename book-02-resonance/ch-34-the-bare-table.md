@@ -55,7 +55,7 @@ A bench like this keeps its hundred-year tab open, or closes it. Every filing he
 
 The leaves turned overhead. The rotation boy, discharged for the hour but kept at his kettle out of habit, had set three extra clean glasses upside down on the tray before being shooed — and nobody had told him to. Boodhi's place made such provisions on its own long habit; banyans, and their attendant dead, had ways of knowing how many were *actually* coming. At twelve noon exactly, the district's delegation arrived.
 
-Ram Yadav came first, stopping at the bench's north end — the end you fought from if there was going to be fighting, the Right Hand noted — and stood, waiting. Dadi came second, unhurried, carried nothing, leaning nowhere, in a cotton sari that had walked this city down more wednesdays than the Right Hand had been alive. The tea-boy came third with three glasses on a tin tray, because the rotation had already been told there would be three, by someone whose brief was so quietly exact that the Right Hand permitted himself a pencil's worth of new respect.
+Ram Vashisht came first, stopping at the bench's north end — the end you fought from if there was going to be fighting, the Right Hand noted — and stood, waiting. Dadi came second, unhurried, carried nothing, leaning nowhere, in a cotton sari that had walked this city down more wednesdays than the Right Hand had been alive. The tea-boy came third with three glasses on a tin tray, because the rotation had already been told there would be three, by someone whose brief was so quietly exact that the Right Hand permitted himself a pencil's worth of new respect.
 
 Nobody spoke until the glasses were placed. Nobody drank.
 

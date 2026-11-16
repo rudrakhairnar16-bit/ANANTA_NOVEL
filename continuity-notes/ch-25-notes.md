@@ -1,6 +1,6 @@
 # CH-25 — THE FIRST BATTLE (Book 2, Ch 5; closes "Aegis Rising" arc)
 - Friday ambush, not Saturday: ghats cordoned under fake "Heritage Protective Works" order; three-sided trap with river side left open (verification ground).
-- Command-rank agent w/ heavy gunmetal-ceramic CUFF (vs akhara bracelet-class; calibrated officer). Water column raised off Ganga surface.
+- Command-rank agent w/ heavy gunmetal-ceramic CUFF (vs akhada bracelet-class; calibrated officer). Water column raised off Ganga surface.
 - Rudra divides the strike — hand out, chest seam sealed; crowd witnesses: **"Wo ladke ne paani rok diya."** First public miracle, name enters city.
 - Aadhya runs battle-coordination from tea-stall roof: 11 micro-rearrangements of carts/stalls break cordon geometry in an hour. Ira on rooftop ledger: cuff recharge 9 sec, lookout relay patterns.
 - Dadi blocks agent-squad with stick line: "Mujhe haath lagaya toh tulsi bageeche se likh loge."
