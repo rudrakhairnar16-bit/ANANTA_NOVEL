@@ -106,10 +106,18 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Only the Ira witness-lineage core", self.bible)
 
     def test_later_explicit_batch_does_not_unlock_lore(self):
-        batch = self.bible.split("## PART 15:", 1)[1]
+        batch = self.bible.split("## PART 15:", 1)[1].split("## PART 16:", 1)[0]
         self.assertIn("Ch 62–64 only", batch)
         self.assertIn("Stop after Ch 64", batch)
         self.assertIn("all other reveal gates remain unchanged", batch)
+
+    def test_next_bounded_batch_preserves_split_and_recovery(self):
+        batch = self.bible.split("## PART 16:", 1)[1]
+        self.assertIn("Ch 65–67 only", batch)
+        self.assertIn("66–73 multiple-city defense/team split", batch)
+        self.assertIn("not permission to skip recovery", batch)
+        self.assertIn("Stop after Ch 67", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):

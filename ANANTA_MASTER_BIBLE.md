@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–15)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–16)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–15 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–16 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1243,3 +1243,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Each new chapter: approximately4,300–6,200 words, legend-first epigraph, reviewed short chunks, one matching END marker, consequence note, required Book3 and Book4 canon checks, regenerated Book4 merge, individual commit and immediate push on the current branch.
 - Sakshi/Ch187–190 contract and all other reveal gates remain unchanged. Other proposed names/realm lore remain pending. No new important antagonist/Kul roster or reconciliation of independent identities is authorized.
 - The neutral Book4 heading remains organizational metadata. Ch0–61 and existing merged Books1–3 stay untouched. **Stop after Ch 64; Ch 65 requires a later request.**
+
+
+---
+
+## PART 16: BOOK 4 — EXPLICIT CH 65–67 BATCH AUTHORIZATION
+
+**Authority:** the user's later instruction **“67 tak complete karo”**, following delivery through64, authorizes **Ch 65–67 only**. Part15's stop64 was the completed earlier batch, not a continuing veto. No rewrite or publication to main is requested.
+
+-65 resolves64's threatened04:00 pump duty inside the existing61–65 Varanasi opening.66 begins the approved66–73 multiple-city defense/team split;67 continues it. Do not keep the entire next arc confined to Varanasi or pull later tournament/reveal events forward.
+- The request is not permission to skip recovery: mark elapsed time and individual medical reassessment before regional travel. Transport/light-duty clearance is not combat clearance. Preserve residual injuries, follow-up arrangements, family agency and civilian/institutional work. No free healing, mastered first form or new tier.
+- All existing parent/origin, Ira/Sakshi187–190, antagonist-identity and independent-mystery boundaries remain. Pending names/lore remain pending; no new important Kul/antagonist roster or retrospective planting.
+- Each chapter retains4,300–6,200-word target, epigraph, reviewed short chunks, one matching END, continuity note, required Book3 and actual Book4 checks, regenerated merge, individual commit and immediate push on the current branch. Ch0–64 and earlier-book merges remain unchanged.
+- Neutral Book4 metadata only. **Stop after Ch 67; Ch 68 needs a later request.**
