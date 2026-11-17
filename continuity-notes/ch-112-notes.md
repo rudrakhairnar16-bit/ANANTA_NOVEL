@@ -1,0 +1,61 @@
+# Ch112 — The Weight of the Next Stone
+
+**Final 4,359w. SECOND authorized111–113; STOP113/no114/no main publication.**111 **4,324w/2fe6ecf9f577e8f5c7de2bb1e6ea49bb2e6d4712** checked+committed+IMMEDIATELYpushed/presented BEFORE112draft. Five reviewed chunks **816/943/844/876/880**, oneEND112/exactassembly. Book6 COMPLETE-TO-DATE101–112/**TWELVE exact numeric END-stripped sources /52,201w**, notcompleteBook6/subtitleunassigned. Fresh80649bd/255baseline/252protected; Bible32+two labels/test31boundary+two regressions unchangedafter111; prior111source+OWNnotes protectedat2fe6ecf. Historical0–110/108–110planSTOP110/Books1–5merges/original51/checker/frozenBook5fortytwopaths77735cd untouched. Currentplan111prefixappend-only.
+
+## Immediate111 payoff — actual122 bank impact / trial ENDS / actual return
+
+FIRST **“The earth bank took the red-black below its middle.”** Narrowgroove/dust/soilslides/NOrecalledorstoredburst. Sopenhand+“Khatam”; Rkeepssourceinactive/loosensfingersNOTanotherrelease. VbyclearREARpath; Rasksordinarycompany/actualslowseat/kneeholds/noobservercrossesactiveline. GOODhandtremor+ONEnailedgeREDbeadreported/visible. No recurrencebreath-chest-dizzy/nochangedankle/kneetirednotnewpain. HandcostaloneENDSallpractice.
+
+Sactualclean-coverfinger/Vactualreceivingphoneadvice/no secondtry. **“Maine yahaan roka tha”/“Jo nikal chuka tha, usko yahaan rukte nahi dekha.”** THISreleaseleftsourceANDcrossedmark/earthsuppliedending, notnewuniversalpowerlaworrecalltheorem. SACTUALflankinspectionAFTERpowerinactive/checkBEYOND/returns/grooveENDSinsidebank/nothingreachedboundary/noentry. PermissionedphotographsACTUALtarget-mark-grooveNOTevidenceofinnerfeeling. OccupieractuallyRECEIVESdamageaccount/patchmadeseafeBEFOREordinaryworkrequired/costNOTinventedpaidyet.
+
+ACTUALnewcarreturnordinaryopenroad/belts/supports/receivingSTAFFhandover+transferNOTdriverlifting. Properhand-joint-symptomexam/naildressed/tremoreaseswithREST/neededobservation/NOsecondfaint-chestpainBUT104–106causeNOTresolved. Added123exerciseCANCELLED/comfortableordinaryworkonly/reviewBEFOREmoreforce. Actualcheckedjourney+waitingPAYMENT/driverACKreceived/LEFTownshiftends. Iraownbasic“actuallyback”update/R“aa gaya”; NOunaskedphotos/privatefilefeed.
+
+## Earned ordinary progress / ONE brief existing Jaagrut / actual care
+
+-123actualrest/sleep/food/fingercheck/NOlessonhiddenincancelledwork. VeercalljokeaboutclayNOTpardon/mastery/demandtoprovefriendship; badfilmconversationordinaryownlife.
+- Nailcloseswithcare; therapistrestoresONLYgradedordinarywork.128shortunevenOUTANDback/seat/kneereportBEFORErerise/NOdifferentpull/AFTERNOONheat-swellingchecknegative. ActualseparatedayrepeatBEFOREmore. Wristlightgripimproves/STILLNObodycatch; aidremovedONLYobservedSHORTLEVELstretch/notfieldcombatreadiness.
+- YardpatchACTUALLYcutback+compacted/SSEESwork/billactualworkerchargeSETTLED+RECEIPTfromsameaccount. Others'outstandingcostsreserved/ONEnewlimitedpracticerunavailableNOTinfinitebookings. No target/no re-enactingmothernear-kill/traumaasfuel.
+-132CURRENTexam+ordinaryexertionreviewinclpriorhandtremor/collarwound/unknownforce-risk/STOPanynewbleed. OccupierpermissionRENEWED/V+Sactualbank/flanks/BEYONDwalk/currentreturnroad-car-driver-phone-signal-receivingcheck/newfinitepaidbooking. Restafterjourney/bothobserversACTUALLYBACKafterfinalwalk/protectedoffforwardline/noonepasttarget. FirstwarmthNOform→Rlowershand/rest/bodycomfortable; onefurtherattemptwithinsamemorningproposal.
+- **EXISTING“Unbound: Jaagrut”** namedquietlyNOTnamemakespowerwork. Redblackalongarms/distinctgold/WHOLEoutlinebrieflyshouldersTOfeet. Existingankle+kneestillfelt/nothealed. NOjump/lift/combat/loadtest/outwardstroke. CollarSTING→Rimmediate“Ruk raha hoon”/letseffortGO/densitythins+ends/SSTOPwhenredlineappears/NOextrasecondowed. **ONEboundedwholeexistingformanddeliberateEND, NOTreliableorcombatmastery/newtier/Pataalattainment/countfix/fusion/concealingseal.**
+- ActualsafeSIT/cleanpressure+cover/Vreceivingreport/currentalert-comfortablebreath-nojointchangeNOTharmlessrepeatablecost; ACTUALreturnexam+observation/newcollarwoundcare/NOmorepractice. NewdriverACTUALpay+ACK+LEAVES. R“Roop aaya tha…Dobara waise hoga, yeh abhi nahi pata.”
+- Followingdaysactualcollarreview→shallowopeningcloses/ordinarywalkingallowed/FORCENOTimplied. NOroomtrialafteryard/no136retry/noadditionalpowerformpromised.139parentssourcelimitedcallbelow.141currentclosedcollar+functionreviewdoesNOTerasebleedcost.
+
+## Basic rank words / independent relationships / ONE new-arc mother pulse
+
+136Dhruvafterownhandprotectedseated Rasksfutureoppositionscale. DirectcannotpromisecombatfromONCE. **Devta/MahaDevta** TITLEwordsnowgiven/highersecondrank/basiccapacitynotKul, nofullnamedroster/officecount/biography/newruler/individualorder-giver/verifiednewfoeidentity. LosingtoastrongerpersondoesNOTconfername/office. Oldfather81–92storyNOTreopened/newdetails; fatherlineageNOTuniversalhatred/cosmicbalancedoctrine/private60knowledge.
+
+Veerownshoulderprogress+loadedreachCORRECTED/ownkneerest; AadhyamanagesSLOWpagewithcurrentpermittedmotionBUTthumb-indexALTEREDpressurefeelingstillmustLOOK; IraordinaryRIGHTintervalsincreasewithreview/choosesshorteronACHINGday/LEFTcoverremains/NODarpantrial. Friendsownlivesnotaudienceorprotectivebackstop.
+
+139BOTHparentsafterOWNcarechoosecall/Raskspermissionpracticeaccount/BOTHyes. Honest122bank+handcost/132outline+collarbleed/actualcare/NOREPEAT. RamasksclosureNOTrequestvideo/technique/neworigin; ordinaryfoodchatAFTERtruth/callactuallyENDSbeforemother'sshoulderdiscomfort. RukminiSELFordinarywristpulse/anxiety→ASKSpillowhelp/armsettled/actualmedicine, **NOremotecue/maternal-originhint**. THIS111–118arc'ssilentmotherpulsefulfilled, notrepeat110event. No parentfieldescort/forgiveness/coerciveproof.
+
+## New141 Earth-side position task — finite persons, care, transport
+
+140EXISTINGstatementconstableASKSclarifyEARTHchair-car-roadbendpositions/PHOTOSalternative/no force-or-weaponreconstruction. InsideCURRENTphotographsSEPARATEmentorchoice, NOTpasttimberrecreated orRmandatorypassagevisit. RownYESreasonplaceownmemoryagainstactualdistance, notcompleteclosedfirstvisit/nextleveltest. **“Earth waali jagah tak.”**
+
+141actualreviewsBEFOREdeparture: RcomfortablegradedOUTANDback/shortunevenonSEPARATEdays/anklesupport/knee-wristchecked/LIGHTuseimproved/NObodycatch/collarclosedordinarywork/no recurrencefaint-chest-breathduringactualexertion. TreatingteamknowsSEATEDtrip+briefEARTHwalk+seats-returncare/NODEMO/NOpassagevisit; changedfactsmeanSTOP/photoswait. Dhruvcutclosed/shoulderandordinarywalkcomfortable/oldhandNOheavygrip; choosesLIMITEDwalknotfight. VedantforearmLIGHTuse/strongsustainedgripstillPULLSreportedatreview; staysR-Earth/notalsoguide. Sitaraownrest/handsFIT/ownboundedYES. Veerkeepsrehabappointment/Aadhyaownhandmorning/Iraownstatementcontact+eyechoice, notforcedcompanions orsharedaccount.
+
+NEWlimitedpaidordinarycar/FIVEpeopleINCLUDINGdriver: Rfrontpassengeranklespace+3mentorsREARallownsupportspaceCHECKED+driver/FIVEBELTS. Route-waitlimit-return-priceconfirmed/remainingmoneycheckedAFTERoutstandingcare/propertyreserve. FITdriverinformedpriorattack/currentlimitedwatch-NOTsafetyguarantee/ownYES/exitsratherthanunbookedrescue/no oldhelperrecalled. ACTUALarrival/parkBEYONDroadbend/FACINGexit. Drinkingwater+ordinaryfirstaidbag/currentreceivingreturntime+Earthroadcontact. Noambulanceorextracrewonhand.
+
+EXACTTWOCURRENTrestedROTATEDpostofficersafteractualhandover/previousshiftLEFT, NOTsame97–141unbrokenwatch. ROADofficerisEXISTINGstatementconstable/currentaccount+correction, MOUTHofficerwatchapproach/no blindinsideentry. Neitheralsodriver/photographer. R+VROADseat/anklecomfortablebriefwalk; RfirstasksSIT/examinedcarACTUALLYGONE/spearsecured/chairsreturnednotpropshere. RcanNOTaccountfortransferwhileunresponsive/no fabricatedmemories. No unnamedcrowd/hiddenrescuers.
+
+## CURRENT mentor entry AND return, then new externally shown physical threat
+
+1. S+DfirstWALKoldnaturalpassage/pinch/lip/knownnearflank/bend. LOWtimberagainstwallfoot/TWOrestrainingfarblocks/oldironshaftleaningagainstrockcurrentunchanged; NOloadedjack/workersremaining. WiderSTREET+oldwallgapUNINSPECTED/no toolrecovery/loadmove/ancestralkey. LimitedviewnopersonNOW.
+2. BOTHwalkFULLRETURNtoEARTH/mouthofficerseesTWO. Sactualreporttoroadconstable/R+Vhearifnear/no unobservedrealmphone: actualentryANDreturn“abhi”only/currentnearstripclearNOTwholeLoka. Dhrreportscurrentcomfortablewalk+soundhandcameraNOloadlifting. RSTAYSEarth/currentclearancedoesNOTexpandownplan.
+3. AFTERwater+rest/S+DownyesSEPARATEshortphotoentry. OfficersSTAYatTWOEarthposts/R+Vroadseat/drivercar. OrdinaryphoneCAMERAofflineNOTtransmitter/portal/key/routepower. SstreetwatchwhileDhrbriefscreen/lookdirectlybetweenimages. CurrentLOWtimberimageNOTproofpastinjuryfalse. Sactualchecksreturnlip+clearnearflank+soundshoulder/pinch; beyondturnEarthoutofview/NOroadvoicesatbend.
+4. **NEWunnamedmanphysicallyWALKSfromUNINSPECTEDfartherSTREETaroundwall**, NOToldgap/teleport/medicalcustodyrelease. Bareforearms/plainwrap/dust/broadTHICKpavingpieceonehand; no name/pedigree/roster/claimedoffice/importantinsignia/mindreading/villainPOV/goldrecognition. NewforceobservedONLY; notidentifiedAegis/master/controller/Kulguilt/MahaDevtaruler.
+5. FIRSTseenfoot→S“Waapas. Abhi”/phototaskIMMEDIATELYCANCELLED. DhrACTUALLYstowsphoneBELTPOUCH(soundhandFREE); Sretreatstowardslip/DhrturnssidewaysGIVESclearnearline/oldhandprotected. No patientcontinuesplannedlook/recordingpriorityoverflight. Manstepsfallenstreetedge/THROWSthickbroadpavingFLATturningonceATDhrCHEST.
+
+## Exact113 incoming — day141, ONE slab already in flight
+
+**S+DinsideONLY** atPataalnearBEND: SnearsretreatlinetowardsLIP/DhrsidewaysbetweensheandNEWman/soundhandFREE/oldhandclose/phoneSTOWED. ManSTREETsidehasjustTHROWNonebroadthickpavingpiecewithonehand/facelevelDhrCHEST. Noimpact/Tarak/mentorinjury/outcomewrittenyet. Actualoldnaturalreturnnearflank→lip→pinch→EarthlastSEENCLEAR/SdoesNOThearroadvoicesfrombend. LOWoldtimber+TWOrestrainingblocksatwallfootbeforeimpact; oldshaftleanrocknotmagicorhandyweaponinDhrhand.
+
+EARTHFIVE: R+VroadSEAT /newdriverparkedcarBEYONDroadbend/FACINGexit /statementofficerROAD /otherofficerMOUTH. TotalSEVENwith2inside. NOcurrentarmedpresenceREPORTtoEarthyet, parents/friendsknowintendedEarthtaskONLY. PhonesDO NOTrelayinside. NewpaidcarbookingRETURNandfinalpaymentNOTyetcomplete. OldTHREEattackersmedicalcustodylastestablished/NOnewrelease/recycle, casesremainseparate.
+
+Final~200ONE physicalpunch: **“The paving left his hand flat, turning once, with the broad face level with Dhruv's chest.”**113MUSTanswerALREADYflyingstoneIMMEDIATELY/inactualgeography/actualforce+costs; no wardsreset, namedrulerreveal/offpageteleport/catchbyinjuredstudent/unarrivedhelp. Battle111–118OPEN/unnamedMahaDevtascaleestimateonlyifobserved113/NOautomaticPataalform. AnyemergencymovementAFTERcurrentreturn+changedfactsNOTfinishingcancelledphotos/patienttour/fitnesspermission. Preservefinitebodies/retreat/laterordinarycare.
+
+## Production / validation
+
+Fivechunks816/943/844/876/880=4359/three-linefutureIraepigraph/immediate111bankpayoff/actualordinaryrecovery+boundedexistingform+newphysicalbattlethreat/punch+friendship-and-photosubtext/ONEfinalflyingstone/oneEND112. EexplicitphoneBELTPOUCHstowclarifiedBEFOREfinalassembly (+2w); nocameraevaporation/tiedupsoundhand. CmanualreviewinitiallyexpectedthreeMahaDevtamentions; actualTWO/proseunchanged/correctedassertPASS. Strict252of255/exactsetup/111atOWN2fe6ecfsource+notes/currentplan111prefix/Book5freeze42/exactfivechunkassembly/exact12source52,201wmerge/gates-quotes-garble-repetition/diff **PASS;44/44regressions PASS;ALLSIXcanon PASS** (only historical27/50lengthwarnings/no112warning). Independent111–112longsentenceuniqueness/final200onepunch PASS. B inaccurate sentence-number label corrected BEFOREfinalassembly/rereview, SAME943w/4359total. Scratchonlyafterexactassemblyaudit.
+
+No latergates/pendingpropernames/lore/private60/Ramknowledge/mysteryequation/villainPOV/healinginheritance/restoredleft-eye/handsensation/dead-stoneroots/source-freeorstoredDarpan/concealingkavach/fusion/safecount/newtraveldevice. Father/firstvisit/mentor/oldattackarcsCLOSED. OWN112commit+IMMEDIATEcurrentbranchpush/presentationBEFORE113draft. **STOP113/no114/no main publication.**

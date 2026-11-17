@@ -255,7 +255,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test99_101_crosses_book_boundary_without_closing_mentor_arc_early(self):
-        batch = self.bible.split("## PART 28:", 1)[1]
+        batch = self.bible.split("## PART 28:", 1)[1].split("## PART 29:", 1)[0]
         for phrase in (
             "Ch 99–101 only", "Book5 ends100; Book6 starts101",
             "mentor backstories97–102", "mentor arc remains OPEN at101",
@@ -267,6 +267,127 @@ class OutlineChronologyTests(unittest.TestCase):
         ):
             self.assertIn(phrase, batch)
 
+
+    def test102_104_closes_mentors_and_opens_only_pataal_attack_arc(self):
+        batch = self.bible.split("## PART 29:", 1)[1].split("## PART 30:", 1)[0]
+        for phrase in (
+            "Ch 102–104 only", "Mentor arc closes at102",
+            "No attacks before103", "attacks103–110 in Pataal",
+            "whole103–110 arc remains OPEN at104",
+            "No second expedition is already agreed", "entry AND return",
+            "individual clinical assessments", "not combat clearance",
+            "Rudra does not inherit Vedic healing", "Book5 freeze",
+            "Devta/Maha Devta111", "Kaal119", "villain POV",
+            "Stop after Ch 104",
+        ):
+            self.assertIn(phrase, batch)
+
+
+
+    def test105_107_continues_flight_and_care_without_closing_attack_arc(self):
+        batch = self.bible.split("## PART 30:", 1)[1].split("## PART 31:", 1)[0]
+        for phrase in (
+            "Ch 105–107 only", "attack arc remains OPEN at107",
+            "The spear left his hand towards the driver holding the door.",
+            "all eleven party members are already Earth-side",
+            "vehicles have NOT departed", "ACTUAL urgent assessment",
+            "entry AND return verification", "Atala/Sutala were heard labels",
+            "Rudra does not inherit Vedic healing", "Book5 freeze",
+            "Devta/Maha Devta111", "Kaal119", "no villain POV",
+            "Stop after Ch 107",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test108_110_resolves_rolling_timber_and_closes_only_current_raid(self):
+        batch = self.bible.split("## PART 31:", 1)[1].split("## PART 32:", 1)[0]
+        for phrase in (
+            "Ch 108–110 only", "attacks103–110 in Pataal",
+            "The baulk began to roll towards her back.",
+            "six-person rescue group inside", "four people outside",
+            "original four patients remain in Mirzapur",
+            "care is not conditional on innocence", "Close this103–110 attack block by110",
+            "Entry AND return verification", "Atala/Sutala remain heard labels",
+            "Rudra does not inherit Vedic healing", "Book5 freeze",
+            "Devta/Maha Devta111", "Kaal119", "No villain POV",
+            "Stop after Ch 110",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test111_113_opens_only_prepared_control_and_approved_threat_arc(self):
+        batch = self.bible.split("## PART 32:", 1)[1].split("## PART 33:", 1)[0]
+        for phrase in (
+            "Ch 111–113 only", "111–118 Unbound:Pataal / Maha Devta-level battle arc",
+            "Haath khulne se pehle", "same day97 evening",
+            "Forward elapsed weeks require actual recovery",
+            "Emergency action is not combat clearance",
+            "a clear line BEYOND the target", "My hand opened. The work did not stop.",
+            "Full concealing kavach remains lost", "Rudra does not inherit Vedic healing",
+            "attacks103–110 are CLOSED", "Devta/Maha Devta titles unlock at111",
+            "unnamed, externally shown threat", "entry AND return verification",
+            "Kaal119–120", "Book5 freeze", "Stop after Ch 113",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test114_116_preserves_published_boundary_and_immediate_footing_costs(self):
+        batch = self.bible.split("## PART 33:", 1)[1].split("## PART 34:", 1)[0]
+        for phrase in (
+            "Ch 114–116 only", "publish each future book when complete",
+            "PR5", "121516713d3c6f13595fc5cd46509c56dc4a643f",
+            "No incomplete Book6 publication", "Book6 ends120",
+            "The lip sheared away beneath his right foot.",
+            "Jaagrut is OFF", "NOT already catching him",
+            "Emergency action is not combat clearance",
+            "ten additional PAID minutes", "old natural passage",
+            "entry AND return verification", "EXHAUSTED",
+            "Ram's former mentor and fighting partner",
+            "pending proper name/detailed biography stay UNAPPROVED",
+            "Rudra does not inherit Vedic healing", "Book5 freeze42",
+            "Kaal119–120", "No villain POV", "Stop after Ch 116",
+        ):
+            self.assertIn(phrase, batch)
+        policy = (ROOT / "PUBLICATION_POLICY.md").read_text(encoding="utf-8")
+        self.assertIn("publish every book to `main` as soon as that book is complete", policy)
+        self.assertIn("Do not publish an incomplete book", policy)
+
+
+    def test117_119_pays_active_form_and_releases_only_scheduled_name(self):
+        batch = self.bible.split("## PART 34:", 1)[1].split("## PART 35:", 1)[0]
+        for phrase in (
+            "Ch 117–119 only", "The empty stretcher rose between them, wheels first.",
+            "Unbound:Pataal is ACTIVE", "SIX party plus ONE foe",
+            "111–118 Unbound:Pataal / Maha Devta-level battle arc by118",
+            "Emergency action is not combat clearance", "Rudra does not inherit Vedic healing",
+            "replacement transport has NOT yet departed or arrived on-page",
+            "old natural passage", "entry AND return verification",
+            "Kaal first spoken119–120", "Ram's private2020 knowledge",
+            "Divine Cycle is failing", "no name in117/118",
+            "No villain POV", "Book5 freeze42", "Book6 ends120",
+            "no incomplete Book6 publication", "Stop after Ch 119",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test120_completes_only_book6_before_numbered_main_publication(self):
+        batch = self.bible.split("## PART 35:", 1)[1]
+        for phrase in (
+            "Ch 120 only", "Complete Book 6 and merge in main. Branch",
+            "Kaal haar gaya toh Divine Cycle apne aap theek ho jaayegi?",
+            "still-connected day142", "actual bounded question",
+            "Divine Cycle is already failing", "full Divine Cycle flaw154–160",
+            "Current foe's identity/allegiance remains unverified",
+            "Emergency action is not combat clearance", "old natural passage",
+            "entry AND return verification", "all278 baseline files",
+            "Book5 freeze42", "20 exact numeric END-stripped sources101–120",
+            "own chapter commit and IMMEDIATE current-branch push",
+            "explicit PR number", "No Book7 source", "Stop after Ch 120",
+        ):
+            self.assertIn(phrase, batch)
+        policy = (ROOT / "PUBLICATION_POLICY.md").read_text(encoding="utf-8")
+        self.assertIn("Make the chapter's own commit and immediate working-branch push first", policy)
+        self.assertIn("Do not publish an incomplete book", policy)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -363,6 +484,66 @@ class CheckerBoundaryTests(unittest.TestCase):
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
                 self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_attack_arc_does_not_release_principal_or_later_names(self):
+        for number in (102, 103, 104):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_continued_attack_batch_keeps_later_reveal_names_gated(self):
+        for number in (105, 106, 107):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_attack_arc_closure_does_not_release111_or_later_names(self):
+        for number in (108, 109, 110):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test111_113_releases_rank_titles_not_later_names(self):
+        for number in (111, 112, 113):
+            released = self.run_checker([(number, "Devta Maha Devta")])
+            self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
+            result = self.run_checker([(number, "Kaal Swarg Sakshi Dvandva")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Kaal", "Swarg", "Sakshi", "Dvandva"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test114_116_rank_and_form_window_does_not_release_later_names(self):
+        for number in (114, 115, 116):
+            released = self.run_checker([(number, "Devta Maha Devta Unbound: Pataal")])
+            self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
+            result = self.run_checker([(number, "Kaal Swarg Sakshi Dvandva")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Kaal", "Swarg", "Sakshi", "Dvandva"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test117_119_name_release_does_not_unlock_later_identity_or_origin(self):
+        self.assert_gate("Kaal", 118, 119)
+        for number in (117, 118, 119):
+            allowed = "Devta Maha Devta Unbound: Pataal"
+            if number == 119:
+                allowed += " Kaal Divine Cycle"
+            result = self.run_checker([(number, allowed)])
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+            blocked = self.run_checker([(number, "Swarg Daksh Dashanan Dvandva Sakshi")])
+            self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
+            for term in ("Swarg", "Daksh", "Dashanan", "Dvandva", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
+
+    def test120_finale_does_not_unlock_book7_or_later_reveals(self):
+        result = self.run_checker([(120, "Kaal Divine Cycle Unbound: Pataal")])
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        blocked = self.run_checker([(120, "Swarg Svar Daksh Dashanan Dvandva Sakshi Rudhransh")])
+        self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
+        for term in ("Swarg", "Svar", "Daksh", "Dashanan", "Dvandva", "Sakshi", "Rudhransh"):
+            self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(
