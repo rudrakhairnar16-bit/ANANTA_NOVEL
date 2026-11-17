@@ -172,13 +172,26 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test81_83_opens_only_paternal_core_with_no_cost_reset(self):
-        batch = self.bible.split("## PART 22:", 1)[1]
+        batch = self.bible.split("## PART 22:", 1)[1].split("## PART 23:", 1)[0]
         for phrase in (
             "Ch 81–83 only", "81–92 father-origin reveal",
             "Ram / Daavansh, Pataal, Asuran Kul",
             "Maternal origin remains gated", "No villain POV",
             "No realm visit before93", "inherited Vedic healing",
             "Book5 subtitle unassigned", "Stop after Ch 83",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test84_86_keeps_paternal_truth_and2020_inside_later_gates(self):
+        batch = self.bible.split("## PART 23:", 1)[1]
+        for phrase in (
+            "Ch 84–86 only", "81–92 father-origin arc remains open",
+            "Yeh hukm kisne diya tha?", "supra-Kul Loka authority",
+            "Devta/Maha Devta111", "2020 defeat of Adhira",
+            "before2020", "Ram's private manipulator knowledge stays private",
+            "Kaal119", "lived household years", "no villain POV",
+            "No realm visit before93", "Stop after Ch 86",
         ):
             self.assertIn(phrase, batch)
 
@@ -239,6 +252,10 @@ class CheckerBoundaryTests(unittest.TestCase):
         ):
             with self.subTest(term=term):
                 self.assert_gate(term, before, at)
+
+    def test2020_flashback_release_does_not_move_divine_title_gate(self):
+        self.assert_gate("Adhira", 80, 81)
+        self.assert_gate("Devta", 110, 111)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(

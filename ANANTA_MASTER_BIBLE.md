@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–22)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–23)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–22 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–23 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1333,3 +1333,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Whole kavach remains gone; all-Lokas exposure is not universal personal recognition/automatic ward coordinates. No rebuilt seal, free healing, safe count, new form, repeatable first-form mastery or inherited Vedic healing for Rudra. The truth does not absolve childhood harm or compel forgiveness/revenge.
 - Carry day37's supported short call/acute observation forward; preserve Prayagraj/Mirzapur/Varanasi split and individual injuries, rests, clinical permissions and honest communication. **No realm visit before93**, physical reunion or unearned discharge.
 - Protect0–80/all prior notes+plans/Books1–4 merges/original51/checker and existing Bible contracts. Neutral **book-05** metadata; Book5 subtitle unassigned. Each new chapter4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, required Book3+Book4+actual Book5 canon, numeric Book5 merge and separate commit+immediate current-branch push BEFORE the next chapter. **Stop after Ch 83; no84/main publication.**
+
+
+---
+
+## PART 23: BOOK 5 — CH 84–86 / FATHER-ORIGIN ARC CONTINUES
+
+**Authority:** the user's **“Go on”** after83, under12.7's three-chapter default, authorizes **Ch 84–86 only**. Part22's completed stop83 is historical; the already-approved **81–92 father-origin arc remains open**, not completed or wholly authorized by this batch. No main publication requested.
+
+- Answer83's **“Yeh hukm kisne diya tha?”** immediately. Identify the existing supra-Kul Loka authority responsible for the massacre in functional language, not another local rival bloodline or an invented named individual. This advances the already-approved paternal massacre, **not** permission for a new ruling roster, later gated hierarchy titles, cosmic-balance doctrine or individual order-giver name. Keep **Devta/Maha Devta111** and all other checker gates unchanged; do not substitute a later antagonist or pretend Ram has forgotten the core answer.
+- The approved **2020 defeat of Adhira** may now be explored as an embedded Ram-memory flashback inside the existing father backstory. Adhira appears only in the past; victory is real, not resurrection/current return or a source of a new power for the son. Training began at age one, long **before2020**; this event can intensify existing fear, not become the reason all childhood training began. **Ram's private manipulator knowledge stays private; Kaal119** is not released. No Aegis-leader former-mentor identity answer before110–115, invented battle roster, exact escape route, proof artifact or new ancestral ability.
+- Truth does not vindicate excessive childhood harm, erase love or compel forgiveness/revenge. Fulfil83's promised mother–son conversation about their **lived household years**, not mother's origin/alias/pedigree or a joint defense statement. No maternal reveal, premature Ira genealogy/provenance or reconciliation of independent mysteries. Pending names/lore remain pending; **no villain POV**.
+- Full kavach remains gone; intrinsic gold is not a rebuilt concealing layer. Preserve actual injuries, supported short calls/rests, honest symptoms, finite helpers and Prayagraj/Mirzapur/Varanasi split. Any clinical improvement/assisted functional permission must be explicit, individual and limited, not healing/travel/combat clearance. No safe count, repeatable first form, source-free Darpan, inherited Vedic healing, new tier or ancestor download. **No realm visit before93** or early intercity reunion.
+- Protect0–83/all prior notes+plans/Books1–4 merges/original51/checker. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/reviewed short chunks/one END; consequence notes, required Book3+Book4+actual Book5 checks/26 regressions/strict preservation and numeric merge, individual commit+immediate current-branch push BEFORE next draft. **Stop after Ch 86; no87/main publication.**
