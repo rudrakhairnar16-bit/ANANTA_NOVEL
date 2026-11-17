@@ -1,0 +1,31 @@
+# Ch90–92 — Book5 / closing the father's origin account
+
+**Authority “Continue” after89 →90–92 only under three-chapter default. STOP92/no93/main publication.** Active branch arena/ec1bc639-ananta-novel; baseline **b913f2f1b0351b0ff56480acafac071534923cd2**, startup clean/local-origin-live exact; main unchanged2bef7d9676f3d55fd91e2219068d76f55ca0d09c.204baseline files/201byteprotected exceptBible2indexlabels+Part25/testPart24boundary+2additions/appendBook5merge. 0–89/priornotes+plans/Books1–4 merges/original51/checker protected. **Status90 COMPLETE4,302w /91–92 unwritten.** Strict201/204preservation/reveal/exact5chunkassembly+10sourceBook5merge/30regressions/requiredBook3+4+5 PASS.90 separatecommit+immediatepush before91; remaining92finalaudit due. Father81–92 arc reaches scheduled emotional close here, NOT all cosmic answers; actualPataal93–97 remains later. NeutralBook5subtitle unassigned.
+
+## Incoming89 / knowledge and costs
+
+Day52 open short supported Prayagrajward↔Prayagrajpost call: **“Veer…Jab jaana sach mein mumkin ho, mere saath Pataal dekhna chaahega?”** NO answer yet. Veer has just actually heard87ruins/wish/conditionalfatherhelp and limited88bowl/reach/wait/care/fear-over-pain account. Knows limitedpast2020Adhira report, not85privatefight/manipulatortruth. Girls know87wish/ruins/limitedAdhira, have actual50invitation: Aadhya interest/route-return-care/ownhandquestions, Ira explicit noadvancecommitment; neither journeyyes. **They have not heard88bowl-memory/accountability answer**. No automatic forwarding; generic conditionsstatus not private transcripts.
+
+Rudra quieterbed sameward since46, assistedchair/staff-propelledalongward/reviews/rest through52, breathingquieter but wrist+ankle supports/no push/load/stand/discharge/travel/combat. Full concealing kavach GONE; raw intrinsicgold not newcover/cure/mastery/fusion/safecount. Veer postPrayagraj shoulder/knee/ribs/finitehelpers; girls+SitaraMirzapur hand/ordinaryeye limits/coveredleft; Ram/Rukmini/Dadi/DhruvVaranasi stepdown/owncare/rest; Vedant ownarm/rest/handovers. No hidden physical reunion.
+
+##90 — Beside Him, Not Ahead (working chapter heading)
+
+Immediate independentVeer answer: wantscompany/seeing for ownreasons, **not** compulsoryshield/advanceblanketpromise or medicallyreadyyes. Friendship includes injury/fear, no role mustalwaysbreakfirst. Concrete ordinary humour/sharedhistory then actualcare ends call. Next staffednights/days53–54 actualindividualreview+limitedwardfunctionprogress/rest, not anotherpowertrial. Ordinaryfreechoice and allowedhelp apply tosonandfather. Father not omniscient or replaced by mentor. New forwardquestion closes90: **if kavach hadn't broken, when would father have told him?** Unanswered at90;91 directanswer, no retrospective secreteligibilitytest.
+
+##91 — The Day He Had Not Chosen (working heading)
+
+Immediate honest answer: no disclosuredayset; waiting for absolute readiness/safety wasfather'schoice/fear, NOTson'sunworthiness or childhoodpainvalidated. Protectiveintent stillreal, no malice/pretendnotknowing latergatedtruth. Reportedinfanthistory vs livedEarthchildhood/gaps matter; his ownuncertainty is notreason to withhold wholeknownaccount. No new namedrelative/escapeproof/census/formalbanishment.
+
+Carry54→55–57 explicit nights/reviews/rest. Mother speaks about livedhousehold/ownchoices withoutmaternalorigin or jointdefensetranscript. Girls may now actuallyhear limited88carestory if chosenconversationoccurs; identify actual telling before they use it. No Ira shortcut/provenance. Son can stayangry/love father; family doesn'tneedlosingtruth tostayfamily. Finalfatherquestion asks son what he wants now from him;92answers before closure. This is not another half-name stall.
+
+##92 — A Son, Not a Debt (working heading)
+
+Immediate sonanswer, ownlanguage/need not father-authoredfuture. Actual fatheroriginaccount emotionalclose: name/birth/massacre/infantsurvival/Earthupbringing/learnedcare/2020fear/love+excessharm truthscanexisttogether. No recapdump/automaticforgiveness/revengeoath or predeterminedneverfight. Concretechangedinteraction rather than certificates of rehabilitation; livingEarthhome/friends'ownlives remainreal. Preserve mother's silent heartbeat motif in ordinarycurrentcare, no biologicalreveal. Atarcend anonymouspublicafwah about publicdamage/tournament/signature only, not privateorigincall leak/universalrecognition/hospitalcoordinates.
+
+Days57→60 ifusedrequire explicitindividualclinicalprogress/rest/permissions; no hiddenjourney/readiness/reunion. Separatechosencontactsinformfriendsofonlywhatsonchoosestotell; no group expeditionconsent/latepower. At92fatherarc CLOSED emotionally/truthfully insideapprovedcore. End oneforwardquestion about **first real preparation to reach Pataal**, not an inventedroute/portal/personalescort/safetyguarantee/currentdeparture; next93onlyonlaterrequest. Actualvisit93–97, mentorhistories97–102, attacks103–110, Unbound:Pataal111–118; latergates unchanged.
+
+## Gates / production
+
+Devta/MahaDevta111, Aegis identity110–115, Kaal119, maternal131–142/Ira187–190; private60whisper/Ram's manipulatorknowledge stayprivate. Adhirapastonly. No pendingNalin/Kaumudi/Antaraal/roster, independentmysteryequation, reopened58device, newimportantKul/antagonist, villainPOV, inheritedRudrahealing or ancestorartifactdownload. All-Lokas exposure notheroknowledgeofexternalsheet/coordinates.
+
+Five short reviewedchunks each runtimeplusrepositoryscratch until exactassembly.4300–6200w,2–4linefuturedocumentepigraph, hook,1–2punchlines/subtext, onefinalunansweredpunch/oneEND. Consequence notes/exactnumericENDstrippedBook5merge81–current; strict201/204preservation+newcommittedsourceandnotesprotected,30regressions, requiredBook3+4+5/diffchecks. Selectivestage/individualcommit+immediatepush BEFOREnextdraft; presentchapter/Hinglishprogress. FinalALLFIVEBOOKS/cleanlive-origin/mainunchanged at92. **STOP92.**

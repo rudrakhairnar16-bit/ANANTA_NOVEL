@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–24)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–25)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–24 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–25 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1359,3 +1359,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - A wish to visit does not enlist friends. Preserve **each friend's right to choose**, the real three-city split, finite help, supported private calls and honest clinical information. Forward elapsed days require actual individual recovery/review; assisted movement is not combat or journey clearance. No rebuilt kavach, safe count, repeatable first form, source-free Darpan, mastery or ancestor download. All-Lokas exposure remains true without universal personal recognition/automatic ward coordinates.
 - Keep all later gates and independent mysteries intact: **Devta/Maha Devta111**, Aegis-leader identity110–115, **Kaal119**, maternal131–142, Ira187–190. Adhira only in the already-approved past; Ram's private manipulator knowledge stays private. No private60 whisper transfer, maternal alias/pedigree answer, pending names/lore activation, new ruling roster, overarching-controller equation, reopened58 device or **villain POV**.
 - Protect0–86/all previous notes+plans/Books1–4 merges/original51/checker. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END; consequence notes, strict preservation/reveal/assembly/merge checks,28 regressions and required Book3+Book4+actual Book5 checks. Numeric Book5 merge81–current once/END-stripped. Separate chapter commit+immediate current-branch push BEFORE the next chapter, final all-five-book audit/presentation/Hinglish progress. **Stop after Ch 89; no90/main publication.**
+
+
+---
+
+## PART 25: BOOK 5 — CH 90–92 / FATHER-ORIGIN ARC CLOSE
+
+**Authority:** the user's **“Continue”** after89, under12.7's three-chapter default, authorizes **Ch 90–92 only**. Part24's stop89 is the completed earlier batch. Complete the already-approved **81–92 father-origin arc** emotionally and truthfully; this does not authorize93 or main publication.
+
+- Answer89's actual invitation to Veer immediately. A friend's interest in accompanying Rudra is his own choice, not a compulsory shield-duty, advance consent to unknown conditions or current journey clearance. Preserve the girls' independent conditional answers and **each friend's right to choose**; no automatic group assent or private-transcript forwarding.
+- Close the established paternal account: Asuran birth in Pataal, dying parents sending an infant away from the deliberate massacre, Varanasi finding/Vedic upbringing/learned healing, lived exile and real Earth belonging, the past2020 Adhira defeat and protective fear which does not justify excessive childhood harm. Reported history is not infant eyewitness memory. No new massacre date, escape mechanism, named grandparents/important adoptive mentor, ruler roster, family-address/census/proof relic, retrospective disclosure test or power-transfer law. **Rudra does not inherit Vedic healing**; survival does not demand revenge, automatic forgiveness or denial of love. Emotional closure is not a claim that every cosmic mystery has been solved.
+- Honour the already-promised help with the desire to see ruined Pataal without inventing a route/portal, guaranteed safety or Ram's personal escort. **No realm visit before93**: actual visit remains93–97, mentor backstories97–102, attacks103–110, Unbound:Pataal111–118. No early intercity reunion, unearned discharge, new form/mastery/safe count/ancestor download or rebuilt kavach. All-Lokas exposure is not universal recognition/automatic ward coordinates. Forward elapsed days require explicit individual clinical review, bounded functional progress and actual rest; assisted ward movement is not travel or combat clearance.
+- Keep **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira remains past-only; **Ram's private manipulator knowledge stays private**. No private60 whisper transfer, maternal alias/pedigree, pending names/lore activation, independent-mystery equation, reopened58 device or **villain POV**. Ch92's arc-ending district afwah may concern already-public damage/tournament/signature events, not overheard private origin calls or hospital coordinates.
+- Protect0–89/all prior notes+plans/Books1–4 merges/original51/checker; only the two Bible index labels+this appended contract, prior Part24 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, strict preservation/reveal/exact assembly/merge checks,30 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE the next draft; final all-five-book/clean-live-origin/main audit and presentation/Hinglish progress. **Stop after Ch 92; no93/main publication.**
