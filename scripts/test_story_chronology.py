@@ -184,7 +184,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test84_86_keeps_paternal_truth_and2020_inside_later_gates(self):
-        batch = self.bible.split("## PART 23:", 1)[1]
+        batch = self.bible.split("## PART 23:", 1)[1].split("## PART 24:", 1)[0]
         for phrase in (
             "Ch 84–86 only", "81–92 father-origin arc remains open",
             "Yeh hukm kisne diya tha?", "supra-Kul Loka authority",
@@ -192,6 +192,20 @@ class OutlineChronologyTests(unittest.TestCase):
             "before2020", "Ram's private manipulator knowledge stays private",
             "Kaal119", "lived household years", "no villain POV",
             "No realm visit before93", "Stop after Ch 86",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test87_89_continues_history_without_early_journey_or_inherited_cure(self):
+        batch = self.bible.split("## PART 24:", 1)[1]
+        for phrase in (
+            "Ch 87–89 only", "81–92 father-origin arc",
+            "Aap mujhe Pataal dikhaayenge?", "No realm visit before93",
+            "Vedic upbringing / learned healing",
+            "Rudra does not inherit Vedic healing",
+            "each friend's right to choose", "Devta/Maha Devta111",
+            "Kaal119", "Ram's private manipulator knowledge stays private",
+            "villain POV", "Stop after Ch 89",
         ):
             self.assertIn(phrase, batch)
 
@@ -256,6 +270,13 @@ class CheckerBoundaryTests(unittest.TestCase):
     def test2020_flashback_release_does_not_move_divine_title_gate(self):
         self.assert_gate("Adhira", 80, 81)
         self.assert_gate("Devta", 110, 111)
+
+    def test_next_father_batch_does_not_release_later_names(self):
+        for number in (87, 88, 89):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(
