@@ -371,7 +371,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test120_completes_only_book6_before_numbered_main_publication(self):
-        batch = self.bible.split("## PART 35:", 1)[1]
+        batch = self.bible.split("## PART 35:", 1)[1].split("## PART 36:", 1)[0]
         for phrase in (
             "Ch 120 only", "Complete Book 6 and merge in main. Branch",
             "Kaal haar gaya toh Divine Cycle apne aap theek ho jaayegi?",
