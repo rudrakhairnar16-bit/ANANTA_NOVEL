@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–26)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–27)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–26 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–27 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1386,3 +1386,16 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Earn the journey through explicit elapsed recovery, individual reassessment and bounded functional progress before regional transport, reunion or realm travel. Preserve residual injuries, follow-up care, finite helpers and each companion's informed choice. The earlier conditional interest is not consent to the eventual plan. An assisted visit is not combat clearance, healed bodies, mastered first form, Unbound:Pataal before111–118, inherited Vedic healing, safe-count solution or restored kavach. No compulsory personal escort by Ram; parents keep their own agency/care. No universal recognition/automatic hospital coordinates from all-Lokas exposure.
 - **Mentor backstories97–102**, attacks103–110, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 remain gated. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No new important antagonist/Kul/ruler roster, named settlements/ancestral relatives, literal ancestor-message or new supernatural ghost mechanism, pending names/lore activation, independent-mystery equation or **villain POV**. Descriptive haunting is not a new inherited ability or early enemy attack.
 - Protect0–92/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part25 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,32 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit and presentation/Hinglish progress. **Stop after Ch 95; no96/main publication.**
+
+
+---
+
+## PART 27: BOOK 5 — CH 96–98 / THE ACCOUNT AND THE TEACHER
+
+**Authority:** the user's **“continue”** after95, under12.7's three-chapter default, authorizes **Ch 96–98 only**. Part26's completed stop95 is historical. Continue the actual93–97 Pataal visit/heritage consequences and begin the already-approved **mentor backstories97–102**, without compressing the whole six-chapter block into this batch. No main publication requested.
+
+- Answer95's **“Aur tum, beta—tumhe wahaan apne liye kya mila?”** immediately on the open day82 Mirzapur–Varanasi call. Give the son's first-hand experience, not another father-origin secret or compulsory forgiveness/revenge. Father81–92 is CLOSED. All four actually crossed in93 and returned in95; do not reset arrival as pending or invent a return crisis. The unmarked grit was left inside Pataal; two ordinary photographs are offered but not yet shown/forwarded to parents, Ira's qualified recordings remain hers. Any actual sharing must carry source/framing limits and consent; no recovered family address, inherited memory, proof relic or whole-realm census. Close the93–97 visit/heritage arc by97 without claiming all later Pataal conflicts are finished.
+- **No mentor backstory before97.** In97–98, flesh the established **Vedant as Ram's former student** through bounded ordinary teaching memories and present consequences; no invented named mentor, date, formative death/atrocity, secret Kul/origin, new power law, shared-guru identity or equation of earlier bell/ledger/network mysteries. The remaining Dhruv/Sitara histories stay in the97–102 block, not prematurely fabricated to fill this batch. A recollection is what its teller actually experienced, not a protagonist's source-free vision. Learning a mentor's limits does not grant a form, combat clearance or a transferable technique.
+- Current Earth-side care is real: individual post-visit reassessments, continued wrist/rightankle/leftknee, shoulder/ribs/knee, hand-sensation and covered-left/limited-ordinary-right-eye costs; finite helpers, rest and honest updates. Bounded supported ward activity is not renewed realm-travel or combat permission. Parents retain their own Varanasi care and agency; Mirzapur friends/mentors do not teleport. No second expedition is already agreed merely because the first returned. Full kavach remains lost; raw intrinsic gold is not concealment/healing/mastery/safe count. **Rudra does not inherit Vedic healing**.
+- Keep **attacks103–110**, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No pending names/lore activation, new important guide/ruler/antagonist/Kul roster, literal ancestor-message/ghost mechanics, reopened58 device, independent-mystery equation or **villain POV**. Arc-ending afwah may use already-public damage/tournament/signature events, not leak private route/calls/lineage or hospital coordinates.
+- Protect0–95/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part26 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05**, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,34 regressions and required Book3+Book4+actual Book5 canon. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit, presentation/Hinglish progress. **Stop after Ch 98; no99/main publication.**
