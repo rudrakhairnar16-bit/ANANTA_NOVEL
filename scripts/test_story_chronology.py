@@ -316,7 +316,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test111_113_opens_only_prepared_control_and_approved_threat_arc(self):
-        batch = self.bible.split("## PART 32:", 1)[1]
+        batch = self.bible.split("## PART 32:", 1)[1].split("## PART 33:", 1)[0]
         for phrase in (
             "Ch 111–113 only", "111–118 Unbound:Pataal / Maha Devta-level battle arc",
             "Haath khulne se pehle", "same day97 evening",
@@ -329,6 +329,28 @@ class OutlineChronologyTests(unittest.TestCase):
             "Kaal119–120", "Book5 freeze", "Stop after Ch 113",
         ):
             self.assertIn(phrase, batch)
+
+
+    def test114_116_preserves_published_boundary_and_immediate_footing_costs(self):
+        batch = self.bible.split("## PART 33:", 1)[1]
+        for phrase in (
+            "Ch 114–116 only", "publish each future book when complete",
+            "PR5", "121516713d3c6f13595fc5cd46509c56dc4a643f",
+            "No incomplete Book6 publication", "Book6 ends120",
+            "The lip sheared away beneath his right foot.",
+            "Jaagrut is OFF", "NOT already catching him",
+            "Emergency action is not combat clearance",
+            "ten additional PAID minutes", "old natural passage",
+            "entry AND return verification", "EXHAUSTED",
+            "Ram's former mentor and fighting partner",
+            "pending proper name/detailed biography stay UNAPPROVED",
+            "Rudra does not inherit Vedic healing", "Book5 freeze42",
+            "Kaal119–120", "No villain POV", "Stop after Ch 116",
+        ):
+            self.assertIn(phrase, batch)
+        policy = (ROOT / "PUBLICATION_POLICY.md").read_text(encoding="utf-8")
+        self.assertIn("publish every book to `main` as soon as that book is complete", policy)
+        self.assertIn("Do not publish an incomplete book", policy)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -450,6 +472,15 @@ class CheckerBoundaryTests(unittest.TestCase):
     def test111_113_releases_rank_titles_not_later_names(self):
         for number in (111, 112, 113):
             released = self.run_checker([(number, "Devta Maha Devta")])
+            self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
+            result = self.run_checker([(number, "Kaal Swarg Sakshi Dvandva")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Kaal", "Swarg", "Sakshi", "Dvandva"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test114_116_rank_and_form_window_does_not_release_later_names(self):
+        for number in (114, 115, 116):
+            released = self.run_checker([(number, "Devta Maha Devta Unbound: Pataal")])
             self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
             result = self.run_checker([(number, "Kaal Swarg Sakshi Dvandva")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
