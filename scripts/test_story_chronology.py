@@ -285,7 +285,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test105_107_continues_flight_and_care_without_closing_attack_arc(self):
-        batch = self.bible.split("## PART 30:", 1)[1]
+        batch = self.bible.split("## PART 30:", 1)[1].split("## PART 31:", 1)[0]
         for phrase in (
             "Ch 105–107 only", "attack arc remains OPEN at107",
             "The spear left his hand towards the driver holding the door.",
@@ -295,6 +295,22 @@ class OutlineChronologyTests(unittest.TestCase):
             "Rudra does not inherit Vedic healing", "Book5 freeze",
             "Devta/Maha Devta111", "Kaal119", "no villain POV",
             "Stop after Ch 107",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test108_110_resolves_rolling_timber_and_closes_only_current_raid(self):
+        batch = self.bible.split("## PART 31:", 1)[1]
+        for phrase in (
+            "Ch 108–110 only", "attacks103–110 in Pataal",
+            "The baulk began to roll towards her back.",
+            "six-person rescue group inside", "four people outside",
+            "original four patients remain in Mirzapur",
+            "care is not conditional on innocence", "Close this103–110 attack block by110",
+            "Entry AND return verification", "Atala/Sutala remain heard labels",
+            "Rudra does not inherit Vedic healing", "Book5 freeze",
+            "Devta/Maha Devta111", "Kaal119", "No villain POV",
+            "Stop after Ch 110",
         ):
             self.assertIn(phrase, batch)
 
@@ -403,6 +419,13 @@ class CheckerBoundaryTests(unittest.TestCase):
 
     def test_continued_attack_batch_keeps_later_reveal_names_gated(self):
         for number in (105, 106, 107):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_attack_arc_closure_does_not_release111_or_later_names(self):
+        for number in (108, 109, 110):
             result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
