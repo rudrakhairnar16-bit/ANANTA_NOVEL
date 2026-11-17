@@ -1,6 +1,6 @@
 # Ch84–86 — Book5 / father arc continues
 
-**Authority “Go on” after83, three-chapter default:84–86 only; STOP86/no87/no main publication.** Current branch `arena/ec1bc639-ananta-novel`; preservation baseline **ac45fb684662ee99bcb25e105e860f06e87f18bf**. Startup stale HEAD/index2bef7d9 was audited against fetched190/190 exact committed blobs, aligned index then fast-forwarded to already-pushed83; no content rewrite/duplicate commit. Bible23/26 regressions scoped contract only; checker unchanged. **Status84 COMPLETE4,347w /85–86 unwritten.** Strict/preservation/26 regressions/Book3+4+5/exact assembly+merge PASS;84 separate commit+immediate push before85. All prior sources/notes/plans protected.
+**Authority “Go on” after83, three-chapter default:84–86 only; STOP86/no87/no main publication.** Current branch `arena/ec1bc639-ananta-novel`; preservation baseline **ac45fb684662ee99bcb25e105e860f06e87f18bf**. Startup stale HEAD/index2bef7d9 was audited against fetched190/190 exact committed blobs, aligned index then fast-forwarded to already-pushed83; no content rewrite/duplicate commit. Bible23/26 regressions scoped contract only; checker unchanged. **Status84 COMPLETE4,347w /85 COMPLETE4,308w /86 unwritten.** Strict/preservation/26 regressions/Book3+4+5/exact assembly+merge PASS; separate84/85 commit+immediate push pipeline maintained. All prior sources/notes/plans protected.
 
 ## Incoming83 / exact costs
 
@@ -22,7 +22,7 @@ Back in40/41 care, son distinguishes event's later time from training already ag
 
 ##86 — A Life Not Owed
 
-Immediate answer: wanted son alive, no predetermined ancestral revenge contract. Actual practical choice/action shows forward boundary, not universal absolution or retroactively denying trained skill. Explicit overnight40→41 and review; if assisted bed-to-chair within bay allowed, team/transfer supports/no wrist or ankle load, actual fatigue/return, NOT freedom to walk/discharge/intercity/realm travel. Further days need their own permissions.
+Immediate answer: wanted son alive, no predetermined ancestral revenge contract. Actual practical choice/action shows forward boundary, not universal absolution or retroactively denying trained skill. Overnight40→41/morning review already delivered85;86 continues actual day41, not another copy of that night. If assisted bed-to-chair within bay allowed, team/transfer supports/no wrist or ankle load, actual fatigue/return, NOT freedom to walk/discharge/intercity/realm travel. Further days need their own permissions.
 
 Actual bounded contact lets friends hear chosen facts and retain independent agency, no compulsory lineage army or new biological answers for Ira. Mother/father can hear a son disagree and still provide ordinary care. End one forward **request to see Pataal**, NOT visit/route/transport approval before93; rest81–92 remains for later requests. No87 prose.
 
