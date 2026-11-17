@@ -1,6 +1,6 @@
 # Ch87–89 — Book5 / the wish to see Pataal
 
-**Authority “Complete next batch” after86 →87–89 only under three-chapter default. STOP89/no90/main publication.** Branch `arena/ec1bc639-ananta-novel`; preservation baseline **d2b42e80f7ae145b95248250be2237ae99b9f535**. Startup HEAD/worktree clean and live origin/current branch exactd2b42e8; main2bef7d9 unchanged.197 baseline files, protect194/197 byte-exact except scopedBible/test/appendBook5merge. **Status87 COMPLETE4,312w /88 COMPLETE4,360w /89 unwritten.** Strict/preservation/28 regressions/Book3+4+5/exact assembly+merge PASS; separate87/88commit+immediatepush pipeline maintained. Bible24/28 regressions document execution, not new lore; checker unchanged.
+**Authority “Complete next batch” after86 →87–89 only under three-chapter default. STOP89/no90/main publication.** Branch `arena/ec1bc639-ananta-novel`; preservation baseline **d2b42e80f7ae145b95248250be2237ae99b9f535**. Startup HEAD/worktree clean and live origin/current branch exactd2b42e8; main2bef7d9 unchanged.197 baseline files, protect194/197 byte-exact except scopedBible/test/appendBook5merge. **Status87 COMPLETE4,312w /88 COMPLETE4,360w /89 COMPLETE4,348w — batch13,020w COMPLETE.** Father81–92 arc OPEN, not complete. Strict/preservation/28 regressions/ALLFIVEBOOKS/exact assembly+merge PASS; separate chapter commit+immediate push pipeline maintained. Book5 merge81–89 nine exact numeric sources/39,212w. **STOP89/no90/main publication.** Bible24/28 regressions document execution, not new lore; checker unchanged.
 
 ## Incoming86 exact
 
@@ -26,7 +26,7 @@ Knowledge: **Veer now actually knows84authority/85Adhiraname+limited2020report v
 
 - Direct answer88: another person's real right to refuse must survive the asking/afterwards, not merely polite wording. Lost origin/adoption don't make lived Earthbelonging false or force family/friends to leave to prove love; exile not an inherited order. No invented formal courtbanishment/royalclaim/previousRamreturn/lastAsuranverdict. Father can help tell truth without dictating son's completefuture.
 - Explicit days49–52 if used: recovery/reviews/limits, independentteamchoices, still no intercityreunion/realmvisit. Rukmini knows son's wish but no origin reveal/compulsoryescort; no fear-basedsecrecy around clinicallynecessary history or public forwarding of biologicalaccount.
-- Desire becomes **an invitation**, not conscription. Actual brief permitted chosen friendcontact, one concrete forward request to **Veer** whether he'd want to join when travel is genuinely possible; no assumed groupyes/route/permission/realm crossing. Remaining90–92 father-arc emotionalclose/history stays for later request;93–97 visit unchanged. End on invitation, no90answer/source.
+- Desire becomes **invitations**, not conscription. Actual50girls call gives independent interest/conditions/**NO advance journey promises**, real nextday ordinary friendship continues without pressure. Actual52 Veer call gives missing ruins/wish/limited bowl-story facts and ends one concrete request whether he'd want to join when travel genuinely possible; answer unwritten. No assumed groupyes/route/permission/realm crossing. Remaining90–92 father-arc emotionalclose/history stays for later request;93–97 visit unchanged. End on invitation, no90answer/source.
 
 ## Production
 
