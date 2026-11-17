@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–25)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–26)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–25 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–26 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1372,3 +1372,17 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Honour the already-promised help with the desire to see ruined Pataal without inventing a route/portal, guaranteed safety or Ram's personal escort. **No realm visit before93**: actual visit remains93–97, mentor backstories97–102, attacks103–110, Unbound:Pataal111–118. No early intercity reunion, unearned discharge, new form/mastery/safe count/ancestor download or rebuilt kavach. All-Lokas exposure is not universal recognition/automatic ward coordinates. Forward elapsed days require explicit individual clinical review, bounded functional progress and actual rest; assisted ward movement is not travel or combat clearance.
 - Keep **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira remains past-only; **Ram's private manipulator knowledge stays private**. No private60 whisper transfer, maternal alias/pedigree, pending names/lore activation, independent-mystery equation, reopened58 device or **villain POV**. Ch92's arc-ending district afwah may concern already-public damage/tournament/signature events, not overheard private origin calls or hospital coordinates.
 - Protect0–89/all prior notes+plans/Books1–4 merges/original51/checker; only the two Bible index labels+this appended contract, prior Part24 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, strict preservation/reveal/exact assembly/merge checks,30 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE the next draft; final all-five-book/clean-live-origin/main audit and presentation/Hinglish progress. **Stop after Ch 92; no93/main publication.**
+
+
+---
+
+## PART 26: BOOK 5 — CH 93–95 / THE FIRST PATAAL VISIT
+
+**Authority:** the user's **“Ok vontinue”** after92, under12.7, authorizes **Ch 93–95 only**. Part25's stop92 is completed. Begin the approved **93–97 Pataal visit arc**; do not repeat the completed81–92 father-origin reveal or finish97 in this batch. No main publication requested.
+
+**Explicit route decision:** in the subsequent clarification the user selected **“Mentor-verified passage”**: **an old natural passage**, with **entry and return verified by existing mentors**, is approved. **No new device, blood-key or travel power.** This is not the destroyed58 device/portal, the infant's unestablished escape mechanism, an Ira-only biological key, or a reconciliation of earlier gate/ledger/crown mysteries. No new named guide, important guardian, ritual, portal-opening ability or permanent travel-law system is approved.
+
+- Answer92's route-planning question immediately with a concrete plan to inspect the approved natural passage and the way back. Verification must actually occur and its limited findings actually reach the travellers; old knowledge is not a guarantee of current safety. Show an actual Pataal crossing within93–95, not three more chapters of wishes or an off-page visit. Ruined/haunted Pataal and Rudra's first lived encounter with his Asuran heritage are already approved; ordinary observed ruins do not identify his family's address, supply a survivor census/proof relic or speak as ancestral witnesses.
+- Earn the journey through explicit elapsed recovery, individual reassessment and bounded functional progress before regional transport, reunion or realm travel. Preserve residual injuries, follow-up care, finite helpers and each companion's informed choice. The earlier conditional interest is not consent to the eventual plan. An assisted visit is not combat clearance, healed bodies, mastered first form, Unbound:Pataal before111–118, inherited Vedic healing, safe-count solution or restored kavach. No compulsory personal escort by Ram; parents keep their own agency/care. No universal recognition/automatic hospital coordinates from all-Lokas exposure.
+- **Mentor backstories97–102**, attacks103–110, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 remain gated. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No new important antagonist/Kul/ruler roster, named settlements/ancestral relatives, literal ancestor-message or new supernatural ghost mechanism, pending names/lore activation, independent-mystery equation or **villain POV**. Descriptive haunting is not a new inherited ability or early enemy attack.
+- Protect0–92/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part25 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,32 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit and presentation/Hinglish progress. **Stop after Ch 95; no96/main publication.**

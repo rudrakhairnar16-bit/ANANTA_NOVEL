@@ -211,7 +211,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test90_92_closes_paternal_arc_without_early_visit_or_absolution(self):
-        batch = self.bible.split("## PART 25:", 1)[1]
+        batch = self.bible.split("## PART 25:", 1)[1].split("## PART 26:", 1)[0]
         for phrase in (
             "Ch 90–92 only", "81–92 father-origin arc",
             "invitation to Veer immediately", "each friend's right to choose",
@@ -220,6 +220,21 @@ class OutlineChronologyTests(unittest.TestCase):
             "Devta/Maha Devta111", "Kaal119",
             "Ram's private manipulator knowledge stays private",
             "villain POV", "Stop after Ch 92",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test93_95_uses_approved_passage_and_actual_visit_without_early_power(self):
+        batch = self.bible.split("## PART 26:", 1)[1]
+        for phrase in (
+            "Ch 93–95 only", "93–97 Pataal visit arc",
+            "Mentor-verified passage", "an old natural passage",
+            "entry and return verified by existing mentors",
+            "No new device, blood-key or travel power",
+            "actual Pataal crossing within93–95",
+            "individual reassessment", "informed choice",
+            "Mentor backstories97–102", "Devta/Maha Devta111",
+            "Kaal119", "villain POV", "Stop after Ch 95",
         ):
             self.assertIn(phrase, batch)
 
@@ -294,6 +309,13 @@ class CheckerBoundaryTests(unittest.TestCase):
 
     def test_paternal_arc_close_does_not_release_later_names(self):
         for number in (90, 91, 92):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_first_pataal_visit_does_not_release_later_names(self):
+        for number in (93, 94, 95):
             result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
