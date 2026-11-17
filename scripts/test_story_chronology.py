@@ -269,7 +269,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test102_104_closes_mentors_and_opens_only_pataal_attack_arc(self):
-        batch = self.bible.split("## PART 29:", 1)[1]
+        batch = self.bible.split("## PART 29:", 1)[1].split("## PART 30:", 1)[0]
         for phrase in (
             "Ch 102–104 only", "Mentor arc closes at102",
             "No attacks before103", "attacks103–110 in Pataal",
@@ -282,6 +282,21 @@ class OutlineChronologyTests(unittest.TestCase):
         ):
             self.assertIn(phrase, batch)
 
+
+
+    def test105_107_continues_flight_and_care_without_closing_attack_arc(self):
+        batch = self.bible.split("## PART 30:", 1)[1]
+        for phrase in (
+            "Ch 105–107 only", "attack arc remains OPEN at107",
+            "The spear left his hand towards the driver holding the door.",
+            "all eleven party members are already Earth-side",
+            "vehicles have NOT departed", "ACTUAL urgent assessment",
+            "entry AND return verification", "Atala/Sutala were heard labels",
+            "Rudra does not inherit Vedic healing", "Book5 freeze",
+            "Devta/Maha Devta111", "Kaal119", "no villain POV",
+            "Stop after Ch 107",
+        ):
+            self.assertIn(phrase, batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -381,6 +396,13 @@ class CheckerBoundaryTests(unittest.TestCase):
 
     def test_attack_arc_does_not_release_principal_or_later_names(self):
         for number in (102, 103, 104):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_continued_attack_batch_keeps_later_reveal_names_gated(self):
+        for number in (105, 106, 107):
             result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):

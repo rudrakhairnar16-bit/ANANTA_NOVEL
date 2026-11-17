@@ -1,0 +1,51 @@
+# Ch105 — The Door Still Open
+
+**Final 4,319w. First authorized105–107 chapter; STOP107/no108/no main publication.** User “continue” after104 under three-chapter default. Start8fb2b97/241 baseline paths, **238 byte-protected**; exceptions only Bible two index labels+Part30, Part29 test boundary+two regressions(40), append-onlyBook6merge. Protect ALL0–104/priornotesplans/Books1–5merges/Book5freeze/original51/checker. NeutralBook6, subtitle unassigned. Current exactmerge **101–105 /FIVE sources /21,641w**. Father81–92/firstvisit93–97/mentor97–102 CLOSED; **attacks103–110 OPEN**.
+
+## Immediate104 payoff / terrain / physical defence
+
+Same day96 Earth approach outsideMirzapur. EXACTincoming spear alreadyINFLIGHTatdoor-holdingdriver. FIRST **“The driver dropped behind the door.”** Dhruv “Neeche” after driveralreadybeginsmoving, no precognition/unseen shield. SpearclipsUPPERdoorRIM/breakswindow/tearsseat/LODGESinupholstery+window, shaftoutside. DriverFOREHEADglasscut/bleeding/blurwithblood/alive/cannotdrive laterACTUALLYsaysso. No impalement/driverdeath/Veerhit/clinicaleye-clearance. Driverstayslowbehindnearvehiclewheel→ACTUALordinaryguardedwalkacrossgaptofarcover.
+
+TwoexistingvehiclesnosesROAD. NEARopeningvehicleSTRUCK/windowopen→cannotclose, laterrearTYREcutbyFIRSTBLADEMAN, unusablependingrecovery. FARvehiclefartherROADend/intact/engineinitiallyrunning/girlsshadeoffside, Rchairalongit; actualpatientsmoveBEHIND/alongprotectedside→ROADBEND, notstraightacrossroughdrop. No newroute/accessgate. Bonnet/rearcorners/ruts/windowmaterialactualcoverlimitednotinvulnerablewall. BladeSCRAPESfarvehicle/rearpanelhitbycylinderlater, notclaimpristine/no functionalassessmentyet.
+
+DhruvsoundhanddragsknownFOLDINGseatintoSPEARMAN(nowemptyhand)line/buysstep, guardeddriverwalkinsteadattackoccupiedenemy. Hitsreachingwristwithseatedge; opponentgrabsseatTWOvsONE→DhruvLETGO/attackerstumbles.THROWSseat→scrapesnearvehiclebodywork, spearRETRIEVALfailsstillstuck. Dhruvshoulderstiff/newcutpulls/tenderhandSTILLnon-grip. Soundhandheelbriefturnsblade/strainNOTfullcombatcapabilityorTarakburst. No newtechnique/form.
+
+Drv2intactvehiclebrakesVeerchair/getsSMALLcommercialvehiclefireextinguisherfrombesidefrontseat/ACTUALLYpullspin/onebriefSPRAYrearwardsatapproachingFIRSTBLADEMANnotpatients; bladepassescloud/scrapesfarvehicle/driverdodges. Powderlimited/doesNOTstopknifeormakerepeatablebarrier. CylleftwhenVeercallsdonotcarryit; spearmanlaterTHROWScylinderintofarvehicleREARpanel/fallsrolls, no imaginednewshield. Foldedseatleftnearstruckcar. FirstironshaftDhruvleftPataal104STILLinside/notseal; attackeractuallystepsaroundonemerging.
+
+FIRSTBLADEMAN ACTUALLYfollowsoldpassageontoEarth/visiblearrivalAadhya/comesafterthrownSPEARMAN(no teleport). CutsNEARvehicleREARtyrewhilegroupwithinreach/hissobserved, thenlooksFARrunningvehicle. **Meaningful immediateoperationprogress:** preventingdepartureisOBSERVEDpriority, notjustautomaticRudracolourrecognition/hunt. Cannotinferfullintent/master/noRudratargetguarantee. Intrinsicgoldbare/agentactuallylookedtransport, notproofimmunityornewcover.
+
+SpearmanstonehitsFARbonnet/skipsbetweenchairs→Rflinchsupportedlegmoves/worsechesttightness/breathnotfull. RgoodpalmheatbutHELPERdirectINLINE→CLOSESfingers/NOsecondburst. Choiceprotectownpeoplefrompoorlyboundedforce, notpowercure/mastery/safecount. No activeVeerbarrier/Iracopy/Aadhyarootfromdeadground/newspiritualtransfer.
+
+## Actual party movement / each finite job
+
+All ELEVEN partyEarthcontinuously from104. ExtrafithelperRchairchecksFOOTSUPPORTclearbeforeturn/STOPonpainreport/thenRasks“Modtak”; notjerkedfornarrativespeed. VeerfrontwheelRUTjolt→explicitSTOP/changeangle/aidkept/cannotcarrier/shield. SitaraACTUALLYtakesVeerchairwhiledrv2guards, handsIraONEguidancevoiceTOAADHYA/saidandheard. Aadhyavisualwarningstone/ground/footing/“Mairahihoon”, walksownlegs/handsSUPPORTEDnotloaded/IrafollowsVOICE/nohandweight. IraordinaryRIGHTclosedwaters/leftcoverprotected/ownhandtremor/no second-sight/sourcefreevision. Sitara+drv2laterVeerchair, extrahelperRchair; woundedattendant+drv1walk, Vedantphone/forearmprotected, Dhrrear. TheyactuallygainfewmetrestoROADbend/cover, no vehicledepartureyet.
+
+Drv1givenCLEANfoldfromkitbyinjuredattendantnotbloodiedowncloth, answersvisionquestionblur/no definitiveeyeverdict, sitsownchoice/keysKNEE. Ownfearofvehicleowner/drv2**“Pehletum”**subtext: humanbeforeproperty. Rasksunfinishedaboutchangedpaidwork/companionscost, extrahelpercontactsactuallywithVedant/no offpagecompensationassurance/dismissalofrisk. Accuratefuturefollow-upstillneeded.
+
+VedantACTUALnewEarthcallwarnsARMEDmanhascrossed/THROWN/driverbleeds/patientsunablewalk/accessroadTURN. Engineforcesrepeat; practicalcontactnotuniversalcoords. GivesTYREattackupdate/no inventedshortcutwhenasked. Medicsrealpositionpastroadjunction/stillapproachTURN, laterACTUALarrival—notinstantcrew. SitarawaterhelpwhileVspeaks/nopatienthandsloadedwithbottle.
+
+## Actual responders / safety response / care begun
+
+ONE ambulance ACTUALLYarrivesROADbend/stagesprotected. **CrewTWO: oneclinicalworker, oneambulancedriver.** Medicalworkerwaitsbehindcoverwhilearmedgroundunclear/notrecklessunescortedentry. ONEpolicevehicleACTUALLYarrivesbehindit, **TWOconstables(onehasdriven)**, approachroadside/usebend/weaponorders/onecoveroneassistsclearpeople. No namedimportantofficial/newcosmicjurisdiction/army/sidearmshootout. DhrACTUALLYobeysordinaryhands-visibleinstruction.
+
+FIRSTblade+SPEARMANactuallyRETREATtogetherthroughSAMEoldopeningunderwarning. DhruvSEESbladevanishthenSAMEdarkwaistwrap; **bothbackPataalside105D**, notcaptured/killed/disarmed; plainSPEARstillLODGEDvehicleonEarth. SECONDcheekcutBROKENstaffmanONLYLASTSEENPataal104/no claimfate/positionNOW. DHactuallytellsconstabletwojustwentinside/anothercheekwoundedlastseeninside; says**Pataal**andwarnsbendoutofsight, givesWALKEDlinefactsnotwholemaporpolice-certifiedrealm. OfficerkeepsEarthapproach/callsSUPPORT/notchaseblindthrougharmedbend. Anotherofficerradio+medicaldispatchACTUALLYrequestSECONDmedicalvehicleforpatientcount. **Notarrivedby105end.** No sealedpassage/wholearcwon.
+
+Ambulancedriver+helperACTUALLYbringRchairbehindbend. ClinicalworkerACTUALRbreathing/pulse/fingerclip/oldinjuryhistory/chestpressureonset/forcehistory, urgentreceivingcall, tellsRPRIORITYtransport/no selfstand. No numericresultsinvented/completeexamination/cosmicdiagnosis/declarecleared. Veerbriefactualassessmentremainingseated/no walktest; attendantactualfreshdressingcare; drv1declaresCANNOTdrive(saysagain), drv2checkedpowder/exposure/shakes/clearvision/settlingbreath, engineTURNEDOFFonrequest/keysOWNpocket. IntactvehicleSTILLATapproachnotrecoveredtoambulancebymagic. Planmoretransportnotpackbodiesaboveavailablebelts.
+
+Firstmedicalworker+driverbringSTRETCHERalongsideRchair/checkrutfreegeometry/oldinjuredlimbs/briefholds, extrahelperaskedSTAYfortransfer. **TRANSFERNOTyetperformed at105end.** DhruvfinallySATonstone/unhurtdriverACTUALLYholdscleandressingatbleedingsleeve(notunassigned“someone”). No ambulancedeparture/carearrival/examscompletedyet. Help at105end = original11+4responders(2ambulance+2police), no uncountedlifters/driverreplacement.
+
+## Witnesses / family / reveal limits
+
+Aadhyafirsthandstaff/wallrelease/spearthrow/driver/extinguisheraccountTOconstable, explicitlywasALREADYroundbendwhenthirdappearedINSIDE. ReferR+Veerwhosawit; officerrecordssourceddifference. VeerwillgiveshortaccountAFTERurgentRmove/mixedAtalaSutalaHEARDwordsnotpassport. Iralistensdoesnotwrite/read/ancestralvision; ownlatercorrectionpossible. No new Kulassignment/principal/Aegisidentity/controllernetworkequation/villainPOV/importantnames/biographies.
+
+FIRSTactualRUKMINIreplyto104accurateEarth/attackmessageRECEIVED105E: newsreceived/checksfirst/callwhencan. VedantASKSpermissionREADtoR/actualYES. RrequestsNEWupdateambulanceARRIVED+breathingproblem+helpreachedhim, actuallySENT, no claimedreadreceiptforsecondmessage. FullparentcallstillPENDINGafterurgentcare; parentsVaranasiowncare/no remotesensing/maternalreveal/automaticforgiveness/no photoforward/Dadiviewing. Aadhya**“Yahinhoon…Pehletumchalo.Humbhiaarahehain”**ordinarycompanysubtextNOTclaimedseatinthesameambulance/immediatecoarrival/romanceescalation.
+
+## EXACT106 incoming — same96 road bend, UNRESPONSIVE in chair
+
+Last~200 = ONEphysicalcarepunch: **“His good hand slipped off the armrest. / When the man said his name again, he did not answer.”** RvisionGREY thenunresponsiveWHILEMEDICALWORKERATCHAIR/stretcherALONGSIDE/extrahelperatnamedside/ambulancedriverready. **NOTyettransferred/NOTfallen/NOTdead/NOcauseoroutcomewritten.**106mustrespondimmediatelythroughactualassessment/support/clinicalaction, notinnerbellpowerupgrade/nextdaywardreset. Currentmedicalresponsebriefobservationsnotdefinitivetriagefinished. Breathing/chestwarningfrom104NOTdismissed; nowpriority.
+
+AllothersEarthbehindROADbend, girlswithSitara/Aadhyaordinarysight, Veerinsparechair/aid, Dhrsat+dressingheldbydrv2, drv1browcutnotdriving, attendantarmwoundfirstdressing, Vforearmlimited/phone. OriginalTWOvehiclesSTILLapproach: nearwindow/seat/spearlodged/reartyrecut; farrearpanelhit/bladescrape/enginenowOFF/intactdriverhasKEYS. PoliceTWOEarthcover/calledbackup, ambulanceTWOcrewRpatient/secondmedicalvehicleCALLEDNOTHERE. ArmedmenFIRST+THIRDbackinside/notteleportednewfront, secondlastseenthere. No recoverycomplete/receivingwardarrival/newpermittedjourney. **Attacks103–110OPEN; STOP107.**
+
+## Production
+
+Fiveindividuallyreviewedchunks **827/844/849/871/928 =4,319w**; exactassembly/ONEEND105/3-linefutureIraepigraph/immediateincomingpayoff/meaningfultransport-targetingadvance/punch/subtext/finalonecarecliffhanger(0questions). Bfourth-wallphrase+impliedpatientbottleloadremovedBEFOREreview; Dambiguous“third”reportclarifiedcheekman/actualPataalanswer; EmedicalhistoryapproachFLINCHnotunwrittenRchairrut/“chalo”notforcedsit/newnameddrv2dressingrole—re-reviewedbeforeassembly. Strict238of241baseline+exactsetup/Book5freeze/exactmerge/assembly/garble/quotes/repetition/revealgates/40tests/ALLSIXcanon/diff **PASS** — strict238/241/exactsetup/Book5freeze/exactfivechunkassembly/onehook/exactmerge/diff;40/40tests; ALLSIXcanon PASS (only old27/50lengthwarnings). Selective105commit+IMMEDIATEcurrentbranchpush/present/Hinglish BEFORE106draft. No108/mainpublication.
