@@ -240,7 +240,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test96_98_finishes_visit_and_opens_only_existing_mentor_history(self):
-        batch = self.bible.split("## PART 27:", 1)[1]
+        batch = self.bible.split("## PART 27:", 1)[1].split("## PART 28:", 1)[0]
         for phrase in (
             "Ch 96–98 only", "Father81–92 is CLOSED",
             "actually crossed in93 and returned in95",
@@ -250,6 +250,20 @@ class OutlineChronologyTests(unittest.TestCase):
             "Rudra does not inherit Vedic healing",
             "attacks103–110", "Devta/Maha Devta111", "Kaal119",
             "villain POV", "Stop after Ch 98",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test99_101_crosses_book_boundary_without_closing_mentor_arc_early(self):
+        batch = self.bible.split("## PART 28:", 1)[1]
+        for phrase in (
+            "Ch 99–101 only", "Book5 ends100; Book6 starts101",
+            "mentor backstories97–102", "mentor arc remains OPEN at101",
+            "20 exact numeric sources once/END-stripped",
+            "FREEZE it before101", "individual clinical reviews",
+            "Rudra does not inherit Vedic healing",
+            "attacks103–110", "Devta/Maha Devta111", "Kaal119",
+            "villain POV", "Stop after Ch 101",
         ):
             self.assertIn(phrase, batch)
 
@@ -338,6 +352,13 @@ class CheckerBoundaryTests(unittest.TestCase):
 
     def test_mentor_backstories_do_not_release_later_names(self):
         for number in (96, 97, 98):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_book_boundary_does_not_release_later_names(self):
+        for number in (99, 100, 101):
             result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):

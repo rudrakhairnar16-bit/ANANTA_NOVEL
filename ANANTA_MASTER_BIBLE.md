@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–27)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–28)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–27 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–28 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1399,3 +1399,17 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - Current Earth-side care is real: individual post-visit reassessments, continued wrist/rightankle/leftknee, shoulder/ribs/knee, hand-sensation and covered-left/limited-ordinary-right-eye costs; finite helpers, rest and honest updates. Bounded supported ward activity is not renewed realm-travel or combat permission. Parents retain their own Varanasi care and agency; Mirzapur friends/mentors do not teleport. No second expedition is already agreed merely because the first returned. Full kavach remains lost; raw intrinsic gold is not concealment/healing/mastery/safe count. **Rudra does not inherit Vedic healing**.
 - Keep **attacks103–110**, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No pending names/lore activation, new important guide/ruler/antagonist/Kul roster, literal ancestor-message/ghost mechanics, reopened58 device, independent-mystery equation or **villain POV**. Arc-ending afwah may use already-public damage/tournament/signature events, not leak private route/calls/lineage or hospital coordinates.
 - Protect0–95/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part26 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05**, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,34 regressions and required Book3+Book4+actual Book5 canon. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit, presentation/Hinglish progress. **Stop after Ch 98; no99/main publication.**
+
+
+---
+
+## PART 28: CH 99–101 / BOOK 5 COMPLETION AND BOOK 6 OPENING
+
+**Authority:** the user's **“complete karo till 101”** after98 explicitly authorizes **Ch 99–101 only**. Part27's completed stop98 is historical. **Book5 ends100; Book6 starts101**, with neutral **book-06** metadata and no assigned subtitle. Continue the already-approved **mentor backstories97–102**, not finish102 early or begin attacks. No main publication requested.
+
+- Answer98's **“Aapne humein jeetne se pehle lautna kyun sikhaaya tha?”** immediately in the actual84-evening Mirzapur room, Veer with Dhruv. He consented to only a few more minutes, not a long night lesson. Respect that limit; any later listening follows actual rest/care and a new choice. Expand Dhruv's already-established return-first teaching through bounded ordinary remembered teaching/learning, not a newly invented power origin, named teacher, formative death, ancient war, new lineage or a resolution of the old four/two-returned, bell, angle-ring, ledger or network mysteries. He did not invent Turanan's already-written return tradition. Ordinary practice difficulties are not a new travel-law system.
+-99–100 may develop Dhruv's personal reasons and lived limitations;101 may begin Sitara's own bounded ordinary account, **mentor arc remains OPEN at101** for102. No newly named important mentor/relative/guardian, precise origin/exile/parentage, pending lore or secret power-transfer law. A recollection belongs to what its teller lived and actually shares. Sitara's relationships do not release Rukmini's maternal origin or identify a biological sister; no Ira genealogy/provenance answer, inherited memory or source-free sight. Remaining important biographical details require selection rather than invention.
+- Father81–92 and first Pataal visit/heritage93–97 are CLOSED. All four crossed93 and returned95; no second expedition already agreed or physical arrival reset. Existing old natural passage approval unchanged: mentors verified entry AND return, no new device/blood-key/travel power, no reopened58 portal. Full concealing kavach remains lost/raw intrinsic gold not concealment/cure/mastery/safe count; **Rudra does not inherit Vedic healing**.
+- Preserve actual individual clinical reviews, residual injuries, rest, finite helpers and functional permissions. Modest ward/courtyard progress requires current assessment and actual supported trials; it is not combat or renewed realm-travel clearance. Covered left/limited ordinary right eye, hand-sensation costs, wrist/rightankle/leftknee and shoulder/ribs/knee limits persist. Dhruv/Vedant retain own care; parents remain Varanasi with agency, not compulsory escorts. No automatic group consent, private-transcript forwarding, universal recognition or hospital coordinates.
+- Keep **attacks103–110**, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira past-only, Ram's manipulator knowledge/private60 whisper private. No pending names/important new roster, literal ghosts/ancestor witnesses, independent-mystery equation or **villain POV**. Book boundary does not unlock later content.
+- Protect0–98/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part27 test boundary+two new regressions and append-only Book5 merge alter existing files. Complete Book5 merge81–100 as **20 exact numeric sources once/END-stripped**, then FREEZE it before101; create separate Book6 merge beginning101. Neutral book-05/book-06, subtitles unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,36 regressions, required Book3+4+5 and actual Book6 when present. Book5 completion continuity audit at100, final all-six-book/clean-local-origin-live/main audit at101. Separate chapter commit+IMMEDIATE current-branch push BEFORE next draft, present/Hinglish progress. **Stop after Ch 101; no102/main publication.**
