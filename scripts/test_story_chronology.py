@@ -354,7 +354,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test117_119_pays_active_form_and_releases_only_scheduled_name(self):
-        batch = self.bible.split("## PART 34:", 1)[1]
+        batch = self.bible.split("## PART 34:", 1)[1].split("## PART 35:", 1)[0]
         for phrase in (
             "Ch 117–119 only", "The empty stretcher rose between them, wheels first.",
             "Unbound:Pataal is ACTIVE", "SIX party plus ONE foe",
@@ -368,6 +368,26 @@ class OutlineChronologyTests(unittest.TestCase):
             "no incomplete Book6 publication", "Stop after Ch 119",
         ):
             self.assertIn(phrase, batch)
+
+
+    def test120_completes_only_book6_before_numbered_main_publication(self):
+        batch = self.bible.split("## PART 35:", 1)[1]
+        for phrase in (
+            "Ch 120 only", "Complete Book 6 and merge in main. Branch",
+            "Kaal haar gaya toh Divine Cycle apne aap theek ho jaayegi?",
+            "still-connected day142", "actual bounded question",
+            "Divine Cycle is already failing", "full Divine Cycle flaw154–160",
+            "Current foe's identity/allegiance remains unverified",
+            "Emergency action is not combat clearance", "old natural passage",
+            "entry AND return verification", "all278 baseline files",
+            "Book5 freeze42", "20 exact numeric END-stripped sources101–120",
+            "own chapter commit and IMMEDIATE current-branch push",
+            "explicit PR number", "No Book7 source", "Stop after Ch 120",
+        ):
+            self.assertIn(phrase, batch)
+        policy = (ROOT / "PUBLICATION_POLICY.md").read_text(encoding="utf-8")
+        self.assertIn("Make the chapter's own commit and immediate working-branch push first", policy)
+        self.assertIn("Do not publish an incomplete book", policy)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -516,6 +536,14 @@ class CheckerBoundaryTests(unittest.TestCase):
             self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
             for term in ("Swarg", "Daksh", "Dashanan", "Dvandva", "Sakshi"):
                 self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
+
+    def test120_finale_does_not_unlock_book7_or_later_reveals(self):
+        result = self.run_checker([(120, "Kaal Divine Cycle Unbound: Pataal")])
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        blocked = self.run_checker([(120, "Swarg Svar Daksh Dashanan Dvandva Sakshi Rudhransh")])
+        self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
+        for term in ("Swarg", "Svar", "Daksh", "Dashanan", "Dvandva", "Sakshi", "Rudhransh"):
+            self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(
