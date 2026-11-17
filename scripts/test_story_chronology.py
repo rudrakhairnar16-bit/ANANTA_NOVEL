@@ -332,7 +332,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test114_116_preserves_published_boundary_and_immediate_footing_costs(self):
-        batch = self.bible.split("## PART 33:", 1)[1]
+        batch = self.bible.split("## PART 33:", 1)[1].split("## PART 34:", 1)[0]
         for phrase in (
             "Ch 114–116 only", "publish each future book when complete",
             "PR5", "121516713d3c6f13595fc5cd46509c56dc4a643f",
@@ -351,6 +351,23 @@ class OutlineChronologyTests(unittest.TestCase):
         policy = (ROOT / "PUBLICATION_POLICY.md").read_text(encoding="utf-8")
         self.assertIn("publish every book to `main` as soon as that book is complete", policy)
         self.assertIn("Do not publish an incomplete book", policy)
+
+
+    def test117_119_pays_active_form_and_releases_only_scheduled_name(self):
+        batch = self.bible.split("## PART 34:", 1)[1]
+        for phrase in (
+            "Ch 117–119 only", "The empty stretcher rose between them, wheels first.",
+            "Unbound:Pataal is ACTIVE", "SIX party plus ONE foe",
+            "111–118 Unbound:Pataal / Maha Devta-level battle arc by118",
+            "Emergency action is not combat clearance", "Rudra does not inherit Vedic healing",
+            "replacement transport has NOT yet departed or arrived on-page",
+            "old natural passage", "entry AND return verification",
+            "Kaal first spoken119–120", "Ram's private2020 knowledge",
+            "Divine Cycle is failing", "no name in117/118",
+            "No villain POV", "Book5 freeze42", "Book6 ends120",
+            "no incomplete Book6 publication", "Stop after Ch 119",
+        ):
+            self.assertIn(phrase, batch)
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -486,6 +503,19 @@ class CheckerBoundaryTests(unittest.TestCase):
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Kaal", "Swarg", "Sakshi", "Dvandva"):
                 self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test117_119_name_release_does_not_unlock_later_identity_or_origin(self):
+        self.assert_gate("Kaal", 118, 119)
+        for number in (117, 118, 119):
+            allowed = "Devta Maha Devta Unbound: Pataal"
+            if number == 119:
+                allowed += " Kaal Divine Cycle"
+            result = self.run_checker([(number, allowed)])
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+            blocked = self.run_checker([(number, "Swarg Daksh Dashanan Dvandva Sakshi")])
+            self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
+            for term in ("Swarg", "Daksh", "Dashanan", "Dvandva", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(
