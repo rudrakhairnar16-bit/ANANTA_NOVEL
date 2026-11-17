@@ -1,0 +1,37 @@
+# Ch100 — Where He Chose to Stand / BOOK5 COMPLETE
+
+**Final4,362w.** Second authorized99–101, STOP101/no102/main publication. Ch99 b9a43db committed and IMMEDIATELY pushed/presented BEFORE100draft. Neutral book-05/subtitle unassigned; **Book5 ends100, exactly81–100 / 20 END-stripped numeric sources / 86,980w**. 99–100 cumulative8,689w. Book6 not yet created;101 must start independent neutralbook-06/merge, NEVER append101 to Book5. Book5 completion audit `continuity-notes/book-05-continuity-check.md`; freeze all completedBook5 source/note/merge/audit bytes before101. Father81–92 and firstvisit93–97 CLOSED; **mentor97–102 OPEN**.
+
+## Direct99 answer / actual86 telling
+
+Same85-evening Veer bedside with Dhruv; **“Uske baad aapne apni agli class kaise shuru ki?”** immediate **“Uski jagah se”**: before next ordinary exercise stood beside learner, looked at startingground/turn/return FROM THAT POSITION, asked what learner could actually see. Did NOT invent Turananreturntradition, new methodname, astral law/safe-route guarantee, ring angle, origin or death; old night/no-torch/one-at-time powerlesson conditions unchanged. Ends currentconversation before fatigue, actual85–86night/positionhelp/sleep.
+
+86 actual individual clinician/therapist reviews, current separateyes to short **listening ONLY**, supports and help arranged. Rudra chooses chair placement based on real neck/line-of-sight, checks once seated. Covered left/limited ordinary right, shade/hand supports, Veer aid remain. Dhruv asks actual comfortable voice position rather than autochoosing.
+
+**ALL FOUR directly hear Dhruv's ordinary earlier Earth-akhada learner/clearstar/differentground-view story on86.** Otherthree did NOT already know it99. No victim/death/new important identity. Ira asks whether student saw teacher's view: later when useful, NOT prerequisite for teacher hearing student. Aadhya asks if person still doesn't want task: hear actual reason, no one-size-fits-all fear diagnosis. Context remains real teachingnight with time, not universal denial of urgentinstructions. Punch **“Galat jagah khade hoke sahi baat keh sakte hain…Par phir sahi baat bhi kaam nahi aati.”** Oldlearner later practice Dhruv actually saw improved THATground, not allfutureconditions/automaticnewform.
+
+Ira explicitly asks and receives permission for OWN qualified account of THIS toldmemory, latercorrections can stand with it; eye remains rested, no compulsory real-time transcript/wholebiography record/public release. Rudra asks Dhruv for more movement, teacher explicitly defers permission to current treatingteam and offers help forming question, no lesson-as-medical-clearance. All return with actual aid/chair/help, NO extra drill.
+
+## Actual86–89 recovery / finite court visit
+
+86 practical request heard by clinician/therapist: recent transfers/knee/ankle/chair functions assessed; no extra attempt after listening, food/care/nightrest, help for leg before using protectedwrist.87 currentreview allows SAME few protectedsteps as previsit, wrist protected/goodhand permittedsupport/ankle support/help/chair behind. Actual rise/steps/turnpause/smalleradjustment/SIT, honest report/rest; not all-day distance clearance. Veer separate shortaidedwork/report/no shoulderloading/lifting friends/ribs cost. Aadhya small ordinary cloth movement only when comfortable, altered fingers remain/no leafmagic. Ira coveredleft/short ordinaryright/rest/listens, no supernatural compensation.
+
+87–88 poor fragmented sleep/noise/positionneeds, actually reported before examination;88 plan SHORTENED, necessary support+chair/rest, not regression denial/new exertion.88 asks about seated courtyard, NOT books friends without consent; route/shade/return/caretime questions.88–89 real sleep/reviews/individualnewyes, actual finite staff interval, shadesupports/help/aid not reassigned, mentors retainhandcosts.
+
+89 actual brief Earth courtyard: chair arrives assisted, Rudra chooses tree+returndoor withinview, Veer seat/aid/knee, Aadhya supports/hands, Ira shade/ordinaryeye rests. Ordinarybird/gardener watering plants not sourcefreegift/tulsi miracle/guardian. Allfour laugh/talk/quiet, no training/secondrealmtrip. Current reports when time nears end; actualRETURNinside/help/check/water/care/REST. Rudra has no Pataalrelic; two qualifiedphotos remainprivate, ruins not completegenealogy/census. Friends' chosen currentcompany does not obligate everyfuturejourney.
+
+Later SHORT parentcall only after BOTHsidesrest/owncare: Rudra honest non-linearfunction/courtyard, Ramowncare/Rukminieatenrested. Dadi sends wish hearanother time, NOTwoken/shownphotos/automaticallyincall. Fathertruth/love/childhoodharm coexist, no fresh originexcuse/forgivenesscommand/newname. Moreordinarythings left to say; call actuallystops.
+
+## Exact outgoing101 / firstBook6 line obligation
+
+Day89 hour BEFORE eveningcare, Aadhya asks Ira currentyes to briefcompany with eye resting; Aadhya assistednearbyroommove instead of makingIra travel. Hands supported, leftcovered/rightrest, quiet notpowerexercise. Ira requests locationdescription, chooses clothnearer/callSAMEfamiliarplace/waterstays/bowlremoved. Aadhya does NOT selftesthands tohelp; Sitara actually performs ONLYagreedmovements/checks.
+
+Rudra acrosscorridor separatelyphoneaside/askslegcheck, no automaticsharinggirlconversation. Sitara has FEWminutes only. Aadhya says appreciatedaskednotimposedarrangements; Sitara admits also sometimes rushes to do wholething. No girls assigned job to reassurementor's perfection.
+
+Final~200w ONEunanswered **“Aapko kabhi kisi ki madad rokni padi hai—apne liye?”** Asked by **Aadhya to Sitara, Ira listening, same89room beforeeveningcare**. No replyyet;101 must answerDIRECTLY here beforeanymove/timejump. Own ordinaryreceiving-help memory only, NOT question aboutmaternalorigin/biologicalsister/poweridentity/secretKul/parents. Cananswerbriefly now then honouractualcarestop; longeraccount onlyafterrest/currentchoice. Boys heardDhruv86, NOTthisSitaraconversation unless lateractuallyshared. Book5 closesfather/firstvisit consequences, NOTmentor97–102;102stillunwritten/unauthorized.
+
+## Pipeline / locked gates
+
+Five reviewedchunks **852/864/929/895/822w**, exact4362/oneEND100/three-linefutureIraregisterepigraph/direct99answer/realfunctionandcourtyardchange/1–2punches/subtext/finalonequestion. One answered ancillary question initially fell inside final200; revised to declarative BEFOREassembly. No committedsource changed. Strictpreservation/reveal/repetition/garble/exact5chunkassembly/20-sourcemerge/36regressions/all-FIVE-book canon+completionaudit **PASS** (36/36 regressions; all FIVE books canon PASS; only pre-existing27/50 length warnings; exact Book5 merge/audit/inventory PASS). Onlyold27/50lengthwarnings permitted.
+
+No cure/inheritedVedichealing/rebuiltkavach/concealinggold/newform/mastery/safecount/fusion, allinjuries/ownmentorcare remain. Father81–92/heritage93–97closed; no secondexpedition/routekey/58device. Attacks103–110, Unbound:Pataal111–118, Devta/MahaDevta111, Aegis110–115, Kaal119, maternal131–142, Ira187–190 andlateragechronology unchanged. No villainPOV/importantnewroster/pendingnames/ghostmessages/private60orRammanipulatorknowledgetransfer/independentmysteryequation/universalrecognition/coordinates/publicphotos. Separate selective100commit+IMMEDIATEbranchpush andpresentation BEFORE101draft; STOP101/no102/mainpublication.

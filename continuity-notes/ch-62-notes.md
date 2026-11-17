@@ -1,0 +1,32 @@
+# Ch62 — The Patient in the Back
+
+**Final:4,717 words.** First of the explicit62–64 batch (Bible Part15); no65 authorized. Direct noon→evening continuation of61. No old chapter rewritten.
+
+## Delivered sequence / facts
+
+- Doctor refuses to debate bloodline on the telephone, gets the driver/medic back, receives clinical information, arranges response. Constable and Dhruv go to the northern approach; Vedant stays as injured liaison, Sitara stays with patients. School volunteers clear the rear queue. No wounded student follows out to fight.
+- Patient's wife had stepped out to answer checkpoint questions and become separated by the crowd. Dhruv/constable take her back to the ambulance. She carries two changes of clothes in a schoolbag; no mysterious document/provenance object.
+- Northern obstruction: paving-block trailer angled across the lane, rope to iron post, narrow doorstep gap, carts/motorcycle behind ambulance. Private Rakshak-claiming guards insist the opposing Prakriti closure must end first. One guard manifests an existing-style pale defensive edge, blocks police and attacks a phone. Neither a whole Kul's position nor public law is established by the board marked PROTECTION.
+- Patient worsens while stopped. Medic, not Dhruv, decides an inspected foot transfer is the usable option. Wife knows the washing courtyard route. Its resident unlocks both gates, removes buckets/clothesline and assists. Rear alley leads past pharmacy to hospital; broken drain cover means a carrying team, not wheeling through blindly.
+- Trained staff bring a stretcher/portable oxygen; Dhruv guides rather than adds an injured lifting hand. Shield guard tries to close the first gate across the bearers. Dhruv takes the leaf on his shoulder and strikes his dressed palm on the latch; burns reopen. Owner/neighbour hold the leaf clear. Police reinforcement prevents further advance and detains the shield-man; no magical field, ring use or new power.
+- Controlled threshold/drain crossing and clinical handover get the patient to treatment alive, **still needing oxygen/urgent assessment**. No on-page cure or confident prognosis. Wife follows with bag/sandal recovered; keeps her own waiting scene.
+- Private guard's nosebleeding companion is also directed to care without removing his affiliation band. Trailer later towed, one locally controlled medical route opens. Resident receives police presence/contact against retaliation; her damaged gate/wet clothes/cracked bystander's phone and Dhruv's wound are real costs. No citywide peace.
+- Hospital: Dhruv redressed/ring still pouched; Veer catches his own reflex to ask a patient's side, family-supported humour without recovery reset. Aadhya's numb fingers and help tying loose hair remain. Recorder-lady visits Ira with food/care; familiar dal banter and placed cup/towel convey chosen belonging, no ancestry answer.
+- School receives a small escorted food delivery by a checked route, not the whole disputed flour consignment. Staff travel routes matter too. Ram remains critical; Rukmini stays under care. Aadhya/Ira only have **prospective next-review** discharge/rest arrangements, no actual discharge yet. Rudra no weight-bearing clearance; Veer still needs family transport/assessment.
+- Injured Rakshak visitor from61 gives a paid flour receipt to Vedant/constable, does not get another bedside audience with Veer. Claims four households pooled funds and seller said stock had gone to the opposing side. Names two cart men in his statement; denies witnessing the first slap. That denial is not exoneration. Police retain account; receipt/transaction does not legalize assault.
+- Recorder-lady distinguishes payment receipt, carrier dispatch book and kitchen purchase/donation note. Ira asks what the number actually means, dictates no magical verdict and rests. Original kitchen note remains with carrier driver; copies are shared, not substituted.
+- **Cliff:** seed-shop group supplies another paid claim: different purchaser/amount, same seller stamp and dispatch number. Both sides **claim** payment for the same promised flour; only one disputed load reached the crossing. Payment/number/actual-load/ownership comparison remains to verify in63. No claim that identical numbers alone prove a hidden controller or an already-solved fraud.
+
+## Outgoing costs / guards
+
+All61 student injuries persist: Rudra supported ankle/wrist/knuckles/neck seam; Veer left sling/knee/rib/right-elbow injuries; Aadhya protected hands/right thumb-index numb; Ira left eye covered/right light sensitivity/tremor. No active student form, source-free Darpan, cure, timer mastery or inherited power. Vedant's forearm bruise/cold pack/recheck remains. Dhruv's palm newly redressed after latch strike; ring never used. Ram oxygen/drain and Rukmini supported shoulder/neck bruises persist.
+
+No parent-origin/advanced-form name,60 whisper knowledge, proposed character/realm name, Ira birth-lineage clue or identity reconciliation. Eighth gate/assistant ledger/middle lamp/crown-circle remain separate. New immediate mystery is the paid-claim contradiction and missing private supply, not a biological revelation.
+
+## Pipeline
+
+Five chunks957/922/990/972/875 words before assembly edits; final assembled4,717. Full reread corrected ambulance side-door access, bag-owner movement, an unclear food joke, and claim-versus-proof language. Strict word/END/epigraph/quotation/repetition/reveal audit PASS. Required Book3 + Book4 checks PASS;16 regression tests PASS. No checker weakening;64 older book files,61 source, protected Bible5/10/12 and original51 draft unchanged. Merge now61–62, once each, END markers stripped. Individual chapter commit + immediate push on `arena/ec1bc639-ananta-novel`;63–64 still to follow within this explicit batch.
+
+## Continuity correction during63 review
+
+Ch30 explicitly had Ira **stand beside**, not sit in, the extra empty chair. Newly written62's single recollection line was corrected accordingly with63; word count remains4,717. Original30 and every0–61 source are untouched. Corresponding merged62 passage regenerated.

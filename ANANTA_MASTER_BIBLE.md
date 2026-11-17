@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–14)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–28)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–14 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–28 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1146,7 +1146,7 @@ The gods remember. Humanity forgets. Write accordingly.
 | M16 | Prologue Lord ↔ city officer relationship | Part 12.5 reconciliation | OPEN — needs user sign-off to resolve |
 
 ### 12.7 STANDING USER RULES (restated)
-1. One chapter per "continue" (multi-chapter runs only on explicit ask).
+1. **Three chapters per batch**, including a generic "continue" (latest user instruction after74: “Ab se tum 3 ke batch me hi chapters likhoge”). This supersedes the former one-chapter default; an explicit later scope instruction controls its own run. Historical completed batch boundaries remain historical.
 2. Hinglish summaries; garble-clean chunks; `canon_check.py book-02-resonance` PASS; single `### END OF CHAPTER NN` marker.
 3. **Nothing story-side changes without user permission** — including titles, reconciliations, and reveal timings.
 
@@ -1229,4 +1229,187 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - No equation between Ira's lineage and the eighth-gate/assistant-ledger/unknown-hand thread. No Lord/city-officer/Right-Hand identity reconciliation.
 - No Ch 0–60 rewrite, new primordial being, changed cosmic hierarchy, altered dialogue lock, revised Ram/Rukmini reveal schedule or removed injury cost.
 - Book 4's individual title remains unassigned. A neutral `book-04` directory/merged heading is organizational metadata, not a newly approved book title.
-- Only Ch 61 is authorized now; Ch 62 waits for a later request. Draft in short reviewed chunks, 4,300–6,200 words, epigraph, one END61 marker, continuity note, strict/full checks, merged file, individual commit and immediate push.
+- That decision authorized only Ch 61. The later explicit three-chapter request is recorded in Part 15; it does not expand the Ira lore approval above.
+
+
+---
+
+## PART 15: BOOK 4 — EXPLICIT CH 62–64 BATCH AUTHORIZATION
+
+**Authority:** after publication of the existing work to main, the user requested **“ok next 3chapters continue”** on the new active Arena branch. Under12.7, this explicit batch request authorizes **Ch 62–64 only**. Part14's former one-chapter execution limit is historical, not a refusal of the later request.
+
+- Continue directly from61's blocked ambulance. Remain within the existing61–65 Kul-War opening; no early multi-city split, tournament, parental-origin answer or full kavach shatter.
+- Preserve the outgoing61 injuries, observation/medical rules, actual route geography and closed/destroyed portal/device. Any discharge/transport permission must be explicit and limited; elapsed time is not a cure or combat clearance.
+- Each new chapter: approximately4,300–6,200 words, legend-first epigraph, reviewed short chunks, one matching END marker, consequence note, required Book3 and Book4 canon checks, regenerated Book4 merge, individual commit and immediate push on the current branch.
+- Sakshi/Ch187–190 contract and all other reveal gates remain unchanged. Other proposed names/realm lore remain pending. No new important antagonist/Kul roster or reconciliation of independent identities is authorized.
+- The neutral Book4 heading remains organizational metadata. Ch0–61 and existing merged Books1–3 stay untouched. **Stop after Ch 64; Ch 65 requires a later request.**
+
+
+---
+
+## PART 16: BOOK 4 — EXPLICIT CH 65–67 BATCH AUTHORIZATION
+
+**Authority:** the user's later instruction **“67 tak complete karo”**, following delivery through64, authorizes **Ch 65–67 only**. Part15's stop64 was the completed earlier batch, not a continuing veto. No rewrite or publication to main is requested.
+
+-65 resolves64's threatened04:00 pump duty inside the existing61–65 Varanasi opening.66 begins the approved66–73 multiple-city defense/team split;67 continues it. Do not keep the entire next arc confined to Varanasi or pull later tournament/reveal events forward.
+- The request is not permission to skip recovery: mark elapsed time and individual medical reassessment before regional travel. Transport/light-duty clearance is not combat clearance. Preserve residual injuries, follow-up arrangements, family agency and civilian/institutional work. No free healing, mastered first form or new tier.
+- All existing parent/origin, Ira/Sakshi187–190, antagonist-identity and independent-mystery boundaries remain. Pending names/lore remain pending; no new important Kul/antagonist roster or retrospective planting.
+- Each chapter retains4,300–6,200-word target, epigraph, reviewed short chunks, one matching END, continuity note, required Book3 and actual Book4 checks, regenerated merge, individual commit and immediate push on the current branch. Ch0–64 and earlier-book merges remain unchanged.
+- Neutral Book4 metadata only. **Stop after Ch 67; Ch 68 needs a later request.**
+
+
+---
+
+## PART 17: BOOK 4 — EXPLICIT CH 68–70 BATCH AUTHORIZATION
+
+**Authority:** after67 delivery, the user requested **“commit and push and finish till 70”**. The already-delivered work is committed/pushed; this later request authorizes **Ch 68–70 only**, with the standing per-chapter commit/immediate-push pipeline. Part16's completed stop67 is historical. No main merge is requested.
+
+- Continue67's actual Prayagraj crossing emergency; remain inside the approved66–73 multiple-city defense arc with the existing city/mentor split. No tournament before74, full kavach shatter before79, parent-origin reveal before81 or early reunion of the travelling teams.
+- Carry67's acute48h Aadhya rest/reassessment and persistent Ira eye limits forward. Rudra's partial-load/light-duty and Veer's shoulder/knee/rib limits remain; emergency action is not retroactive combat clearance. Mentors, public responders and local people share real work. No free healing, repeatable first-form mastery, source-free reflection, river-scale new power or injury-as-power-up shortcut.
+- Preserve all other reveal gates, Sakshi187–190 contract, chosen Sarokaar identity and independent-mystery boundaries. Pending names/lore remain pending. No new important antagonist/Kul roster or proved overarching controller.
+- Ch0–67 and earlier-book merges remain unchanged. Each new chapter:4,300–6,200w, future-document epigraph, reviewed short chunks, one END, consequence notes, required Book3 and actual Book4 checks, regenerated numeric merge, individual commit and immediate push on current branch.
+- Neutral Book4 metadata remains. **Stop after Ch 70; Ch 71 requires a later request.**
+
+
+---
+
+## PART 18: BOOK 4 — EXPLICIT CH 71–73 BATCH AUTHORIZATION
+
+**Authority:** after70 delivery, the user requested **“complete till 73”**. This authorizes **Ch 71–73 only**. Part17's completed stop70 is historical; the standing individual-chapter check/commit/immediate-push pipeline continues on the current branch. No main publication requested.
+
+- Answer70's live forced-night-watch transport emergency immediately with actual local response. Complete the approved66–73 multiple-city defense arc without reuniting the travelling pairs early or treating a local success as peace everywhere.
+- No tournament before74, full kavach shatter before79 or father-origin reveal before81. No new important antagonist/Kul roster, proved controller, new form/mastery, repeatable first form, ancestral power or equation of independent mysteries. Pending names/lore remain pending.
+- Preserve Prayagraj/Mirzapur/Varanasi geography, family agency, public/local workers and all accrued costs. Aadhya needs the actual post48h reassessment; Ira's eye/hand limits and boys'/mentors' aggravated injuries persist. Any later elapsed days and functional permissions must be explicit, individual and bounded; **light duty is not combat clearance**.
+- Ch0–70, earlier-book merges, protected dialogue/reveal/chronology contracts and the original51 source stay unchanged. Future-document epigraph, reviewed short chunks,4,300–6,200w, one END, continuity note, Book3+actual Book4 canon, numeric merge and separate commit+immediate push after each chapter.
+- Neutral Book4 metadata only. **Stop after Ch 73; Ch 74 requires a later request.**
+
+
+---
+
+## PART 19: BOOK 4 — SINGLE CH 74 CONTINUATION
+
+**Authority:** the user's later **“Continue”** after73, read under12.7, authorizes **Ch 74 only**. Part18's completed stop73 is historical. Begin the already-approved74–78 tournament arc, not a new five-chapter execution batch. No main publication requested.
+
+- Resolve73's actual partial-kavach medical alarm first: immediate clinical assessment/observation, honest family contact, no full shatter before79 or origin answer before81. A fading flare is not repaired integrity, a new form, mastery or combat clearance.
+- Tournament opening may show ordinary representatives of already-known Kuls and existing supporting people, without locking a new important named antagonist/Kul roster. Consent, clinical eligibility, limited sources/techniques and real costs matter. A sporting score does not award ownership of roads, relief or households. No equation with earlier Foundation instruments or an overarching controller.
+- Preserve the existing city split and individual injuries/follow-ups. Elapsed observation/rest must be explicit; travel/spectator permission is not permission to fight. Ira's eye review and Aadhya's hand limits remain; no free healing/ancestry shortcut or new power. All other chronology, reveal and independent-mystery contracts stay locked; pending lore/names remain pending.
+- Ch0–73/prior notes and Books1–3 merges unchanged.4,300–6,200w, future-document epigraph, reviewed short chunks, one END74, continuity note, Book3+actual Book4 checks, regenerated numeric merge, separate commit+immediate push current branch. Neutral Book4 metadata only. **Stop after Ch 74; Ch 75 requires a later request.**
+
+
+---
+
+## PART 20: THREE-CHAPTER DEFAULT / CH 75–77 EXECUTION
+
+**Authority:** after74, the user explicitly changed the standing workflow to **three chapters per batch**; the subsequent **“Complete karo”** authorizes **Ch 75–77 only**. Part19's single74 execution is complete, not a restriction on this later request. A generic continue now means the next three chapters, not one. No main publication requested.
+
+- Answer74's falling injured porter immediately with actual landing, medical assessment/care and honest consequences. Do not substitute a registration receipt, appearance allowance or introduction label for consent/clinical clearance. Individual accountability is not collective Kul guilt or proof of an overarching controller.
+- Continue the approved74–78 tournament arc with ordinary representatives of existing Kuls. No new important named antagonist/Kul roster, no new form/mastery/repeatable first form, no free healing or source-free Darpan. A sporting result does not award roads, relief or household ownership. Keep the three-city split and individual clinical permissions; spectator permission is not combat clearance.
+- M7 can advance only through bounded observed partial damage: **no full kavach shatter before79, no father-origin answer before81**. No equation of independent mysteries, private60 whisper knowledge, premature Ira ancestry answers or activation of pending lore/names.
+- Protect Ch0–74/prior notes+plans and Books1–3 merges. Only the explicit12.7 batch-default sentence and Bible index/addendum change existing policy text; all other locked contracts remain. Each chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; after each run required Book3+actual Book4 checks, regenerate numeric merge, separate commit and immediate current-branch push before the next chapter. **Stop after Ch 77; no78 in this execution.**
+
+
+---
+
+## PART 21: CH 78–80 / BOOK 4 COMPLETION
+
+**Authority:** “Next Batch continue” after77, under the three-chapter default, authorizes **Ch 78–80 only**. Part20's completed stop77 is historical. Finish the already-approved74–78 tournament and execute the already-approved **79–80 full kavach shatter / true signature exposed to all Lokas**. This is not permission to start81 or publish to main.
+
+- Answer77's rising live rim/unguarded jaw immediately: release/contact/stop and actual clinical checks before a result. Finish tournament with real bounded results, consent, limited sources and costs; no score becomes ownership of roads/relief/households. No newly locked important antagonist/Kul roster or old-Foundation/controller equation.
+- **No full shatter in78.**79–80 must deliver actual complete loss of the concealing kavach, not a third partial-only postponement. Exposure is not a new Swaroop, repeatable first form, healed body, source-free Darpan, safe-count solution, advanced fusion or mastery. Gold intrinsic to the already-seen signature is not a rebuilt seal.
+- **No father-origin answer before81**; no gated parent names/lineage/realm explanation, maternal-origin reveal, private60 whisper knowledge, premature Ira ancestry/provenance answers or activation of pending names/lore. Keep independent mysteries independent. All-Lokas exposure can be established by external effects/objects/anonymous observers only: **no villain POV**, named new ruling roster, reopened destroyed58 device/portal or ancestor-power download.
+- Preserve the three-city split and actual individual medical care, injuries, return/travel permissions, family agency and honest communication. Full-shatter emergency requires immediate patient/bystander response and real consequences, not convenient universal healing or unexplained reunion.
+- Ch0–77/prior notes+plans/Books1–3 merges/locked contracts unchanged. Each new chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; Book3+actual Book4 checks, numeric merge, separate commit+immediate current-branch push after EACH before next. Neutral Book4 metadata; merged61–80 must contain20 sources once/numeric/END-stripped. **Stop after Ch 80; no81/main publication.**
+
+
+---
+
+## PART 22: BOOK 5 — CH 81–83 / FATHER-ORIGIN ARC OPENS
+
+**Authority:** “Continue next batch” after80, under the three-chapter default, authorizes **Ch 81–83 only**. Part21's completed stop80 is historical. Open the already-approved **81–92 father-origin reveal**, not the whole twelve-chapter arc. No main publication requested.
+
+- Answer80's direct family-call question immediately with real paternal-origin truth: **Ram / Daavansh, Pataal, Asuran Kul**. A new name does not replace his lived Earth family or make the son's injuries/control problems disappear. Reveal meaningful new information in each chapter; do not stretch the answer into three more partial-only postponements.
+- The existing Bible permits the infant's Earth arrival in Varanasi, Vedic adoption/learned healing and the Asuran massacre/parents sending their infant away within81–92. Use only that approved core. An infant does not narrate remembered battles as eyewitness testimony; distinguish lived childhood memory from later-learned family history. No invented named grandparents, detailed escape mechanism, massacre date, new ruler/antagonist roster or proof-artifact genealogy. Full remaining history stays within its later authorized execution.
+- **Maternal origin remains gated**: no mother's alias/realm/celestial pedigree or equation of the two colours with a complete parental genealogy. No Aegis-leader identity answer, private60 whisper knowledge, premature Ira ancestry/provenance, pending names/lore or reconciliation of independent mysteries. **No villain POV**; no checker changes or release of later gated terms merely because81 is now open.
+- Whole kavach remains gone; all-Lokas exposure is not universal personal recognition/automatic ward coordinates. No rebuilt seal, free healing, safe count, new form, repeatable first-form mastery or inherited Vedic healing for Rudra. The truth does not absolve childhood harm or compel forgiveness/revenge.
+- Carry day37's supported short call/acute observation forward; preserve Prayagraj/Mirzapur/Varanasi split and individual injuries, rests, clinical permissions and honest communication. **No realm visit before93**, physical reunion or unearned discharge.
+- Protect0–80/all prior notes+plans/Books1–4 merges/original51/checker and existing Bible contracts. Neutral **book-05** metadata; Book5 subtitle unassigned. Each new chapter4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, required Book3+Book4+actual Book5 canon, numeric Book5 merge and separate commit+immediate current-branch push BEFORE the next chapter. **Stop after Ch 83; no84/main publication.**
+
+
+---
+
+## PART 23: BOOK 5 — CH 84–86 / FATHER-ORIGIN ARC CONTINUES
+
+**Authority:** the user's **“Go on”** after83, under12.7's three-chapter default, authorizes **Ch 84–86 only**. Part22's completed stop83 is historical; the already-approved **81–92 father-origin arc remains open**, not completed or wholly authorized by this batch. No main publication requested.
+
+- Answer83's **“Yeh hukm kisne diya tha?”** immediately. Identify the existing supra-Kul Loka authority responsible for the massacre in functional language, not another local rival bloodline or an invented named individual. This advances the already-approved paternal massacre, **not** permission for a new ruling roster, later gated hierarchy titles, cosmic-balance doctrine or individual order-giver name. Keep **Devta/Maha Devta111** and all other checker gates unchanged; do not substitute a later antagonist or pretend Ram has forgotten the core answer.
+- The approved **2020 defeat of Adhira** may now be explored as an embedded Ram-memory flashback inside the existing father backstory. Adhira appears only in the past; victory is real, not resurrection/current return or a source of a new power for the son. Training began at age one, long **before2020**; this event can intensify existing fear, not become the reason all childhood training began. **Ram's private manipulator knowledge stays private; Kaal119** is not released. No Aegis-leader former-mentor identity answer before110–115, invented battle roster, exact escape route, proof artifact or new ancestral ability.
+- Truth does not vindicate excessive childhood harm, erase love or compel forgiveness/revenge. Fulfil83's promised mother–son conversation about their **lived household years**, not mother's origin/alias/pedigree or a joint defense statement. No maternal reveal, premature Ira genealogy/provenance or reconciliation of independent mysteries. Pending names/lore remain pending; **no villain POV**.
+- Full kavach remains gone; intrinsic gold is not a rebuilt concealing layer. Preserve actual injuries, supported short calls/rests, honest symptoms, finite helpers and Prayagraj/Mirzapur/Varanasi split. Any clinical improvement/assisted functional permission must be explicit, individual and limited, not healing/travel/combat clearance. No safe count, repeatable first form, source-free Darpan, inherited Vedic healing, new tier or ancestor download. **No realm visit before93** or early intercity reunion.
+- Protect0–83/all prior notes+plans/Books1–4 merges/original51/checker. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/reviewed short chunks/one END; consequence notes, required Book3+Book4+actual Book5 checks/26 regressions/strict preservation and numeric merge, individual commit+immediate current-branch push BEFORE next draft. **Stop after Ch 86; no87/main publication.**
+
+
+---
+
+## PART 24: BOOK 5 — CH 87–89 / THE WISH TO SEE PATAAL
+
+**Authority:** the user's **“Complete next batch”** after86, under12.7, authorizes **Ch 87–89 only**. Part23's stop86 is the completed earlier batch. Continue the approved **81–92 father-origin arc**, not its full conclusion or the later journey. No main publication requested.
+
+- Answer86's **“Aap mujhe Pataal dikhaayenge?”** immediately and honestly: help with the wish to see the father's birthplace is not a present departure, guaranteed safety, new route/portal or promise Ram personally travels. The already-approved devastated Pataal may be described in general as part of the father's history, without inventing named settlements, a surviving court/roster, an exact family address, census of survivors or proof relic. **No realm visit before93**; no early intercity reunion or unearned discharge.
+- Deepen the approved **Vedic upbringing / learned healing** and Ram's experience of exile. Ordinary embedded childhood-care memories may humanize that upbringing, distinguished from reported infant arrival/massacre and from facts actually told to the son. No named new adoptive relatives/important mentor, invented transmission ritual, transferable-power law, first-form technique or ancestral proof artifact. **Rudra does not inherit Vedic healing**. Fear explains extremity, not retrospective consent or automatic forgiveness; lived Earth belonging and lost birth family are both real.
+- A wish to visit does not enlist friends. Preserve **each friend's right to choose**, the real three-city split, finite help, supported private calls and honest clinical information. Forward elapsed days require actual individual recovery/review; assisted movement is not combat or journey clearance. No rebuilt kavach, safe count, repeatable first form, source-free Darpan, mastery or ancestor download. All-Lokas exposure remains true without universal personal recognition/automatic ward coordinates.
+- Keep all later gates and independent mysteries intact: **Devta/Maha Devta111**, Aegis-leader identity110–115, **Kaal119**, maternal131–142, Ira187–190. Adhira only in the already-approved past; Ram's private manipulator knowledge stays private. No private60 whisper transfer, maternal alias/pedigree answer, pending names/lore activation, new ruling roster, overarching-controller equation, reopened58 device or **villain POV**.
+- Protect0–86/all previous notes+plans/Books1–4 merges/original51/checker. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END; consequence notes, strict preservation/reveal/assembly/merge checks,28 regressions and required Book3+Book4+actual Book5 checks. Numeric Book5 merge81–current once/END-stripped. Separate chapter commit+immediate current-branch push BEFORE the next chapter, final all-five-book audit/presentation/Hinglish progress. **Stop after Ch 89; no90/main publication.**
+
+
+---
+
+## PART 25: BOOK 5 — CH 90–92 / FATHER-ORIGIN ARC CLOSE
+
+**Authority:** the user's **“Continue”** after89, under12.7's three-chapter default, authorizes **Ch 90–92 only**. Part24's stop89 is the completed earlier batch. Complete the already-approved **81–92 father-origin arc** emotionally and truthfully; this does not authorize93 or main publication.
+
+- Answer89's actual invitation to Veer immediately. A friend's interest in accompanying Rudra is his own choice, not a compulsory shield-duty, advance consent to unknown conditions or current journey clearance. Preserve the girls' independent conditional answers and **each friend's right to choose**; no automatic group assent or private-transcript forwarding.
+- Close the established paternal account: Asuran birth in Pataal, dying parents sending an infant away from the deliberate massacre, Varanasi finding/Vedic upbringing/learned healing, lived exile and real Earth belonging, the past2020 Adhira defeat and protective fear which does not justify excessive childhood harm. Reported history is not infant eyewitness memory. No new massacre date, escape mechanism, named grandparents/important adoptive mentor, ruler roster, family-address/census/proof relic, retrospective disclosure test or power-transfer law. **Rudra does not inherit Vedic healing**; survival does not demand revenge, automatic forgiveness or denial of love. Emotional closure is not a claim that every cosmic mystery has been solved.
+- Honour the already-promised help with the desire to see ruined Pataal without inventing a route/portal, guaranteed safety or Ram's personal escort. **No realm visit before93**: actual visit remains93–97, mentor backstories97–102, attacks103–110, Unbound:Pataal111–118. No early intercity reunion, unearned discharge, new form/mastery/safe count/ancestor download or rebuilt kavach. All-Lokas exposure is not universal recognition/automatic ward coordinates. Forward elapsed days require explicit individual clinical review, bounded functional progress and actual rest; assisted ward movement is not travel or combat clearance.
+- Keep **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira remains past-only; **Ram's private manipulator knowledge stays private**. No private60 whisper transfer, maternal alias/pedigree, pending names/lore activation, independent-mystery equation, reopened58 device or **villain POV**. Ch92's arc-ending district afwah may concern already-public damage/tournament/signature events, not overheard private origin calls or hospital coordinates.
+- Protect0–89/all prior notes+plans/Books1–4 merges/original51/checker; only the two Bible index labels+this appended contract, prior Part24 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, strict preservation/reveal/exact assembly/merge checks,30 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE the next draft; final all-five-book/clean-live-origin/main audit and presentation/Hinglish progress. **Stop after Ch 92; no93/main publication.**
+
+
+---
+
+## PART 26: BOOK 5 — CH 93–95 / THE FIRST PATAAL VISIT
+
+**Authority:** the user's **“Ok vontinue”** after92, under12.7, authorizes **Ch 93–95 only**. Part25's stop92 is completed. Begin the approved **93–97 Pataal visit arc**; do not repeat the completed81–92 father-origin reveal or finish97 in this batch. No main publication requested.
+
+**Explicit route decision:** in the subsequent clarification the user selected **“Mentor-verified passage”**: **an old natural passage**, with **entry and return verified by existing mentors**, is approved. **No new device, blood-key or travel power.** This is not the destroyed58 device/portal, the infant's unestablished escape mechanism, an Ira-only biological key, or a reconciliation of earlier gate/ledger/crown mysteries. No new named guide, important guardian, ritual, portal-opening ability or permanent travel-law system is approved.
+
+- Answer92's route-planning question immediately with a concrete plan to inspect the approved natural passage and the way back. Verification must actually occur and its limited findings actually reach the travellers; old knowledge is not a guarantee of current safety. Show an actual Pataal crossing within93–95, not three more chapters of wishes or an off-page visit. Ruined/haunted Pataal and Rudra's first lived encounter with his Asuran heritage are already approved; ordinary observed ruins do not identify his family's address, supply a survivor census/proof relic or speak as ancestral witnesses.
+- Earn the journey through explicit elapsed recovery, individual reassessment and bounded functional progress before regional transport, reunion or realm travel. Preserve residual injuries, follow-up care, finite helpers and each companion's informed choice. The earlier conditional interest is not consent to the eventual plan. An assisted visit is not combat clearance, healed bodies, mastered first form, Unbound:Pataal before111–118, inherited Vedic healing, safe-count solution or restored kavach. No compulsory personal escort by Ram; parents keep their own agency/care. No universal recognition/automatic hospital coordinates from all-Lokas exposure.
+- **Mentor backstories97–102**, attacks103–110, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 remain gated. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No new important antagonist/Kul/ruler roster, named settlements/ancestral relatives, literal ancestor-message or new supernatural ghost mechanism, pending names/lore activation, independent-mystery equation or **villain POV**. Descriptive haunting is not a new inherited ability or early enemy attack.
+- Protect0–92/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part25 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05** metadata, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,32 regressions and required Book3+Book4+actual Book5 checks. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit and presentation/Hinglish progress. **Stop after Ch 95; no96/main publication.**
+
+
+---
+
+## PART 27: BOOK 5 — CH 96–98 / THE ACCOUNT AND THE TEACHER
+
+**Authority:** the user's **“continue”** after95, under12.7's three-chapter default, authorizes **Ch 96–98 only**. Part26's completed stop95 is historical. Continue the actual93–97 Pataal visit/heritage consequences and begin the already-approved **mentor backstories97–102**, without compressing the whole six-chapter block into this batch. No main publication requested.
+
+- Answer95's **“Aur tum, beta—tumhe wahaan apne liye kya mila?”** immediately on the open day82 Mirzapur–Varanasi call. Give the son's first-hand experience, not another father-origin secret or compulsory forgiveness/revenge. Father81–92 is CLOSED. All four actually crossed in93 and returned in95; do not reset arrival as pending or invent a return crisis. The unmarked grit was left inside Pataal; two ordinary photographs are offered but not yet shown/forwarded to parents, Ira's qualified recordings remain hers. Any actual sharing must carry source/framing limits and consent; no recovered family address, inherited memory, proof relic or whole-realm census. Close the93–97 visit/heritage arc by97 without claiming all later Pataal conflicts are finished.
+- **No mentor backstory before97.** In97–98, flesh the established **Vedant as Ram's former student** through bounded ordinary teaching memories and present consequences; no invented named mentor, date, formative death/atrocity, secret Kul/origin, new power law, shared-guru identity or equation of earlier bell/ledger/network mysteries. The remaining Dhruv/Sitara histories stay in the97–102 block, not prematurely fabricated to fill this batch. A recollection is what its teller actually experienced, not a protagonist's source-free vision. Learning a mentor's limits does not grant a form, combat clearance or a transferable technique.
+- Current Earth-side care is real: individual post-visit reassessments, continued wrist/rightankle/leftknee, shoulder/ribs/knee, hand-sensation and covered-left/limited-ordinary-right-eye costs; finite helpers, rest and honest updates. Bounded supported ward activity is not renewed realm-travel or combat permission. Parents retain their own Varanasi care and agency; Mirzapur friends/mentors do not teleport. No second expedition is already agreed merely because the first returned. Full kavach remains lost; raw intrinsic gold is not concealment/healing/mastery/safe count. **Rudra does not inherit Vedic healing**.
+- Keep **attacks103–110**, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira past-only; Ram's private manipulator knowledge/private60 whisper stay private. No pending names/lore activation, new important guide/ruler/antagonist/Kul roster, literal ancestor-message/ghost mechanics, reopened58 device, independent-mystery equation or **villain POV**. Arc-ending afwah may use already-public damage/tournament/signature events, not leak private route/calls/lineage or hospital coordinates.
+- Protect0–95/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part26 test boundary+two new regressions and append-only Book5 merge alter existing files. Neutral **book-05**, subtitle unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,34 regressions and required Book3+Book4+actual Book5 canon. Separate chapter commit+immediate current-branch push BEFORE next draft; final all-five-book/clean-local-origin-live/main audit, presentation/Hinglish progress. **Stop after Ch 98; no99/main publication.**
+
+
+---
+
+## PART 28: CH 99–101 / BOOK 5 COMPLETION AND BOOK 6 OPENING
+
+**Authority:** the user's **“complete karo till 101”** after98 explicitly authorizes **Ch 99–101 only**. Part27's completed stop98 is historical. **Book5 ends100; Book6 starts101**, with neutral **book-06** metadata and no assigned subtitle. Continue the already-approved **mentor backstories97–102**, not finish102 early or begin attacks. No main publication requested.
+
+- Answer98's **“Aapne humein jeetne se pehle lautna kyun sikhaaya tha?”** immediately in the actual84-evening Mirzapur room, Veer with Dhruv. He consented to only a few more minutes, not a long night lesson. Respect that limit; any later listening follows actual rest/care and a new choice. Expand Dhruv's already-established return-first teaching through bounded ordinary remembered teaching/learning, not a newly invented power origin, named teacher, formative death, ancient war, new lineage or a resolution of the old four/two-returned, bell, angle-ring, ledger or network mysteries. He did not invent Turanan's already-written return tradition. Ordinary practice difficulties are not a new travel-law system.
+-99–100 may develop Dhruv's personal reasons and lived limitations;101 may begin Sitara's own bounded ordinary account, **mentor arc remains OPEN at101** for102. No newly named important mentor/relative/guardian, precise origin/exile/parentage, pending lore or secret power-transfer law. A recollection belongs to what its teller lived and actually shares. Sitara's relationships do not release Rukmini's maternal origin or identify a biological sister; no Ira genealogy/provenance answer, inherited memory or source-free sight. Remaining important biographical details require selection rather than invention.
+- Father81–92 and first Pataal visit/heritage93–97 are CLOSED. All four crossed93 and returned95; no second expedition already agreed or physical arrival reset. Existing old natural passage approval unchanged: mentors verified entry AND return, no new device/blood-key/travel power, no reopened58 portal. Full concealing kavach remains lost/raw intrinsic gold not concealment/cure/mastery/safe count; **Rudra does not inherit Vedic healing**.
+- Preserve actual individual clinical reviews, residual injuries, rest, finite helpers and functional permissions. Modest ward/courtyard progress requires current assessment and actual supported trials; it is not combat or renewed realm-travel clearance. Covered left/limited ordinary right eye, hand-sensation costs, wrist/rightankle/leftknee and shoulder/ribs/knee limits persist. Dhruv/Vedant retain own care; parents remain Varanasi with agency, not compulsory escorts. No automatic group consent, private-transcript forwarding, universal recognition or hospital coordinates.
+- Keep **attacks103–110**, Unbound:Pataal111–118, **Devta/Maha Devta111**, Aegis identity110–115, **Kaal119**, maternal131–142 and Ira187–190 gates intact. Adhira past-only, Ram's manipulator knowledge/private60 whisper private. No pending names/important new roster, literal ghosts/ancestor witnesses, independent-mystery equation or **villain POV**. Book boundary does not unlock later content.
+- Protect0–98/all prior notes+plans/Books1–4 merges/original51/checker. Only two Bible index labels+this appended contract, Part27 test boundary+two new regressions and append-only Book5 merge alter existing files. Complete Book5 merge81–100 as **20 exact numeric sources once/END-stripped**, then FREEZE it before101; create separate Book6 merge beginning101. Neutral book-05/book-06, subtitles unassigned. Each4300–6200w/future-document epigraph/short reviewed chunks/one END, consequence notes, strict preservation/reveal/exact assembly/merge checks,36 regressions, required Book3+4+5 and actual Book6 when present. Book5 completion continuity audit at100, final all-six-book/clean-local-origin-live/main audit at101. Separate chapter commit+IMMEDIATE current-branch push BEFORE next draft, present/Hinglish progress. **Stop after Ch 101; no102/main publication.**

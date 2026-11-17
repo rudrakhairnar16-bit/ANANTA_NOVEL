@@ -1,0 +1,41 @@
+# Ch93 — The Way There and Back
+
+**Final4,386w. Firstauthorized93–95; STOP95/no96/main publication.** Baseline758e303/211files/208byteprotected exceptBible2indexlabels+26/test25bound+2additions/appendmerge. Protect0–92/priornotes+plans/Books1–4merges/original51/checker. Book5subtitleunassigned. **Father81–92arcCOMPLETE; Pataal93–97visitARCOPEN, actualallfourcrossingdelivered93.** Startsday60openfathercall, actualelapsed61–81throughreviews/recovery/routeinspection/roadtravel/reunion/newchoice/crossing. Merge81–93/13sources/**56,626w**.
+
+## Newrouteapproval / direct92answer
+
+Userexplicitlyselected **verified_passage / “Mentor-verified passage”**: oldnaturalpassage, existingmentorsverifyENTRY+RETURN, no newdevice/bloodkey/travelpower. Part26recordsONLYthisboundedapproval; no namednewguide/guardian/rite/portal-openingability/travellawsystem/oldmysteryequation. NewEarthapproachoutsideMirzapurinstonecountry(notVaranasialluvialcave/hospitalcellar/exactcoordinates/templeclaim).
+
+First **“Dono taraf se dekhkar…Jahaan se jaayenge, wahin se laut bhi sakte hain—yeh pehle dekhna hoga.”** RamgivesconcreteoldnaturalpassageinspectionplanDhruv+Sitara; NOTinfantarrivalmechanism/claimedpersonaladultreturn/currentperfectmap/58destroyedportal/device. Heofferedpreparationhelpnotpersonaltravel; statesowncarepreventscommitment. Clinicallynecessarycarequestionsactuallyreachteams61; familycallends/rest, no sameeveningdeparture.
+
+## Explicitclinicalprogression / realpermissions
+
+61actualindividualassessment: currentstablequieterbreathing/chairmeals/windowfatigue/wrist+rightankle+leftkneeallheard; stillnoload/stand/travel. Veerindependentshoulder/ribs/knee; AadhyahandandIraordinaryright/coveredleftquestions, onlyconsentedfunctionalupdates. Clinicianexplainsfunctionalconditionsnotunknownrealmzero-riskcertification.
+
+62–68actualcare/physio/reviews/rest/nightchecks;63poorsleepshorterinterval,65easierseatedmealstillbrace/noanklefullload, improvementnotinstanthealing. **69firstexplicitreview-authorizedbriefassistedstand withlimitedprotectedankleload/goodhandsupport/wristout/leftkneeobserved**, lightheadednessreported/actualhelpedSIT/check/rest; nolostprogressshame.72reviewedassistedtransferbetter;75clinician+therapistallowfewprotectedassistedwardsteps/goodhandaid/chairremainder;76poorsleepshorter, no passivitytimejumpcure.
+
+Veerownsupervisedshortwalkingafterkneereview/shoulderrestricted/ribsymptomshonest, notpersoncarryingotherthree. Aadhyadressingsreducedonlywherehealed/fingeralteredsensationpersists/norecoveredfullgrip; IralefteyeSTILLprotected/rightordinaryuseimprovesinshortintervalsNOTnewtier/reflection.
+
+77INDIVIDUALregionaltransportassessmentsbasedonactualtrials: supportedseats/limbs/pauses/receivingcare/follow-up/help, NOTblanketrealm/combatclearance. Vedantownforearmreview/limitedhelp/notsolelifter+driver; twosuitableordinarytransports/realdrivers/paidfinitearrangementnotinfinitereserve/idlevehicles. Parentsactuallyinformed77, remainVaranasiwithowncare/agency/Dadinotcompulsoryescort.78actualPrayagraj→Mirzapurroadtrips/stops/ankleadjustment+check/actualreceivinghandover/rest/care-onlyarrivalmessages. Boysfirstphysicalreunion78beforevehiclesmove, notrewritingearlierphonesasmeetings.
+
+79receivingreviews+restBEFOREgirls'actualphysicalreunion. Humanjokes/lightgoodhandtouchwithhandprotection/shortordinaryeyeuse/noheavyhug; girlsfirstdirectrawcoloursviewnotrestoredkavach/mastery. Bag/equipment/medplanreallytransfer. Noearlierunexplainedintercityreunion.
+
+## Actualverification / finalinformedchoices
+
+Dhruvownclosedbuttenderhandreview+Varanasihandover→actualroadtravelMirzapur. WithSitaraavailableingapswhilegirls'carecovered, physicallyinspectoldnaturalpassage/turningplace, **goTHROUGH/RETURN/receivingcontacthearsreport**, notjustpromisedinspection. ActualfindingsreachRudraandcompanionsbeforechoice. **“Hum guzre. Waapas aaye. Tumhaare bina.”** No inheritablekeyorformtomaintain. LocalworkingSKETCHofinspectedlineonly, NOTcosmicmap/Ira171discrepancy/oldnotebookancestryproof. Wideassistedchairline/lowunevenlip+loosegrit/broadturning-restarea; uninspectedstructuresNOTcertifiedsafe/wholePataalmap/census.
+
+80afteractualstaffednight, teamsreviewroute+actualfunction/restrictionsforshortassistedouting/returncriteria—neitherhomogenousall-fitnorunfamiliarrealmdeclaredharmless. Water/existingcareitems/restEarthside/receivingcontact/actualreturntransport/returnbeforecareintervalarranged; finiteattendant+transporthours. EachgivesNEWactualinformedchoiceforthislimitedvisit: Aadhyaexplicitthisshortvisitonly; Iraquestion+answerthenYESwithspokenedges/rest; Veerownbodylimits/notshield; Rudraownyes. Earlierconditionalanswersnotretconned.
+
+## Actual81crossing / exactincoming94
+
+80actualfamilyupdategiveslimitedplan/receivingcare/expectnextEarthsideupdate; Ram **“Jo dekho, wahi bataana…Mere liye pehchaanne ki koshish mat karna.”** Noancestorfamilyaddress/relicrequest/guaranteedmobilecoverage; mother+Dadifamiliarshirtjoke/ownrest. Actualnight80–81/checks/restbeforevehicles.
+
+81actualassistedroadapproach/unloading/rest/symptomchecks/Earthsidecarecontact/returnvehicles. **VedantstaysEarthsidecare+transportcoordinator**, notteleportswithgroup. **Dhruv+SitararechecklineTHROUGHANDbackbeforegroupfollows**; onlyinspectedfirststretch. Sitara→Iraspokenedgesonevoice; Aadhyaownprotectedhands, Veerownaid, Rudraassistedchair. AtlipRudradoesapprovedbriefpartial-loadassistedtransferwithfitattendant, emptychaircarriedacrossbyDhruvwithinhandlimits, thenresettled; no badwristpush/Veerfullbearer/newpower/source.
+
+**AllfouractuallycrossnaturalpassageintoPATAAL**, Dhruv/Sitara/fitattendantwiththem. No gateasksname/blood/futureIraancestry/newportal/powerunlock. Coolairreportednormally/nobreathdistress/newcure. Firstviewpaleruinedstone/road/rooflessbuildingsonverifiedturningside, no familyhomeID/census/ghostmessage/ancestorvoiceorcurrentattack.
+
+Final **“There was a doorway ahead of him. / Nothing behind it was indoors.”** OneunansweredarrivalIMAGE, notanotherpostponedjourney.94immediatecontinuationday81atthefirstbroadturning/restplaceINSIDEPataal; actualinspectedreturnroutebehindthem. Groupstillinjured/shortvisitnotwholeplanetclearance. No94proseyet. Arc93–97OPEN.
+
+## Production/gates
+
+Five reviewedchunks **885/931/874/825/871w**, final4386/oneEND93/3linefutureIraregisterepigraph/immediateanswer/punches+reunionhumour/subtextchair+shirt. Strict208/211preservation/quotes/garble/repetition/latergates/exact5chunkassembly/32regressions/requiredBook3+4+actualBook5 **PASS** (32/32 regressions; requiredBook3+4+5 canon PASS, only pre-existing50 length warning). Mentorhistories97–102/attacks103–110/Unbound:Pataal111–118/Devta111/Aegis110–115/Kaal119/maternal131–142/Ira187–190/private60whisper/Rammanipulatorknowledge/pendingnames/independentmysteriesintact. Fullconcealingkavachgone/intrinsicgoldnotcover/cure/form/safecount/fusion, RudranotVedic-healingheir; exposurewithoutuniversalrecognition/wardcoordinates/heroknowledgeofexternalsheet. No villainPOV. Separate93commit+immediatecurrentbranchpush BEFORE94draft, present/Hinglishprogress; finalALLFIVEBOOKSdue95. **STOP95/no96/main publication.**

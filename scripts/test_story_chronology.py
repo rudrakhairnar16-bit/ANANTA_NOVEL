@@ -103,7 +103,170 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Ch 187–188: **IRA'S SAKSHI KUL REVEAL.**", self.saga4)
         self.assertIn("Ch 189–190: **THE CHOICE AFTER THE ANSWER.**", self.saga4)
         self.assertIn("Enough proof remains", self.saga4)
-        self.assertIn("Only Ch 61 is authorized now", self.bible)
+        self.assertIn("Only the Ira witness-lineage core", self.bible)
+
+    def test_later_explicit_batch_does_not_unlock_lore(self):
+        batch = self.bible.split("## PART 15:", 1)[1].split("## PART 16:", 1)[0]
+        self.assertIn("Ch 62–64 only", batch)
+        self.assertIn("Stop after Ch 64", batch)
+        self.assertIn("all other reveal gates remain unchanged", batch)
+
+    def test_next_bounded_batch_preserves_split_and_recovery(self):
+        batch = self.bible.split("## PART 16:", 1)[1].split("## PART 17:", 1)[0]
+        self.assertIn("Ch 65–67 only", batch)
+        self.assertIn("66–73 multiple-city defense/team split", batch)
+        self.assertIn("not permission to skip recovery", batch)
+        self.assertIn("Stop after Ch 67", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
+
+    def test_through70_batch_preserves_limits_and_later_reveals(self):
+        batch = self.bible.split("## PART 17:", 1)[1].split("## PART 18:", 1)[0]
+        self.assertIn("Ch 68–70 only", batch)
+        self.assertIn("Stop after Ch 70", batch)
+        self.assertIn("66–73 multiple-city defense arc", batch)
+        self.assertIn("emergency action is not retroactive combat clearance", batch)
+        self.assertIn("full kavach shatter before79", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
+
+    def test_through73_closes_only_regional_defense_with_care_limits(self):
+        batch = self.bible.split("## PART 18:", 1)[1].split("## PART 19:", 1)[0]
+        self.assertIn("Ch 71–73 only", batch)
+        self.assertIn("approved66–73 multiple-city defense arc", batch)
+        self.assertIn("No tournament before74", batch)
+        self.assertIn("light duty is not combat clearance", batch)
+        self.assertIn("post48h reassessment", batch)
+        self.assertIn("Pending names/lore remain pending", batch)
+        self.assertIn("Stop after Ch 73", batch)
+
+    def test_single74_opens_tournament_without_resetting_medical_cliff(self):
+        continuation = self.bible.split("## PART 19:", 1)[1].split("## PART 20:", 1)[0]
+        self.assertIn("Ch 74 only", continuation)
+        self.assertIn("already-approved74–78 tournament arc", continuation)
+        self.assertIn("medical alarm first", continuation)
+        self.assertIn("spectator permission is not permission to fight", continuation)
+        self.assertIn("no full shatter before79 or origin answer before81", continuation)
+        self.assertIn("Stop after Ch 74", continuation)
+
+    def test_three_chapter_default_and75_77_preserve_story_gates(self):
+        standing = self.bible.split("### 12.7 ", 1)[1].split("## PART 13:", 1)[0]
+        batch = self.bible.split("## PART 20:", 1)[1].split("## PART 21:", 1)[0]
+        self.assertIn("Three chapters per batch", standing)
+        self.assertIn("three chapters per batch", batch)
+        self.assertIn("Ch 75–77 only", batch)
+        self.assertIn("falling injured porter immediately", batch)
+        self.assertIn("spectator permission is not combat clearance", batch)
+        self.assertIn("no full kavach shatter before79", batch)
+        self.assertIn("no father-origin answer before81", batch)
+        self.assertIn("Stop after Ch 77", batch)
+
+    def test78_80_closes_book4_without_early_origin_or_mastery(self):
+        batch = self.bible.split("## PART 21:", 1)[1].split("## PART 22:", 1)[0]
+        self.assertIn("Ch 78–80 only", batch)
+        self.assertIn("No full shatter in78", batch)
+        self.assertIn("actual complete loss", batch)
+        self.assertIn("true signature exposed to all Lokas", batch)
+        self.assertIn("No father-origin answer before81", batch)
+        self.assertIn("no villain POV", batch)
+        self.assertIn("not a new Swaroop", batch)
+        self.assertIn("Stop after Ch 80", batch)
+
+
+    def test81_83_opens_only_paternal_core_with_no_cost_reset(self):
+        batch = self.bible.split("## PART 22:", 1)[1].split("## PART 23:", 1)[0]
+        for phrase in (
+            "Ch 81–83 only", "81–92 father-origin reveal",
+            "Ram / Daavansh, Pataal, Asuran Kul",
+            "Maternal origin remains gated", "No villain POV",
+            "No realm visit before93", "inherited Vedic healing",
+            "Book5 subtitle unassigned", "Stop after Ch 83",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test84_86_keeps_paternal_truth_and2020_inside_later_gates(self):
+        batch = self.bible.split("## PART 23:", 1)[1].split("## PART 24:", 1)[0]
+        for phrase in (
+            "Ch 84–86 only", "81–92 father-origin arc remains open",
+            "Yeh hukm kisne diya tha?", "supra-Kul Loka authority",
+            "Devta/Maha Devta111", "2020 defeat of Adhira",
+            "before2020", "Ram's private manipulator knowledge stays private",
+            "Kaal119", "lived household years", "no villain POV",
+            "No realm visit before93", "Stop after Ch 86",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test87_89_continues_history_without_early_journey_or_inherited_cure(self):
+        batch = self.bible.split("## PART 24:", 1)[1].split("## PART 25:", 1)[0]
+        for phrase in (
+            "Ch 87–89 only", "81–92 father-origin arc",
+            "Aap mujhe Pataal dikhaayenge?", "No realm visit before93",
+            "Vedic upbringing / learned healing",
+            "Rudra does not inherit Vedic healing",
+            "each friend's right to choose", "Devta/Maha Devta111",
+            "Kaal119", "Ram's private manipulator knowledge stays private",
+            "villain POV", "Stop after Ch 89",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test90_92_closes_paternal_arc_without_early_visit_or_absolution(self):
+        batch = self.bible.split("## PART 25:", 1)[1].split("## PART 26:", 1)[0]
+        for phrase in (
+            "Ch 90–92 only", "81–92 father-origin arc",
+            "invitation to Veer immediately", "each friend's right to choose",
+            "Rudra does not inherit Vedic healing",
+            "automatic forgiveness", "No realm visit before93",
+            "Devta/Maha Devta111", "Kaal119",
+            "Ram's private manipulator knowledge stays private",
+            "villain POV", "Stop after Ch 92",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test93_95_uses_approved_passage_and_actual_visit_without_early_power(self):
+        batch = self.bible.split("## PART 26:", 1)[1].split("## PART 27:", 1)[0]
+        for phrase in (
+            "Ch 93–95 only", "93–97 Pataal visit arc",
+            "Mentor-verified passage", "an old natural passage",
+            "entry and return verified by existing mentors",
+            "No new device, blood-key or travel power",
+            "actual Pataal crossing within93–95",
+            "individual reassessment", "informed choice",
+            "Mentor backstories97–102", "Devta/Maha Devta111",
+            "Kaal119", "villain POV", "Stop after Ch 95",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test96_98_finishes_visit_and_opens_only_existing_mentor_history(self):
+        batch = self.bible.split("## PART 27:", 1)[1].split("## PART 28:", 1)[0]
+        for phrase in (
+            "Ch 96–98 only", "Father81–92 is CLOSED",
+            "actually crossed in93 and returned in95",
+            "No mentor backstory before97", "mentor backstories97–102",
+            "Vedant as Ram's former student", "shared-guru identity",
+            "individual post-visit reassessments",
+            "Rudra does not inherit Vedic healing",
+            "attacks103–110", "Devta/Maha Devta111", "Kaal119",
+            "villain POV", "Stop after Ch 98",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test99_101_crosses_book_boundary_without_closing_mentor_arc_early(self):
+        batch = self.bible.split("## PART 28:", 1)[1]
+        for phrase in (
+            "Ch 99–101 only", "Book5 ends100; Book6 starts101",
+            "mentor backstories97–102", "mentor arc remains OPEN at101",
+            "20 exact numeric sources once/END-stripped",
+            "FREEZE it before101", "individual clinical reviews",
+            "Rudra does not inherit Vedic healing",
+            "attacks103–110", "Devta/Maha Devta111", "Kaal119",
+            "villain POV", "Stop after Ch 101",
+        ):
+            self.assertIn(phrase, batch)
+
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -152,6 +315,54 @@ class CheckerBoundaryTests(unittest.TestCase):
         ):
             with self.subTest(term=term):
                 self.assert_gate(term, before, at)
+
+    def test_pataal_release_does_not_release_later_hierarchy_or_fusion(self):
+        for term, before, at in (
+            ("Pataal", 80, 81),
+            ("Maha Devta", 110, 111),
+            ("Dvandva", 130, 131),
+        ):
+            with self.subTest(term=term):
+                self.assert_gate(term, before, at)
+
+    def test2020_flashback_release_does_not_move_divine_title_gate(self):
+        self.assert_gate("Adhira", 80, 81)
+        self.assert_gate("Devta", 110, 111)
+
+    def test_next_father_batch_does_not_release_later_names(self):
+        for number in (87, 88, 89):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_paternal_arc_close_does_not_release_later_names(self):
+        for number in (90, 91, 92):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_first_pataal_visit_does_not_release_later_names(self):
+        for number in (93, 94, 95):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_mentor_backstories_do_not_release_later_names(self):
+        for number in (96, 97, 98):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test_book_boundary_does_not_release_later_names(self):
+        for number in (99, 100, 101):
+            result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
         result = self.run_checker(
