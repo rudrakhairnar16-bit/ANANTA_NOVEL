@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 # ANANTA — COMPLETE MASTER BIBLE FOR AI WRITING AGENT
-# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–21)
+# Version: 9.1 FINAL (LOCKED; approved amendments in Parts 12–22)
 # ═══════════════════════════════════════════════════════════
 
 ---
@@ -1073,7 +1073,7 @@ The gods remember. Humanity forgets. Write accordingly.
 
 ---
 
-**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–21 below)*
+**END OF MASTER BIBLE v9.1** *(content locked; superseded/extended ONLY by approved Parts 12–22 below)*
 **ANANTA — THE GODS REMEMBER. HUMANITY FORGETS.**
 
 ---
@@ -1319,3 +1319,17 @@ The Sakshi name is gated until187 in the checker. Approved future canon belongs 
 - **No father-origin answer before81**; no gated parent names/lineage/realm explanation, maternal-origin reveal, private60 whisper knowledge, premature Ira ancestry/provenance answers or activation of pending names/lore. Keep independent mysteries independent. All-Lokas exposure can be established by external effects/objects/anonymous observers only: **no villain POV**, named new ruling roster, reopened destroyed58 device/portal or ancestor-power download.
 - Preserve the three-city split and actual individual medical care, injuries, return/travel permissions, family agency and honest communication. Full-shatter emergency requires immediate patient/bystander response and real consequences, not convenient universal healing or unexplained reunion.
 - Ch0–77/prior notes+plans/Books1–3 merges/locked contracts unchanged. Each new chapter4300–6200w/future-document epigraph/reviewed short chunks/one END; Book3+actual Book4 checks, numeric merge, separate commit+immediate current-branch push after EACH before next. Neutral Book4 metadata; merged61–80 must contain20 sources once/numeric/END-stripped. **Stop after Ch 80; no81/main publication.**
+
+
+---
+
+## PART 22: BOOK 5 — CH 81–83 / FATHER-ORIGIN ARC OPENS
+
+**Authority:** “Continue next batch” after80, under the three-chapter default, authorizes **Ch 81–83 only**. Part21's completed stop80 is historical. Open the already-approved **81–92 father-origin reveal**, not the whole twelve-chapter arc. No main publication requested.
+
+- Answer80's direct family-call question immediately with real paternal-origin truth: **Ram / Daavansh, Pataal, Asuran Kul**. A new name does not replace his lived Earth family or make the son's injuries/control problems disappear. Reveal meaningful new information in each chapter; do not stretch the answer into three more partial-only postponements.
+- The existing Bible permits the infant's Earth arrival in Varanasi, Vedic adoption/learned healing and the Asuran massacre/parents sending their infant away within81–92. Use only that approved core. An infant does not narrate remembered battles as eyewitness testimony; distinguish lived childhood memory from later-learned family history. No invented named grandparents, detailed escape mechanism, massacre date, new ruler/antagonist roster or proof-artifact genealogy. Full remaining history stays within its later authorized execution.
+- **Maternal origin remains gated**: no mother's alias/realm/celestial pedigree or equation of the two colours with a complete parental genealogy. No Aegis-leader identity answer, private60 whisper knowledge, premature Ira ancestry/provenance, pending names/lore or reconciliation of independent mysteries. **No villain POV**; no checker changes or release of later gated terms merely because81 is now open.
+- Whole kavach remains gone; all-Lokas exposure is not universal personal recognition/automatic ward coordinates. No rebuilt seal, free healing, safe count, new form, repeatable first-form mastery or inherited Vedic healing for Rudra. The truth does not absolve childhood harm or compel forgiveness/revenge.
+- Carry day37's supported short call/acute observation forward; preserve Prayagraj/Mirzapur/Varanasi split and individual injuries, rests, clinical permissions and honest communication. **No realm visit before93**, physical reunion or unearned discharge.
+- Protect0–80/all prior notes+plans/Books1–4 merges/original51/checker and existing Bible contracts. Neutral **book-05** metadata; Book5 subtitle unassigned. Each new chapter4300–6200w/future-document epigraph/short reviewed chunks/one END, notes, required Book3+Book4+actual Book5 canon, numeric Book5 merge and separate commit+immediate current-branch push BEFORE the next chapter. **Stop after Ch 83; no84/main publication.**

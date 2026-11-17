@@ -160,7 +160,7 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("Stop after Ch 77", batch)
 
     def test78_80_closes_book4_without_early_origin_or_mastery(self):
-        batch = self.bible.split("## PART 21:", 1)[1]
+        batch = self.bible.split("## PART 21:", 1)[1].split("## PART 22:", 1)[0]
         self.assertIn("Ch 78–80 only", batch)
         self.assertIn("No full shatter in78", batch)
         self.assertIn("actual complete loss", batch)
@@ -169,6 +169,19 @@ class OutlineChronologyTests(unittest.TestCase):
         self.assertIn("no villain POV", batch)
         self.assertIn("not a new Swaroop", batch)
         self.assertIn("Stop after Ch 80", batch)
+
+
+    def test81_83_opens_only_paternal_core_with_no_cost_reset(self):
+        batch = self.bible.split("## PART 22:", 1)[1]
+        for phrase in (
+            "Ch 81–83 only", "81–92 father-origin reveal",
+            "Ram / Daavansh, Pataal, Asuran Kul",
+            "Maternal origin remains gated", "No villain POV",
+            "No realm visit before93", "inherited Vedic healing",
+            "Book5 subtitle unassigned", "Stop after Ch 83",
+        ):
+            self.assertIn(phrase, batch)
+
 
 
 class CheckerBoundaryTests(unittest.TestCase):
@@ -214,6 +227,15 @@ class CheckerBoundaryTests(unittest.TestCase):
             ("Swarg", 130, 131),
             ("Kaal", 118, 119),
             ("Dashanan", 178, 179),
+        ):
+            with self.subTest(term=term):
+                self.assert_gate(term, before, at)
+
+    def test_pataal_release_does_not_release_later_hierarchy_or_fusion(self):
+        for term, before, at in (
+            ("Pataal", 80, 81),
+            ("Maha Devta", 110, 111),
+            ("Dvandva", 130, 131),
         ):
             with self.subTest(term=term):
                 self.assert_gate(term, before, at)
