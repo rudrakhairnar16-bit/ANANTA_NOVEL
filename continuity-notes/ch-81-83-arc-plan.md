@@ -1,6 +1,6 @@
 # Ch81–83 — Book5 opening batch
 
-Authority **“Continue next batch”** after80 under three-chapter default. **81–83 only; STOP83/no84/main publication.** Branch `arena/ec1bc639-ananta-novel`, preservation baseline **89c51ea84e99f483a49cdcbbb7793647d3d86d26**. Restored current-branch metadata by exact182-file audit + fast-forward to already-pushed80, no worktree rewrite/duplicate commit. Status: **81 COMPLETE4,373w /82 COMPLETE4,330w;83 unwritten.** Strict/preservation/24 regressions/Book3+4+5/merge PASS;82 separate commit+immediate push before83. Bible22 and24 regressions record execution boundaries, not new lore permission.
+Authority **“Continue next batch”** after80 under three-chapter default. **81–83 only; STOP83/no84/main publication.** Branch `arena/ec1bc639-ananta-novel`, preservation baseline **89c51ea84e99f483a49cdcbbb7793647d3d86d26**. Restored current-branch metadata by exact182-file audit + fast-forward to already-pushed80, no worktree rewrite/duplicate commit. Status: **81 COMPLETE4,373w /82 COMPLETE4,330w /83 COMPLETE4,452w — batch13,155w COMPLETE.** Father81–92 arc OPEN, not complete. Strict/preservation/24 regressions/all-five-book canon/merge PASS; separate chapter commit+immediate push pipeline maintained. New merge81–83 three sources. **STOP83/no84/main publication.** Bible22 and24 regressions record execution boundaries, not new lore permission.
 
 ## Fixed outgoing80
 
