@@ -300,7 +300,7 @@ class OutlineChronologyTests(unittest.TestCase):
 
 
     def test108_110_resolves_rolling_timber_and_closes_only_current_raid(self):
-        batch = self.bible.split("## PART 31:", 1)[1]
+        batch = self.bible.split("## PART 31:", 1)[1].split("## PART 32:", 1)[0]
         for phrase in (
             "Ch 108–110 only", "attacks103–110 in Pataal",
             "The baulk began to roll towards her back.",
@@ -311,6 +311,22 @@ class OutlineChronologyTests(unittest.TestCase):
             "Rudra does not inherit Vedic healing", "Book5 freeze",
             "Devta/Maha Devta111", "Kaal119", "No villain POV",
             "Stop after Ch 110",
+        ):
+            self.assertIn(phrase, batch)
+
+
+    def test111_113_opens_only_prepared_control_and_approved_threat_arc(self):
+        batch = self.bible.split("## PART 32:", 1)[1]
+        for phrase in (
+            "Ch 111–113 only", "111–118 Unbound:Pataal / Maha Devta-level battle arc",
+            "Haath khulne se pehle", "same day97 evening",
+            "Forward elapsed weeks require actual recovery",
+            "Emergency action is not combat clearance",
+            "a clear line BEYOND the target", "My hand opened. The work did not stop.",
+            "Full concealing kavach remains lost", "Rudra does not inherit Vedic healing",
+            "attacks103–110 are CLOSED", "Devta/Maha Devta titles unlock at111",
+            "unnamed, externally shown threat", "entry AND return verification",
+            "Kaal119–120", "Book5 freeze", "Stop after Ch 113",
         ):
             self.assertIn(phrase, batch)
 
@@ -429,6 +445,15 @@ class CheckerBoundaryTests(unittest.TestCase):
             result = self.run_checker([(number, "Devta Kaal Swarg Sakshi")])
             self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
             for term in ("Devta", "Kaal", "Swarg", "Sakshi"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
+
+    def test111_113_releases_rank_titles_not_later_names(self):
+        for number in (111, 112, 113):
+            released = self.run_checker([(number, "Devta Maha Devta")])
+            self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
+            result = self.run_checker([(number, "Kaal Swarg Sakshi Dvandva")])
+            self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+            for term in ("Kaal", "Swarg", "Sakshi", "Dvandva"):
                 self.assertIn(f"PLACEMENT LEAK '{term}'", result.stdout)
 
     def test_three_digit_chapters_scanned_and_sorted_numerically(self):
