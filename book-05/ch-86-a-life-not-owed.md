@@ -227,7 +227,7 @@ The humour stayed between the two bodies they actually had. Veer shifted with he
 
 Then he gave his friend the missing parts of the account.
 
-Ram had held the authority above human Kuls, those governing the Lokas, responsible for choosing the massacre. Not another local rival family. The father had also named the opponent he defeated in 2020: Adhira. That later encounter had made an existing fear worse; it had not begun the training which started when Rudra was one.
+Ram had held the authority above human Kuls, those governing the Lokas, responsible for choosing the massacre. Not another local rival family. The father had also named the opponent he defeated six years before Rudra's birth: Adhira. That encounter had made an existing fear worse. The training had come years later, when Rudra was one; the sequence did not make its cost necessary.
 
 He did not supply the fight his father had remembered in private. He knew only the parts Ram had actually told him.
 
@@ -317,7 +317,7 @@ Before ending, he asked that the new history stay within the call for now.
 
 "Haan," Veer said. "Tu khud bataana jise bataana hai."
 
-"Girls ko 2020 waali poori baat nahi boli abhi."
+"Girls ko mere janam se pehle waali poori baat nahi boli abhi."
 
 "Meri taraf se nahi jaayegi."
 

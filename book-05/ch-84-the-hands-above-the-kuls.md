@@ -539,21 +539,21 @@ For years, Rudra had imagined his father's victories as the places where fear mu
 
 "Phir?"
 
-"2020 mein bhi ek ladaai jeeti thi," Ram said. "Uske baad bhi ghar aake darr khatam nahi hua."
+"Tumhaare janam se chhe saal pehle bhi ek ladaai jeeti thi," Ram said. "Uske baad bhi ghar aake darr khatam nahi hua."
 
 Rudra lay still.
 
-That year belonged to his own memory. Not the arrival of an infant he could only imagine. He had already been training for years; he said so, and Ram agreed at once.
+That fight belonged to a time before his own life. Six years before it, Ram confirmed when he asked. Rudra could not search his childhood for the day his father had returned; there had been no child waiting for him then.
 
 "Pehle se darr tha. Us saal aur badha."
 
 Rudra could hear the distinction without yet knowing the event inside it.
 
-His father had gone out into a world the boy knew only in pieces, fought somebody and come home. The same father had stood in the same courtyard afterwards, and Rudra had understood his silence as another judgement on whether the morning's work had been good enough.
+His father had gone out into a world Rudra had not yet entered, fought somebody and come home. Years later, that fear had still occupied the courtyard where Rudra trained. The boy had understood his father's silence as another judgement on whether the morning's work had been good enough.
 
 He looked at the phone.
 
-"2020 mein kya hua tha, Papa?"
+"Mere janam se chhe saal pehle kya hua tha, Papa?"
 
 ---
 

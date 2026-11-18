@@ -20,3 +20,9 @@ A 15-book supernatural fantasy series set in 2026 Varanasi, India. Original fict
 | 6 | [Unbound: Pataal](book-06/ANANTA-BOOK-06-MERGED.md) | 101–120 |
 
 These individual titles are user-approved; Saga 2 remains **THE KUL WARS**. Book directories, chapter prose and numbering are unchanged.
+
+## Completed Book 7
+
+[Book 7 — Chapters 121–140](book-07/ANANTA-BOOK-07-MERGED.md)
+
+Book 7 is complete. Its individual subtitle remains unassigned; no new title is implied by this link.

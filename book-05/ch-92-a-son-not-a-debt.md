@@ -454,7 +454,7 @@ A little was possible. Not an unlimited evening.
 
 The wrist stayed in the brace. The ankle stayed protected. Beyond the window, Prayagraj's lights belonged to streets he could not yet walk. His friends had their own bodies and their own answers; his mother had her rest; the father at the other end was still an injured man, not a doorway which love could force open.
 
-Rudra knew his father's birth name now. He knew why an infant had been sent away, where he had been found, that there had been years of being raised rather than merely years of preparing to fight. He knew the fear had not begun in 2020 and that a real victory then had not taught his father how to stop being afraid.
+Rudra knew his father's birth name now. He knew why an infant had been sent away, where he had been found, that there had been years of being raised rather than merely years of preparing to fight. He knew the fear had preceded his own birth, that the victory six years before it had not taught his father how to stop being afraid. His training had begun afterwards, when he was one.
 
 Those truths no longer waited outside his life for permission to enter.
 

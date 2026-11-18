@@ -1,0 +1,71 @@
+# Ch123 — A Place in the Shade /121–123 BATCH CLOSE
+
+## Authority / production / stop
+
+THIRD and LAST authorized **121–123 ONLY**, Bible **PART 37**. Current arena/0fa0620c-ananta-novel, base/main eae5ae186cfdd4d1d82946ff3d474562ca5cdab9. Neutral Book7; no subtitle/124 draft/incomplete-book main publication. Journey121–126 remains OPEN,127–130 daily-life and131–142 maternal windows unchanged.
+
+121 own **755cbf7bcc6da12ee3cf49af677a703830853348**,122 own **eee5f7be797c36be638db3f05d240494d36b6928** each IMMEDIATELY pushed, clean/local=tracking=LIVE/main unchanged verified and individually presented BEFORE next draft. Both sources AND notes frozen at their own commits; completed122 plan/merge prefixes protected.
+
+**4,503 words**, five individually read/cleaned fragments **822/839/856/971/1015**; exact assembly/3-line future Ira-register artifact/ONE END123/ONE final source-basis question. **25,716bytes /SHA2564ce08ec12cc4559eda60d44eb4001943d542da44bf27ac62663257a8fd9c8d5b**. Book7 exact numeric END-stripped **121–123 /3 sources /13,571w**. Full batch4,600+4,468+4,503. Stop123, not a completed Book7; no PR/main publication.
+
+## FIRST payoff / first far-side care / particular observed cruelty
+
+Same184 first arrival, NINE at Swarg-side opening, TWO remain with Earth vehicle. A's122 **“Kyun?”** answered FIRST **“Unhe yahin baithna hai.”** One unnamed man's preference, not a revealed reservation rule/divine command/caste law. He points towards sun; accompanying worker explicitly refuses to wait there and will return if suitable shade cannot be found.
+
+Ordinary cloth-sorting woman CHOOSES temporary space/stool until her own work needs it. Sitara actually checks few level/clear paces on the same first-court paving/turn back before chairs move. R main chair/Ira spare/Veer offered stool; FIRST clinical rest/support/symptom check actually happens before more inquiry. Familiar back ache, ankle comfortable/no new dizziness/whiteness. I ordinary right eye closes/left remains COVERED. A observes plants/water/cloth WITHOUT healing or biological recognition. Blue scarf/humor/subtext continue122, not romance or hand recovery.
+
+Same pale-wrap man actually KICKS a worker's water bucket into planting bed, off the return line; orders refill. Particular humiliating act witnessed, no new battle/acute injury/sender identity. Approaching embroidered visitor OBJECTS to kick and unused shade; ordinary woman independently helps. Neither rank/nature/allegiance inferred from clothing; **no one identified as Devta/ruler/guardian/Daksh/queen/relative**. Veer gives Ira only observed actions orally; she needn't open eye or use Drishti. Worker actually sets weight down at A's call, rests by own choice, later takes bucket towards water; R does NOT invent his whole later day. Real unequal conduct, NOT full154–160 Cycle moral-indifference doctrine, whole-realm guilt or religious scripture claim.
+
+Woman's stool actually returned/space cleared/thanks accepted; voluntary brief hospitality not permanent employment or forced free care. Window awning on same court checked before short chair move; clinical check/own choice before further time.10:45 watch; no long unsupervised excursion.
+
+## Actual source progress / privacy / bounded hearing, not repair law
+
+Unnamed ordinary paper-window receiver first does an ordinary cloth-count correction with another worker's answer, then speaks directly with party at low ledge; offers seat/stool without physical test. R identifies own travel from **Prithvi**, not family/private medical details. Explicit submitted question:
+
+**“Jo Devta saaton ke santulan ka kaam karte hain…unka kaam samajhne ke liye hum kis se baat kar sakte hain?”**
+
+Actually written/read back; Ira asks to retain *samajhne*, listens after own consent/eye stays closed; notebook remains CLOSED. R separates own experiences from things reported by others and does NOT publish Ram's pre-birth encounter/Kaal/Aegis/Cycle-failure/private family account. Counterman knows only generic question/local inquiry, not those details. No important new name/Kul/expert biography, lord/officer/Right-Hand equation or maternal alias/history.
+
+Counterman ACTUALLY takes question through doorway to ask for an interval, returns BEFORE agreed2-minute additional wait ends. Arranges **morning after next =186**, SAME window, short hearing with an unnamed person familiar with existing balance-maintainers' work. This is a REAL offered hearing/source-access gain, NOT actual divine interview, new divine roster/hierarchy, full mechanism, technical archive/measurement system, guaranteed repair or guaranteed honesty. Only R's OWN first name with others' consent is contact; no pedigree/blood-key. Ordinary copy of OWN question/time/preparation note, not origin artifact/sigil/map. Read aloud twice as requested; permission-bound paper custody counterman→Sitara dry pocket→receiving worker at Rrequest→stand for R ordinary eyes→cupboard. No Ira provenance/ancestry/vision/eye reward.
+
+Preparation = distinguish own witness account from attributed reports; source evidence remains meaningful, not declared worthless.119–120 Kaal/basic already-failing Cycle reward retained. Patient attendance186 NOT promised: fresh care/review/choices/current route/help/bookings required, counterman doesn't hold a morning forever. No next booking made here.11:15 worker gives return warning, stools returned/chairs turned;11:20 actually leave.
+
+## Actual return / current bodies / exact capacity / finite work CLOSED
+
+- V checks current opening/line, all return same natural bends, no other path, portal/device/power/blood mechanism. At broad place V asks knee rest; R also asks/rests, no fake shoelace/no injured carrier. Ira remains spare, right eye resting/left covering unchanged. At tighter turn spare braked in checked space/S+worker remain; TWO uninjured attendants together manage R angle, second then actually returns to move spare, no cloned hands/compulsory friend grip.
+- **ALL NINE actually reach Earth11:38** =78min beyond10:20, BEFORE11:50 maximum. Driver+Earth worker still there =sameELEVEN. Actual current clinical handover/check, R stationary support adjustment/drink help, I chooses reclining vehicle seat/ordinary supervised move so V may use spare during Earth rest. V/S own forearm/covered-hand restrictions not erased. No faint/new whiteness/new acute complaint; familiar fatigue still care, not combat readiness.
+- Actual return report to Dhruv/ACK after own care, actual ward practical update/accepted receiving confirmation. Food+water/rest from carried supplies; no bonus crossing or request for more free time. Sitara paper remains dry and folded, no physical artifact duplication.
+- **12:20 actual road departure**, before13 latest. Main chair ramp/restraint checks/spare+bags secured/allotherTEN belt seats occupied; same11people. Actual ordinary stop/access checked/washroom and clothing help/privacy/position-restraint recheck. No powered mobility or automatic old ambulance crew.
+- **14:00 actual receiving arrival**, prepared workers accept source-bounded handovers AND own patient answers before travelling care ENDS; supported R transfer/no wrist weight/phone-clothes-belongings accepted. Chairs/equipment inventoried/accepted by hiring worker; no unseen damage cancellation.
+- Quoted balance PAID through booking contact AFTER accepted return, deposit deducted ONCE. Driver vehicle charge ACK; TWO attendants+TWO clinical workers receive/confirm actual accepted DAY FEES. Reserve reconciled. Fixed07:30–16 block/no overtime/finished before16. Minibus ACTUALLY LEAVES; attendants take bags/depart; clinical workers confirm notes accepted/collect bags/DEPART. New day fully CLOSED, no infinite contracted care/unused-hours debt/gratitude waiver/new booking.179 trial/170 inspection/original141 car/old crews remain ENDED. Old damaged ambulance's final property/repair/liability record is NOT settled from this budget, no new fault judgment or forced family bill.
+- Receiving clinician/current team actually examine back+ankle/support pressure after day, record fatigue, ordinary rest/sleep BEFORE further source call. Whole **Unbound:Pataal OFF since118**, no demonstration/Jaagrut activation/Swarg form/healing/mastery/count solution/concealing kavach or inherited Vedic healing. Rwrist/rightankle/leftknee/elbow-grip/back/old unexplained faint remain real. Other bodies' separate aftercare also actual.
+
+## Actual receiving updates / exact outgoing / STOP123
+
+R wakes after checks/rest, dictates OWN arrival/current-check/rest message to agreed parent contact, read back/SENT; Rukmini later ACK, no new remote mother beat or private Cycle audience. Separate friends' replies after THEIR care: V knee checked/rest/future choice open; A precise shade/kick/objection/hospitality/water description (not all-realm moral verdict); I rests eye/NO writing tonight, no forced record to prove presence. R safe-copy reply asks no further response.
+
+R reads plain question/copy with ordinary eyes and staff-held stand, weak grip not used. Requests short Ram-only call AFTER both care intervals; Ram actually replies after own appointment, agrees now/briefly/ALONE. Nurse position check FIRST. R gives current receiving findings and own source-limited journey/window-hearing report; no source account had been bartered at counter. No compulsory family reconciliation/journey; parents retain Varanasi care.
+
+Final~200 words ONE unanswered question on STILL CONNECTED short R–Ram call:
+
+**“Papa, mere janam se chhe saal pehle aapko kis tarah pata chala tha ki saaton ka santulan bigad raha hai?”**
+
+A later separately authorized124 must answer this actual SOURCE-BASIS question FIRST, within remaining time/care/established knowledge. It asks HOW Ram learned the basic failure already disclosed119, not whether it was false, another Kaal naming, automatic repair/non-repair, full154–160 moral flaw, real identity/backstory/split/throne/eighth-realm disclosure. **No new observation/measurement device/pre-birth encounter witness/document/repair law has been canonized by asking.** Use actual established sources or seek approval if new lore is needed; do not invent a proof mechanism to fill the hook. Ram's earlier account stays real and sourced. No hearing186 actually attended or next trip approved;121–126 journey remains OPEN. Culture127–130/maternal131–142/Daksh131+/Aadhya143–150/Ira171–190 later windows stay locked. Mother beat already121; no arc-end afwah before actual arc close. **STOP123; no124 draft/scratch/partial Book7 PR/publication.**
+
+## Validation required before own commit
+
+Whole417 newline-terminated lines/418 viewer lines reread. Exact five hashes/assembly/4300–6200band/oneEND/three-line artifact/one final question/quotes/garble/gates/repetition/prior20word uniqueness. Strict285baseline282immutable/exactBible37 append+narrowchecker+56tests/own121+122 source+notes frozen/append-only completed122 plan and merge prefixes/exact3-source13,571w merge. **56 regressions, ALL SIX canon report bytes identical to baseline, actual Book7 ALL PASS, diff/selective FOUR123 paths**. Audit/delete ONLY123A–E scratch; own123 commit+IMMEDIATE current push/presentation/finalclean=tracking=LIVE/main eae5ae1 unchanged/THREE own commits. Factual PASS to append after checks; no new story beyond123.
+
+
+## Final123 and full-batch pre-commit validation — PASS
+
+Whole417-line source reread; **4,503w /25,716bytes /4ce08ec12cc4559eda60d44eb4001943d542da44bf27ac62663257a8fd9c8d5b**. Five822/839/856/971/1015 individually reviewed fragments/exact assembly/three-line future artifact/oneEND/one final source-basis question/FIRST shade-preference answer/quotes-garble-gates/internal and prior20-word-sentence uniqueness PASS. Mother's unknown history implication removed BEFORE assembly; faint bag-pencil hearing replaced by ordinary nearby cough, one counter stool/object custody/returned worker's unobserved afternoon corrected BEFORE assembly. No source edit after whole reread.
+
+Actual first-court suitable shade+clinical rest/particular kick and independent objection/no divine rank assumption/plain generic question read back+ACTUAL186 SAME-window hearing offered/no private Ram disclosure/11:20 return begins/ALLNINE Earth11:38=78min/actual current care and Dhruv report/12:20 roaddeparture/SAME11restraintplaces/14:00receivingarrival+qualifiedcaretransfer/actual inventory/deposit-once BALANCE+all4helperfees paid-ACK/full finite departures/current aftercare/rest/own parentarrival notice/actual Ram-only chosen call PASS. Existing119 truth retained; source-basis question asks no new proven method/law and does not answer itself. Journey121–126 OPEN,186 patient travel NOT agreed, all important/later reveals locked.
+
+**285baseline282immutable/exact Bible37+narrowchecker+TWO new tests/own121+122 sources AND notes frozen/append-only completed122 plan+merge prefixes/exact3-source13,571w neutral merge PASS.56/56 regressions; ALL SIX completed-book canon reports BYTE-IDENTICAL to baseline; actual Book7 ALL PASS; whitespace diff PASS.** Only accepted historical27/50 length warnings. Exact123A–E hashes/assembly audited; ONLY those five runtime fragments deleted before selective FOUR-path staging. Own123 commit+IMMEDIATE CURRENT-branch push/presentation/finalclean=tracking=LIVE/mainunchanged/three distinct own commits NEXT. **STOP123/no124draft/no partial Book7 PR/main publication.**
+
+
+## User-approved pre-birth chronology erratum
+
+The encounter is **six years before Rudra's birth (~2001 against the approximate ~2007 birth baseline)**; age-one training is AFTER it. Related event wording above is corrected under Bible Part38. No son witnesses the return, remembers that year or trains before the encounter. Reveal gates, care, consent, battle outcome and other story facts are unchanged. Original word counts, SHA256s, fragment receipts, freeze claims and publication commit IDs above remain HISTORICAL records of the delivered pre-repair bytes, not current-source validation. Current counts/hashes and the exact authorized path/replacement audit are in `continuity-notes/prebirth-encounter-chronology-repair.md`. This erratum does not claim newly repaired bytes have been published to main.

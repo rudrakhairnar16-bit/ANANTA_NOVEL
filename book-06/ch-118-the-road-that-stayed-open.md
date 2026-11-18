@@ -450,7 +450,7 @@ The ordinary things mattered. They were not enough to keep the other question ou
 
 He had heard the fear before he had known there was a history to attach it to.
 
-Now he knew about the real fight in 2020, about Adhira defeated and a father returning to a house where the boy had been left to guess why the mornings had become harder.
+Now he knew about the real fight six years before his birth, about Adhira defeated and Ram returning home with fear which would still be there when a son began growing up inside it.
 
 That victory had not brought the fear home smaller.
 

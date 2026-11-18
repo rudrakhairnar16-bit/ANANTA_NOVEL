@@ -20,7 +20,7 @@ Not a sound cut short by somebody reaching the phone. Not the beginning of an an
 
 The nurse moved the edge of the support beneath Rudra's arm. He told her when it stopped pulling. The word remained while that ordinary answer was given; it did not need him to refuse care in order to keep it.
 
-"2020 mein?" he asked when she had finished.
+"Mere janam se chhe saal pehle?" he asked when she had finished.
 
 "Us ladaai mein mujhe chhipe hue haath ki pehchaan mili. Adhira akela ant nahi tha. Woh Kaal ka mohra tha."
 
@@ -34,9 +34,9 @@ His father had come home from a real victory. The person he had defeated had not
 
 "Haan."
 
-Ram did not improve the answer by saying he had only suspected a name he had just given as knowledge. He separated the older fear from the later identification instead. He had begun the boy's training long before 2020. That year had not travelled backwards to give a child the choice of entering it.
+Ram did not improve the answer by saying he had only suspected a name he had just given as knowledge. The identification had come six years before Rudra's birth. By the time training began at one, Ram had long carried it. None of those years could give the child a choice he had never been offered.
 
-"Naam usse pehle nahi jaanta tha," he said. "Khatron ka darr tha. Phir kis ka haath hai, woh bhi jaan liya."
+"Naam us ladaai se pehle nahi jaanta tha," he said. "Khatron ka darr tha. Phir kis ka haath hai, woh bhi jaan liya."
 
 Rudra's mouth had gone dry.
 
@@ -80,7 +80,7 @@ Ram knew who he was naming. He did not know every person Rudra had met on a brok
 
 Rudra let the phone lie where it was.
 
-He wanted to ask how many mornings this name had been in the house without anyone saying it to him. He could not attach a date to each of those silences now, any more than he could when he had first heard about the fight in 2020.
+He wanted to ask how many mornings this name had been in the house without anyone saying it to him. He could not attach a date to each of those silences now, any more than he could when he had first heard about the fight before his birth.
 
 The harm did not need a perfect calendar to have happened.
 
@@ -222,7 +222,7 @@ He could not make the second statement swallow the first simply because the seco
 
 The answer steadied the conversation more than a grander explanation would have done. His father had the account Rudra had given him, not a view through the phone into a place where it had never been raised as a camera.
 
-"2020 mein jo jaana, usmein yeh khatra bhi tha," Ram said. "Sirf Adhira ke peechhe ka naam nahi. Kis cheez ko khatam karne par laga hai, woh bhi."
+"Us ladaai mein jo jaana, usmein yeh khatra bhi tha," Ram said. "Sirf Adhira ke peechhe ka naam nahi. Kis cheez ko khatam karne par laga hai, woh bhi."
 
 He spoke with the certainty of what he was reporting from his own knowledge. He did not offer the boy's bloodied collar as new proof that the balance of every Loka had changed that afternoon.
 
@@ -246,7 +246,7 @@ His father asked whether the position still let him breathe comfortably enough t
 
 Veer. Aadhya. Ira. Sitara.
 
-Not the whole private history of a house they had not lived inside. The name, his father's account of 2020 and the connection to Adhira and Aegis Meridian, the basic explanation of the Divine Cycle and the failing condition Ram had just described.
+Not the whole private history of a house they had not lived inside. The name, his father's account of that earlier fight and the connection to Adhira and Aegis Meridian, the basic explanation of the Divine Cycle and the failing condition Ram had just described.
 
 Ram agreed to those parts of his own account being shared.
 
@@ -308,7 +308,7 @@ For a moment they sounded like people who might have been late to a classroom to
 
 He let them hear it before adding the account it belonged to.
 
-In 2020, Ram had fought and defeated Adhira. Rudra gave the year and the name before the rest, instead of leaving anyone to build the account from something Veer might have heard in an earlier private call. His father was the person who had told him.
+Six years before Rudra's birth, Ram had fought and defeated Adhira. Rudra gave the timing and the name before the rest, instead of leaving anyone to build the account from something Veer might have heard in an earlier private call. His father was the person who had told him.
 
 The victory was real. So was what Ram said he had learned in that encounter: Adhira had been working for a hidden hand, and Kaal was the name by which Ram knew it.
 

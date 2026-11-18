@@ -257,13 +257,13 @@ Rudra wanted to tell them a little more of the family account. Had enough rest p
 
 ---
 
-Rudra asked first whether he had already told them about 2020.
+Rudra asked first whether he had already told them about the fight six years before his birth.
 
 "Nahi," Ira said. "Uski baat nahi hui."
 
 He was glad she answered plainly. The days had begun putting information into different small conversations, and he did not want a friend left guessing because he remembered saying a thing somewhere.
 
-He told them what Ram had actually said: the fight with Adhira, the defeat, the injuries, coming home without leaving fear outside. His training had already been going on for years before that encounter. It was not an explanation of how every first lesson began.
+He told them what Ram had actually said: the fight with Adhira, the defeat, the injuries, coming home without leaving fear outside. The encounter had happened years before his training, which began when he was one. Knowing the order did not make every lesson or every hurt necessary.
 
 He had no detailed scene to give them. His father's remembered struggle had not played itself inside the call.
 

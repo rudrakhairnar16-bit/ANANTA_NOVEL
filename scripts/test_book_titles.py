@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Regressions for the user-approved Book4–6 title metadata.
 
-Titles affect only each merged book's first line, never chapter prose or counts.
+Titles affect only each merged book's first line. Current exact source counts
+include the separately user-approved pre-birth chronology repair (Bible Part38).
 Run: python3 -B -m unittest discover -s scripts -p 'test_*.py'
 """
 
@@ -12,8 +13,8 @@ import unittest
 ROOT = Path(__file__).resolve().parents[1]
 APPROVED = (
     (4, "Bloodlines at War", 61, 80, 89189),
-    (5, "The Asuran Legacy", 81, 100, 86980),
-    (6, "Unbound: Pataal", 101, 120, 87696),
+    (5, "The Asuran Legacy", 81, 100, 87082),
+    (6, "Unbound: Pataal", 101, 120, 87725),
 )
 
 

@@ -183,13 +183,13 @@ class OutlineChronologyTests(unittest.TestCase):
             self.assertIn(phrase, batch)
 
 
-    def test84_86_keeps_paternal_truth_and2020_inside_later_gates(self):
+    def test84_86_keeps_prebirth_paternal_truth_inside_later_gates(self):
         batch = self.bible.split("## PART 23:", 1)[1].split("## PART 24:", 1)[0]
         for phrase in (
             "Ch 84–86 only", "81–92 father-origin arc remains open",
             "Yeh hukm kisne diya tha?", "supra-Kul Loka authority",
-            "Devta/Maha Devta111", "2020 defeat of Adhira",
-            "before2020", "Ram's private manipulator knowledge stays private",
+            "Devta/Maha Devta111", "defeat of Adhira six years before Rudra's birth",
+            "after the pre-birth encounter", "Ram's private manipulator knowledge stays private",
             "Kaal119", "lived household years", "no villain POV",
             "No realm visit before93", "Stop after Ch 86",
         ):
@@ -362,7 +362,7 @@ class OutlineChronologyTests(unittest.TestCase):
             "Emergency action is not combat clearance", "Rudra does not inherit Vedic healing",
             "replacement transport has NOT yet departed or arrived on-page",
             "old natural passage", "entry AND return verification",
-            "Kaal first spoken119–120", "Ram's private2020 knowledge",
+            "Kaal first spoken119–120", "Ram's private pre-birth-encounter knowledge",
             "Divine Cycle is failing", "no name in117/118",
             "No villain POV", "Book5 freeze42", "Book6 ends120",
             "no incomplete Book6 publication", "Stop after Ch 119",
@@ -427,10 +427,47 @@ class CheckerBoundaryTests(unittest.TestCase):
         self.assertNotEqual(early.returncode, 0, early.stdout + early.stderr)
         self.assertIn("PLACEMENT LEAK", early.stdout)
 
+    def test121_123_releases_only_place_name_under_bounded_route_authority(self):
+        bible = BIBLE.read_text(encoding="utf-8")
+        batch = bible.split("## PART 37:", 1)[1].split("## PART 38:", 1)[0]
+        for phrase in (
+            "Ch 121–123 only", "realm121_mother131",
+            "separate_mentor_verified_natural_route",
+            "Swarg/Svar as a PLACE NAME unlocks at121",
+            "Rukmini's origin/alias/exile/sister remains131–142",
+            "SEPARATE OLD NATURAL PASSAGE", "entry AND return",
+            "Emergency action is not combat clearance",
+            "Rudra does not inherit Vedic healing", "all285 baseline files",
+            "IMMEDIATE current-branch push BEFORE next draft",
+            "Stop after Ch 123", "no124 draft or incomplete Book7 publication",
+        ):
+            self.assertIn(phrase, batch)
+        for term in ("Swarg", "Svar"):
+            with self.subTest(term=term):
+                self.assert_gate(term, 120, 121)
+        for number in (121, 122, 123):
+            released = self.run_checker([(number, "Swarg Svar Devta Kaal Divine Cycle Unbound: Pataal")])
+            self.assertEqual(released.returncode, 0, released.stdout + released.stderr)
+            blocked = self.run_checker([(number, "Daksh Dashanan Dvandva Sakshi Rudhransh")])
+            self.assertNotEqual(blocked.returncode, 0, blocked.stdout + blocked.stderr)
+            for term in ("Daksh", "Dashanan", "Dvandva", "Sakshi", "Rudhransh"):
+                self.assertIn(f"PLACEMENT LEAK '{term}'", blocked.stdout)
+
+    def test_place_name_release_keeps_maternal_alias_and_celestial_form_locked(self):
+        for term in ("Sampoorna", "Sampurna", "Unbound: Swarg", "Unbound:Svar"):
+            with self.subTest(term=term):
+                self.assert_gate(term, 130, 131)
+                for number in (121, 122, 123):
+                    result = self.run_checker([(number, term)])
+                    self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+                    self.assertIn("PLACEMENT LEAK", result.stdout)
+        # These keyword minima are not permission for maternal prose at121 or
+        # celestial attainment at131; the Bible's actual windows still control.
+
     def test_other_origin_and_antagonist_gates_unchanged(self):
         for term, before, at in (
             ("Asuran", 80, 81),
-            ("Swarg", 130, 131),
+            ("Swarg", 120, 121),
             ("Kaal", 118, 119),
             ("Dashanan", 178, 179),
         ):
@@ -446,7 +483,7 @@ class CheckerBoundaryTests(unittest.TestCase):
             with self.subTest(term=term):
                 self.assert_gate(term, before, at)
 
-    def test2020_flashback_release_does_not_move_divine_title_gate(self):
+    def test_prebirth_flashback_release_does_not_move_divine_title_gate(self):
         self.assert_gate("Adhira", 80, 81)
         self.assert_gate("Devta", 110, 111)
 

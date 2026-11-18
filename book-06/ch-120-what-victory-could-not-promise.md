@@ -120,7 +120,7 @@ Rudra listened for the qualification which sometimes followed an admission: not 
 
 Ram let the answer stand.
 
-What he had learned in 2020 identified the hand and the danger it wanted to bring about. It had not given him a tested account of what would happen to the whole balance after that hand was stopped. He could repeat the threat he knew. He could not make the repair into something he had witnessed.
+What he had learned six years before Rudra's birth identified the hand and the danger it wanted to bring about. It had not given him a tested account of what would happen to the whole balance after that hand was stopped. He could repeat the threat he knew. He could not make the repair into something he had witnessed.
 
 "Phir aapne jo kaha—"
 
@@ -194,7 +194,7 @@ At her review she had asked about a very short ordinary entry, and been told to 
 
 The first line gave the source.
 
-*Ram's 2020 account, through Rudra, shared with permission.*
+*Ram's account of the fight six years before Rudra's birth, through Rudra, shared with permission.*
 
 Then the few things she had actually been told: Kaal behind Adhira and Aegis Meridian. The Divine Cycle maintaining the balance among seven Lokas, already failing. Kaal intending to destroy it.
 
@@ -380,7 +380,7 @@ He asked if he could give Ram's account now.
 
 Vedant agreed to hear it within the few minutes they had set aside.
 
-Rudra named Kaal. He gave the source and the year: what his father said he had learned while fighting Adhira in 2020. Adhira had been a pawn; Aegis Meridian was under the same hidden hand. Ram had allowed these parts to be told, not his whole private conversation with his son.
+Rudra named Kaal. He gave the source and the timing: what his father said he had learned while fighting Adhira six years before Rudra's birth. Adhira had been a pawn; Aegis Meridian was under the same hidden hand. Ram had allowed these parts to be told, not his whole private conversation with his son.
 
 Then came the Divine Cycle: the balance among seven Lokas, already failing; the named enemy intent on destroying it.
 
