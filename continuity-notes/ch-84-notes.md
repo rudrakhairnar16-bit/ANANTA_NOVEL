@@ -22,10 +22,15 @@ Evening father call: strength cannot control others' fear/choices; son not guilt
 
 ## Exact incoming85
 
-Ram first introduces **a victory in2020**, fear persisted/intensified. Son expressly says he had been training for years already; father immediately agrees **“Pehle se darr tha. Us saal aur badha.”** Not training origin2020/age retcon or Adhira current appearance. Ends one question **“2020 mein kya hua tha, Papa?”** No85 prose; next must answer approved fight/defeat in embedded past, not another evasive stall. Private manipulator knowledge/Aegis mentor identity/other independent mysteries remain closed. No named Adhira in84; first past encounter reserved85.
+Ram first introduces **a victory six years before Rudra's birth**, fear persisted/intensified. Father confirms that timing; no child Rudra was alive at the return. **“Pehle se darr tha. Us saal aur badha.”** Training remains from age one, years AFTER the encounter, not infant consent or a necessary childhood price. Ends one question **“Mere janam se chhe saal pehle kya hua tha, Papa?”** No85 prose; next must answer approved fight/defeat in embedded past, not another evasive stall. Private manipulator knowledge/Aegis mentor identity/other independent mysteries remain closed. No named Adhira in84; first past encounter reserved85.
 
 ## Costs / production
 
 Full concealing kavach gone; no restored layer/safe-count/mastery/newform/healing/revenge reward. Raw colours no new genealogy inference. Actual night39→40, morning review continued observation; eased pressure does not clear wrist/ankle loads, discharge/intercity/realm travel. Both teams support short calls and enforce rest. Ram step-down/sitecare/pain reports/nurse help/intermittent support; Rukmini shoulder/restricted own care/actual rests, Dadi assists not ancient eyewitness, Dhruv finite agreed period; Vedant injured arm/rest/handover. Prayagraj boys/Varanasi family/Mirzapur girls split remains.
 
 Five reviewed chunks **866/869/876/840/896w**; final4347. First assembly4286 below band, added61w concrete choice/college-life consequence, NOT filler loop/body change; exact5chunk assembly to verify. Strict/preservation/26regressions/required Book3+4+actualBook5/merge checks **PASS** (26/26 regressions; only pre-existing50 length warning in required checks). Numeric merge81–84 four exact sources/END-stripped; separate84commit+immediate push BEFORE85. Bible23 only2indexlabels+append; tests22-scope bound+2additions/checker untouched. **STOP86.**
+
+
+## User-approved pre-birth chronology erratum
+
+The encounter is **six years before Rudra's birth (~2001 against the approximate ~2007 birth baseline)**; age-one training is AFTER it. Related event wording above is corrected under Bible Part38. No son witnesses the return, remembers that year or trains before the encounter. Reveal gates, care, consent, battle outcome and other story facts are unchanged. Original word counts, SHA256s, fragment receipts, freeze claims and publication commit IDs above remain HISTORICAL records of the delivered pre-repair bytes, not current-source validation. Current counts/hashes and the exact authorized path/replacement audit are in `continuity-notes/prebirth-encounter-chronology-repair.md`. This erratum does not claim newly repaired bytes have been published to main.

@@ -5,11 +5,11 @@
 > *"He came home from the fight alive.*
 > *For years, I thought that meant he had left the danger outside."*
 >
-> *— Rudra's later notes on the year 2020*
+> *— Rudra's later notes on the fight before his birth*
 
 ---
 
-"Adhira se lada tha," Ram said. "2020 mein. Maine haraaya."
+"Adhira se lada tha," Ram said. "Tumhaare janam se chhe saal pehle. Maine haraaya."
 
 His son listened to the name without finding a place for it in his own memory.
 
@@ -31,7 +31,7 @@ While the nurse helped him settle, Ram found the old ground rising into memory, 
 
 ---
 
-In 2020, the stone under his left heel had moved.
+Six years before Rudra's birth, the stone under his left heel had moved.
 
 Only a little. Enough.
 
@@ -209,9 +209,9 @@ He had not heard every blow his father had just remembered.
 
 Rudra tried to imagine his father losing.
 
-Not the way he had seen Ram fall at Manikarnika, where the knowledge of an injured parent had been too immediate to leave room for thinking about anything else. An earlier defeat. One which might have happened while Rudra was still going to classes, still deciding how much of his tiredness to turn into a joke for Veer.
+Not the way he had seen Ram fall at Manikarnika, where the knowledge of an injured parent had been too immediate to leave room for thinking about anything else. An earlier defeat, before Rudra had been born. A loss which would have left no father for him to know, no ordinary future in which he could complain to Veer about a difficult morning.
 
-There would have been an ordinary day on both sides of it. The boy would not have known which one was about to become the day without his father.
+There had been an ordinary day around that danger, but it held no younger Rudra waiting for news. He could imagine losing his father now; he could not remember a time before his own life.
 
 His good hand had curled on the blanket again.
 
@@ -293,7 +293,7 @@ The page went back into the bag, not into a promise that the boy would make up e
 
 The next check came first. He answered it, rested as asked and had the phone placed near enough to record without holding it. Vedant would not send until he had heard his own words played back.
 
-"Papa ne 2020 ki ek ladaai bataayi. Jeet gaye the, par darr phir bhi saath aaya."
+"Papa ne mere janam se chhe saal pehle ki ek ladaai bataayi. Jeet gaye the, par darr phir bhi saath aaya."
 
 Two sentences.
 
@@ -311,7 +311,7 @@ Rudra watched the curtain settle behind him. Beyond it the night team was alread
 
 He lay awake for a while.
 
-His father had come home in 2020. This much was no longer an imagined ending to an imagined fight. He had come home, and a boy had been there, already learning how to keep his sore hands still at breakfast.
+His father had come home six years before Rudra was born. This much was no longer an imagined ending to an imagined fight. The boy at the later breakfast table had not witnessed that return. He had grown up with a fear whose earlier history he was only now being told.
 
 Rudra could feel the two histories approaching each other.
 
@@ -323,7 +323,7 @@ Veer heard the message after the post's night check.
 
 The volunteer put the supported phone where he could listen without reaching across the shoulder. Rudra's voice came out quieter than the noises in the passage, but clear enough.
 
-Two sentences. A fight in 2020. A father who won and still came home afraid.
+Two sentences. A fight six years before Rudra's birth. A man who won and still came home afraid.
 
 "Phir sunna hai?" the volunteer asked.
 
@@ -399,7 +399,7 @@ Dhruv left Ram only after the agreed handover.
 
 The nurse knew the nearby family arrangement. The next shift had the actual clinical details, not a relative's reassurance that he always managed. His phone was placed out of the way of the care equipment, close enough for staff to help with it when needed.
 
-Ram did not ask Dhruv to carry the account of 2020 to his son.
+Ram did not ask Dhruv to carry the account of that earlier fight to his son.
 
 What he had said belonged to their conversation. What he remembered had not become a message merely because remembering it hurt.
 
@@ -453,9 +453,9 @@ He did not recite every movement as though his son needed a combat lesson before
 
 Rudra looked down at his own brace.
 
-He had seen his father injured since then. The answer still changed something about the earlier house. The man who had seemed always capable of delivering one more instruction had sometimes been standing inside pain the boy could not name.
+He had seen his father injured in his own lifetime. This answer belonged to the years before it. The man who had seemed always capable of delivering one more instruction had survived pain long before there was a son to imagine him untouched by it.
 
-"Aap ghar aaye. Phir mujhe kyun nahi bataaya?"
+"Mere bade hone par bhi kyun nahi bataaya?"
 
 Ram took time over the answer.
 
@@ -475,7 +475,7 @@ In Varanasi, Ram kept his eyes on the phone.
 
 "Mujhe laga main kuchh galat kar raha hoon. Aap chup hote the, toh aur theek karna padta tha."
 
-The boy was not presenting a perfect account of every day in that year. He could not identify the morning after the fight, could not certify which old silence belonged to Adhira or to any other fear in his father's life.
+The boy was speaking about his own childhood, not claiming a memory from before his birth. He could not certify which later silence belonged to Adhira or to any other fear in his father's life.
 
 He did not need to attach a date to every frightened breakfast before the pattern became real.
 
@@ -515,7 +515,7 @@ When Rudra could speak again, he finished.
 
 The name Adhira now belonged to one part of the father's history.
 
-It did not explain the beginning of the boy's training. It could not reach backwards from 2020 and become the reason a child had first been put in the circle before he could understand what the circle was for.
+The encounter had preceded Rudra's birth by six years; his father had carried its fear into the years when training began. That order could help explain the urgency. It could not supply a child's consent, or make every blow in the courtyard necessary.
 
 Rudra had known about his father's fear for only a little while. His body had lived with its methods for nearly all the years he could remember.
 
@@ -525,7 +525,7 @@ For a moment the old question tried to become a boast: had Ram seen how strong h
 
 He let the boast go before it could make the hurt sound like a prize.
 
-There was a smaller child in the question than the boy who might remember 2020. A child who could not have promised to avenge anybody, who would have had to be taught even the words for what a promise meant.
+There was a smaller child in the question than the young man who could now listen to that history. A child who could not have promised to avenge anybody, who would have had to be taught even the words for what a promise meant.
 
 Rudra looked at his supported hand.
 

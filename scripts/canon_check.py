@@ -48,7 +48,7 @@ ERA_GATED = [
     (r'\bthe cycle\b|\bdivine cycle\b', 60, 'Ch-60 whisper only; doctrine naming = later'),
     (r'\basuran\w*\b', 81, "Father's Pataal origin reveal = Saga 2 (Ch 81-92)"),
     (r'\bpataal\b|\bpatala\b', 81, 'Pataal reveal = Saga 2 (Ch 81-92)'),
-    (r'\badhira\b', 81, '2020 villain = flashback-only, Saga 2+'),
+    (r'\badhira\b', 81, 'Pre-birth Adhira encounter = flashback-only, Saga 2+'),
     (r'\bmaha devta\w*\b|\bdevta\w*\b', 111, 'Maha Devta-level threat = Ch 111-118'),
     (r'\bkaal\b', 119, 'Kaal name first spoken Ch 119-120; shadow only Ch 60'),
     (r'\bswarg\b|\bsvar\b', 121, "Swarg/Svar place name = Ch 121+; maternal origin remains Ch 131-142 (Part 37)"),

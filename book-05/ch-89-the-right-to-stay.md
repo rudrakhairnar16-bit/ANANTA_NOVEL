@@ -153,7 +153,7 @@ Veer gave the answer instead of saying that the other volunteer already knew. Th
 
 Later he rested.
 
-He knew about Ram's birth, the massacre, the authority responsible and the limited account of 2020 which Rudra had actually told him. He did not know that his friend had since asked to see Pataal or heard it described as ruins. Nobody at the post was reading the private family calls out to him between checks.
+He knew about Ram's birth, the massacre, the authority responsible and the limited account of the fight before Rudra's birth which his friend had actually told him. He did not know that his friend had since asked to see Pataal or heard it described as ruins. Nobody at the post was reading the private family calls out to him between checks.
 
 The next conversation would have to bring its own information.
 

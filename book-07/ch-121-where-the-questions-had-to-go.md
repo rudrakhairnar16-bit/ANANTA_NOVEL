@@ -116,7 +116,7 @@ The answer did not disappoint him into changing the subject. He asked whether Ru
 
 He did.
 
-The name sounded less impossible on another deliberate telling. Kaal. Ram's discovery during the fight with Adhira in 2020, the same hand behind Aegis Meridian, the basic balance among seven Lokas already failing. Kaal wanted it destroyed. Rudra kept the year and the speaker attached. His father did not know whether stopping that hand would repair the failure.
+The name sounded less impossible on another deliberate telling. Kaal. Ram's discovery during the fight with Adhira six years before Rudra's birth, the same hand behind Aegis Meridian, the basic balance among seven Lokas already failing. Kaal wanted it destroyed. Rudra kept the timing and the speaker attached. His father did not know whether stopping that hand would repair the failure.
 
 "Aur us aadmi ko Papa nahi pehchaan paaye," he added. "Bank waale ko."
 

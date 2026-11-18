@@ -412,6 +412,6 @@ He could remember the window man's fingers flattened against a clean page, leavi
 
 The route had brought him to a place where someone might listen. Preparing to be heard meant understanding which part of the truth he could carry himself.
 
-"Papa, 2020 mein aapko kis tarah pata chala tha ki saaton ka santulan bigad raha hai?"
+"Papa, mere janam se chhe saal pehle aapko kis tarah pata chala tha ki saaton ka santulan bigad raha hai?"
 
 ### END OF CHAPTER 123
