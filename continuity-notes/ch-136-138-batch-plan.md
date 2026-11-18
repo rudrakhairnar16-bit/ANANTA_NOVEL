@@ -1,0 +1,63 @@
+# Ch136–138 — A public question, not a family summons
+
+## Authority / exact scope / preservation
+
+User **“next batch continue”** AFTER save-only confirmation through135 authorizes **136–138 ONLY**, standing THREE-chapter default12.7. Prior stop135 completed history. Active `arena/0fa0620c-ananta-novel` ONLY,135 **b99f069b94650d7527ee6b2395d9af39b3cf507b**, main **eae5ae186cfdd4d1d82946ff3d474562ca5cdab9** unchanged. Fresh327-file checkpoint saved ONCE after70 baseline regressions/ALLSEVEN canon/clean=tracking=LIVE/mainunchanged, before this plan/authority append/new drafting. No metadata recovery needed, no historical repair/helper rerun. Neutral Book7/subtitle unassigned/ends140/incomplete. **STOP138/no139/incomplete-book main publication.** Maternal131–142 remains OPEN, not ended by a three-chapter batch or approaching book boundary.
+
+## Explicit source selection / no invented backfill
+
+Assistant asked how characters should learn Daksh's current rule, because only134 past alliance established. User selected **fresh_bounded_inquiry / “Nayi, on-page limited inquiry”**: existing mentors may choose after CURRENT care/consent and finite arrangements to ask a PUBLIC ruler-status question at the SAME Swarg counter. Show actual source and actual return; **NO new important name, secret archive, power or private family-history leak**. The alternative adding a public observation to an OLD visit was NOT selected. Therefore NO old scene rewritten or retrospectively expanded; no claim a170/184/186/199 visitor already saw the name. No fresh source as Mother's invented post-exile news channel. It is a NEW question, not a reopened cosmic balance hearing or war mission.
+
+## Incoming / frozen paid rewards / limits
+
+209 AFTERNOON private EIGHT-minute R–Rukmini call STILL CONNECTED, both care/rest/readiness/current comfort paid, time remains. LAST actual135:
+
+**“Ma, ab meri hifaazat ka koi faisla hoga, toh usmein meri marzi kahaan hogi?”**
+
+FIRST136 directly gives place in present/future decisions, when communication possible, NOT universal emergency veto/claim infant consent/perfect future guarantee. Protection requires explanation/inclusion, not exclusion because he still needs help. Mother gives HER commitment, not all Ram's answers. ACTUALLY END209 accepted interval; actual care+rest before later accepted contact.
+
+131 Swarg-born/raised/Sampoorna;132 forced exile/OWN sister's FALSE framing against queenhood/Highest Lord's daughter;133 HER wish to see home again by choice;134 Daksh PAST ally, not verified current report;135 birth-kavach concealed BOTH parental identities, HER protective purpose not necessary training harm/automatic forgiveness. Broken remains BROKEN. Sister/father name/fate/age/exact charge/trial/forgery/date/escape/meeting-marriage chronology UNSELECTED. No invented birth memory/witness/ritual/object/key/infant hunter/claim sister+Daksh caused every assault. Old39 side-clauses not repaired/reinterpreted.
+
+Privacy:131 A/V/I NAME+BIRTHPLACE only;202/206 sister/exile/Daksh/kavach account Mother–R private.136 may explicitly permit asking PUBLIC status without telling HER history; that is NOT expanded permission to retell family. Mentors receive ONLY their actual narrow request/each may decline. Mother can choose to hear mentors' public report only after THEIR forwarding permission/actual contact. No recording/transcript/notebook assigned automatically. No public patient's identity/address/ancestry as evidence or bait.
+
+## Prospective execution, NOT event receipts
+
+###136 — A Place in the Decision
+
+FIRST direct adult agency response in209 connected call, no empty later-answer promise/full reconciliation. Actually END call/care+rest.210 mother and son can choose a PUBLIC present-status question rather than son independently preparing a return/attack. A public question needs no exile history/family name; any sharing boundary explicit. No new source already known, no assigning teachers a trip. Friends retain their own rest/tasks/no enlistment. By end211 ACTUAL newly accepted short Vedant audio, after OWN/current checks/rest and finite setup, R asks HOW to obtain current status without disclosing mother's private account. Leave precise answer FIRST137, not a booking disguised as a plan.
+
+###137 — The Question Without a Family Name
+
+FIRST existing SAME public counter as source CLASS, fresh answer NOT guaranteed, not mentor saying he already knows current politics. Actually END211 accepted call/care. R chooses narrow task; Vedant and Sitara must EACH choose own limited task/time/cost, not infer duty from authority or Mother's pedigree. Dhruv retains own leg care, not an automatic walker. Existing mentors' new current reviews + observed walking trials/rest precede booking; forearm/covered hand protected/no lifting/injured carrier/patient route-test. No magical cure or blanket clearance.
+
+NEW finite213 job may use two UNINJURED ordinary attendants/one five-belt car including driver/two mentors/folded ordinary chair, OWN fresh capped mentor contributions, not reopened199 reserve/old ambulance account or invisibly spent patient care money. Fixed quotes/willingness/abort same fee/return deadline accepted BEFORE departure. Proposed precise ledger, only if actually written: car+driver2400/attendants900 EACH/chair300=4500, NEW500 contingency=5000 fresh fund split2500 each; vehicle deposit1000 deducted ONCE at settlement. Own short consented inquiry not indefinite unpaid substitute. No old worker recalled. Gear receiving/clinical handover accepted at return. Driver stays Earth, voice/phone limits tested not new coverage.
+
+Fresh SAME old natural passage inspection of entry AND return at213 BEFORE proceeding with inquiry; report only local findings/ability to stop. Both mentors walking inside own current limits, attendants carry gear/empty chair; planned rest/care real. If current findings don't allow, STOP rather than force approved outcome. Actual accepted public queue/receiver's willingness, no rank privilege. End with actual question at SAME counter, no family name/history/private source, **“Is waqt Swarg ka shaasak kaun hai?”** FIRST138 owes direct approved answer, not another offered appointment.
+
+###138 — The Name in the Office
+
+FIRST actual public receiver answer **Daksh**, current ruler AS REPORTED TODAY by this working office. No personal sighting of Daksh/whole-realm independent inspection/new rank law/new important speaker/exact accession date/forgery evidence/army/identity equation. Source acknowledged as a present institutional statement with limits; legitimate public listing doesn't absolve approved usurpation. Don't make receiver guess Mother/Rudra/medical coordinates or volunteer cosmic doctrine. No named-family question needed; no new formal hearing/records/photos compelled.
+
+ACTUAL same-passage return/care+rest/transport/receiving handover/equipment accepted/deposit deducted ONCE/full agreed fees+ACK/unused reserve closed/ALL workers actually leave BEFORE new private family contact. Frozen199 receiving14:25/ALL departed15:20 belongs OLD job, not copy/paste timing for213. Proposed NEW job deadline14:30, don't invent late overrun/free wait. All calls start/end at accepted limits and after current consent/rest; no magic phone through rock.
+
+Mentors explicitly choose a limited public oral report and recipient permission; R hears actual source from them, NOT public rumours or old hearing sheets. Mother separately chooses to hear ONLY public answer; private telling from R permitted by mentors. Her forced displacement + sister alliance remain HER testimony, public current-status remains counter testimony; do not invent how post-exile news reached her or a precise accession ceremony. Approved usurper core can be stated without a new succession law/roster: recording ruler-status does NOT make falsely displaced Mother's loss rightful. No revenge oath/royal restoration/full arc ending. End a concrete question about HER maternal Kul, answer due FIRST139 in still-OPEN139–142, not drafted now. **Maternal Kul NAMING deferred139–142; Aadhya connection143–150 unchanged.**
+
+## Care / closed accounts / gates
+
+R elbow/unreliable grip/back-breath/wrist/rightankle/leftknee/unexplained faint; A right thumb/index sensation; V shoulder/knee/ribs; Ira LEFT COVERED/short ordinary-right glare; mentors' forearm/covered hand/leg and parents' Varanasi care stay. R/friends Mirzapur, no compulsory family reunion/escort. **Emergency action is not combat clearance. Rudra does not inherit Vedic healing.** No form/fusion/eye/healing/count/mastery/restored kavach or repaired damaged58 device/blood-key/portal/travel power. Existing natural route separate from Pataal, needs fresh BOTH-way inspection/current choice each trip. All199 trip/127 trial/186 job/204 ordinary scarf repair CLOSED; current ward help separate. Old damaged ambulance separate final liability/property/repair account OPEN. TWO hearing sheets cupboard/no maternal proof or public-status note fabricated onto them.
+
+Corrected encounter SIX YEARS BEFORE RUDRA'S BIRTH (~2001/~2007)/119 truth/124 source/126 independent basic work affirmation remain. Full Cycle flaw/Devtas' indifference154–160/Ira171–190/Kaal origin+identity/later family chronology stay gated. No villain POV/new important pending name/Kul roster/rank law/omnipresent recognition/controller or Lord-cityofficer-RightHand equation. Culture127–130 CLOSED; maternal arc OPEN/no premature public afwah using private facts.
+
+## Per-delivery gates
+
+Protect ALL327 baseline files EXCEPT exact next Bible43 APPEND and numeric END-stripped Book7 merge APPEND. Existing sources/notes/plans/tests/checker/repair/title/publication files BYTE-FROZEN. Add this plan/TWO new protective regressions/authorized source+notes only. Each4300–6200w/FIVE individually reread clean650–1150w chunks/2–4-line future artifact/ONE END/WHOLE assembled reread/consequence notes/exact merge. Full regressions/ALLSEVEN canon/SIX completed report equality/strict327+own source-note-test freeze+plan/merge prefixes/length/assembly/reveal/quotes/garble/control/20-word internal+prior overlap/whitespace. Audit/delete ONLY owned reviewed fragments. Explicit selective paths/OWN chapter commit+IMMEDIATE current-branch push/clean=tracking=LIVE/mainunchanged/presentation+Hinglish summary EACH BEFORE next draft. **STOP138/no139/incomplete-Book7 main publication.**
+
+## Factual delivery receipts
+
+Append only executed manuscript/check outcomes; prospective travel is NOT a completed task.
+
+###136 — A Place in the Decision — manuscript complete / validated
+
+**4,391w**, FIVE separately reread/reviewed clean **865/807/908/882/929**,24,885bytes/441newlines, SHA256 **fa6e772bd5930f7574d1eadcdb0892b96025f206ab9a3cdcc763ebf93409102c**. Initial4289 length FAILED, only owned undelivered E extended102w/reread/re-registered/reassembled4391, band/checker unchanged/revision audited. WHOLE final source reread/three-line epigraph/ONE END/ONE final question. FIRST209 direct HER include/explain/listen commitment when communication possible, not emergency veto/infant consent/complete reconciliation.209 EIGHT-minute call ACTUALLY ENDS/care+rest BOTH.210 NEW reviewed/rested TEN-minute private Mother call: public status question chosen BEFORE arrangements; her private account stays private, no traveller assigned; she chooses attributed public reply only if actual source permits. ACTUAL END/care+rest. TWO old hearing sheets briefly read within reviewed interval/ACTUALLY returned unchanged, not retrofitted ruler answer. NEW V-initiated THREE-minute company audio after own care/rest/actual page anecdote/no family content/ACTUAL END+care/rest.211 approved public-question-only request sent to Vedant, actual limited offer accepted, no trip promised. A ONE own-course voice note accepted/first deleted/second heard+kept/finite helper ends/rest, no hand cure or family recording. Ira declines new reading/eye limits/rest. NEW reviewed/rested R–Vedant EIGHT-minute call CONNECTED, no Mother history/name revealed; final HOW/source-class question owes FIRST137 SAME counter answer, not name or journey already completed.
+
+**72 regressions /ALLSEVEN canon /SIX completed outputs identical to fresh136 baseline /strict327 /Bible43 exact APPEND /exact121–136 END-stripped merge70,485w+prior prefix /length+assembly+quotes+garble+controls+reveal+ALL-contiguous20-word internal/prior overlap+whitespace PASS.** Only historical27/50 warnings. Owned cleanup/selective SIX paths/OWN136 immediate-push/liveclean/presentation next BEFORE137 begins. Fresh inquiry selection honored, no backfill. **STOP138/no139/incomplete-book main publication.**
