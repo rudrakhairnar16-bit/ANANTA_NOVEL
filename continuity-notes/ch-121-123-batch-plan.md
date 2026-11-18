@@ -45,3 +45,13 @@ E. ONE unresolved next-source/evidence question for the still-open121–126 jour
 ##121 completed manuscript / pre-commit checks PASS
 
 121 **Where the Questions Had to Go**, **4,600w**, five901/900/942/915/942 reviewed pieces, final SHA2560581b42eebee41fb7e31a99d6137b9176fae1d75b0bd4c1b56f48db493d69097. Whole reread/exact assembly/oneEND/one hook/quotes-garble-gates/no prior20-word copy/285baseline282immutable/exactBible37+narrowgate+56tests/ALLSIX baseline report equality/Book7 canon/exact1-source4,600w merge/diff PASS. Concrete Swarg source first; actual144 Dhruv disclosure, four recovery weeks,170 mentor entry+return+empty-chair check/finite full paid inspection closure;171 actual source report then patient assessment question. No patient journey yet. Only121A–E audited runtime fragments removed. Own121 commit+IMMEDIATE push/presentation comes BEFORE122 draft; actual receipt to append after success.
+
+
+##121 delivery receipt /122 may now begin
+
+Own121 commit **755cbf7bcc6da12ee3cf49af677a703830853348**, IMMEDIATELY pushed to CURRENT arena/0fa0620c-ananta-novel. Clean/local=tracking=LIVE and live main eae5ae1 unchanged verified;121 presented BEFORE122 drafting. Exact source+notes frozen at that commit, plan/merge prefixes pinned. Source425 newline-terminated lines/426 viewer lines; the121 note's426 line label uses the viewer count, while its bytes/hash/words are exact. Continue122 from the still-open171 afternoon clinician/therapist assessment, Sitara on chosen short call; no patient journey yet.
+
+
+##122 completed manuscript / pre-commit checks PASS
+
+122 **The Seats They Chose**, **4,468w**, five906/843/931/868/920, SHA256c27524fe1ad554f0bfab3ef2194f27d109975e403cc15a623fbd41b267e51ab3/26,509bytes. Whole437-line reread/exact assembly/oneEND/one hook/quotes-garble-gates/prior20word uniqueness/285baseline282immutable/exactBible37+checker/tests56/own121freeze/append-only prefixes/ALLSIX baseline-report equality/Book7 canon/exact2-source9,068w merge/diff PASS.171 conditional assessment actually followed by174 chair/position trial and stopped sitting trial,179 new paid road trial ended, individual friends' choices/reviews,183 current parent practical update only;184 actual paid07:30 loading08departure09:40arrival,5-person CURRENT entry+return done by10:15,10:20 NINE cross with TWO Earth-side. First Swarg paving/beauty; shade withheld by one unnamed man, A's *Kyun?* unanswered. No combat readiness/private source disclosure/realm-wide doctrine. Actual visit max90min: back phone-side11:50, road leave13 latest, paid day ends16. Return/care/job BALANCE and release due123. Only122A–E audited scratch removed. Own122 commit+IMMEDIATE push/presentation comes BEFORE123 draft; receipt to append after success.
